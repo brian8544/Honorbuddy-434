@@ -29,13 +29,13 @@ New account?
 
 Screenshots: 
 
-
+![xxx](http://i.imgur.com/4RQgIkU.png)
+![xxx](http://i.imgur.com/uek8bxi.png)
+![xxx](http://i.imgur.com/uek8bxi.png)
 
 
 
 
 --
 
-Click here to download 
-
-Don't forget it's your own responsibility, currently not detected by anti cheat. But player reports ban can be possible. 
+Official thread made by me: http://www.emucoach.com/showthread.php?1921-Working-HonorBuddy-4-3-4
