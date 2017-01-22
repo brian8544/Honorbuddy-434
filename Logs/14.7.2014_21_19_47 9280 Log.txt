@@ -1,0 +1,110 @@
+[21:19:49:091] Logging in...
+[21:19:49:130] Logged into CodeDeception local server
+[21:19:49:715] Attached to WoW with ID 9772
+[21:19:49:782] Honorbuddy v2.0.0.5883 started!
+[21:19:49:783] Using WoW with process ID 9772
+[21:19:49:783] Platform: Microsoft Windows NT 6.1.7600.0
+[21:19:49:783] Executable Path: E:\Upload\CMHonorbuddy434Reloaded\Honorbuddy.exe
+[21:19:49:785] Character is a level 85 Tauren Paladin
+[21:19:49:786] Current zone is Orgrimmar
+[21:19:49:797] New bot added!: ArchaeologyBuddy
+[21:19:50:506] New bot added!: Instancebuddy
+[21:19:50:508] New bot added!: BGBuddy
+[21:19:50:528] New bot added!: Gatherbuddy2
+[21:19:50:530] New bot added!: Grind Bot
+[21:19:50:532] New bot added!: Questing
+[21:19:50:535] New bot added!: Mixed Mode
+[21:19:50:537] New bot added!: PartyBot
+[21:19:52:065] New bot added!: Combat Bot
+[21:19:52:065] New bot added!: ProfessionBuddy
+[21:19:52:074] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[21:19:52:074] KillBetweenHotspots: True
+[21:19:52:074] AdvancedSettingsMode: False
+[21:19:52:074] LogoutForInactivity: True
+[21:19:52:074] LogoutInactivityTimer: 10
+[21:19:52:074] LogoutInactivityUseForceQuit: False
+[21:19:52:074] ProfileDebuggingMode: False
+[21:19:52:074] FoodAmount: 0
+[21:19:52:074] DrinkAmount: 0
+[21:19:52:074] FormLocationX: 816
+[21:19:52:074] FormLocationY: 156
+[21:19:52:074] FormWidth: 396
+[21:19:52:074] FormHeight: 302
+[21:19:52:074] SelectedBotIndex: 2
+[21:19:52:074] UseFlightPaths: False
+[21:19:52:074] FindMountAutomatically: True
+[21:19:52:074] UseRandomMount: True
+[21:19:52:074] FoodName has no value yet!
+[21:19:52:074] DrinkName has no value yet!
+[21:19:52:074] MountName has no value yet!
+[21:19:52:074] FlyingMountName has no value yet!
+[21:19:52:074] LootMobs: True
+[21:19:52:074] SkinMobs: False
+[21:19:52:074] NinjaSkin: False
+[21:19:52:074] LootChests: True
+[21:19:52:074] HarvestMinerals: False
+[21:19:52:074] HarvestHerbs: False
+[21:19:52:074] UseMount: True
+[21:19:52:074] PullDistance: 45
+[21:19:52:074] LootRadius: 45
+[21:19:52:074] FindVendorsAutomatically: False
+[21:19:52:074] TrainNewSkills: False
+[21:19:52:074] LearnFlightPaths: True
+[21:19:52:074] LastUsedPath has no value yet!
+[21:19:52:074] MountDistance: 75
+[21:19:52:074] RessAtSpiritHealers: False
+[21:19:52:074] GroundMountFarmingMode: False
+[21:19:52:074] FoodAmount: 0
+[21:19:52:074] DrinkAmount: 0
+[21:19:52:074] FormLocationX: 816
+[21:19:52:074] FormLocationY: 156
+[21:19:52:074] SelectedBotIndex: 2
+[21:19:52:074] UseFlightPaths: False
+[21:19:52:074] FindMountAutomatically: True
+[21:19:52:074] UseRandomMount: True
+[21:19:52:074] FoodName has no value yet!
+[21:19:52:074] DrinkName has no value yet!
+[21:19:52:074] MountName has no value yet!
+[21:19:52:074] LootMobs: True
+[21:19:52:074] SkinMobs: False
+[21:19:52:074] NinjaSkin: False
+[21:19:52:074] LootChests: True
+[21:19:52:074] HarvestMinerals: False
+[21:19:52:074] HarvestHerbs: False
+[21:19:52:074] UseMount: True
+[21:19:52:074] PullDistance: 45
+[21:19:52:074] LootRadius: 45
+[21:19:52:074] FindVendorsAutomatically: False
+[21:19:52:074] TrainNewSkills: False
+[21:19:52:074] LearnFlightPaths: True
+[21:19:52:074] LastUsedPath has no value yet!
+[21:19:52:074] MountDistance: 75
+[21:19:52:074] RessAtSpiritHealers: False
+[21:19:52:075] Please wait a few seconds while Honorbuddy initializes.
+[21:19:52:075] Activity: Initializing.
+[21:19:52:076] Activity: Loading memory management & tables
+[21:19:52:091] Activity: Loading Spells
+[21:19:52:125] Activity: Initializing Spell Manager
+[21:19:52:138] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[21:19:52:138] V: 2.0.0.5883
+[21:19:52:152] Activity: Initializing Plugins
+[21:19:52:156] 
+[21:19:53:312] [WeigtSet] Selected weight set: Paladin-Holy
+[21:19:54:414] ItemForAura: Loading config file: E:\Upload\CMHonorbuddy434Reloaded\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[21:19:54:639] Root element is missing.
+[21:19:54:639] ItemForAura: Continuing with Default Config Values
+[21:19:54:640] ItemForAura - Questhelper - Version 2.0 Loaded.
+[21:19:54:640] Root element is missing.
+[21:19:54:640] ItemForAura: Continuing with Default Config Values
+[21:19:55:169] Activity: Initializing Navigator
+[21:19:55:325] Activity: Initializing Blackspot Manager
+[21:19:55:358] Activity: Initializing Battlegrounds
+[21:19:55:359] Activity: Initializing Flight Paths
+[21:19:55:400] Activity: Initializing Routines
+[21:19:55:403] Building spell book
+[21:19:55:406] Spell book built
+[21:19:55:406] Compiling E:\Upload\CMHonorbuddy434Reloaded\CustomClasses\ShamWOW
+[21:19:56:231] Compiling E:\Upload\CMHonorbuddy434Reloaded\CustomClasses\Singular
+[21:19:57:618] Activity: Initialization complete
+[21:19:57:619] Initialization complete.
+[21:19:57:620] Activity: Honorbuddy Startup Complete

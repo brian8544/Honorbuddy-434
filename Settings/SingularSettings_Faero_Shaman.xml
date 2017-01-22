@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShamanSettings>
+  <EarthTotem>None</EarthTotem>
+  <WaterTotem>None</WaterTotem>
+  <AirTotem>None</AirTotem>
+  <CastOn>All</CastOn>
+  <EnhancementHeal>True</EnhancementHeal>
+  <IncludeAoeRotation>True</IncludeAoeRotation>
+  <ElementalHeal>True</ElementalHeal>
+</ShamanSettings>

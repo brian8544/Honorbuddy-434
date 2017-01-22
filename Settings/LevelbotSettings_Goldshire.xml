@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelbotSettings>
+  <GroundMountFarmingMode>False</GroundMountFarmingMode>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <FormLocationX>2848</FormLocationX>
+  <FormLocationY>185</FormLocationY>
+  <SelectedBotIndex>9</SelectedBotIndex>
+  <UseFlightPaths>False</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>True</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName></FoodName>
+  <DrinkName></DrinkName>
+  <MountName></MountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>True</UseMount>
+  <PullDistance>45</PullDistance>
+  <LootRadius>45</LootRadius>
+  <FindVendorsAutomatically>False</FindVendorsAutomatically>
+  <TrainNewSkills>False</TrainNewSkills>
+  <LearnFlightPaths>True</LearnFlightPaths>
+  <LastUsedPath>C:\Users\Shadow\Desktop\HonorBuddy\Default Profiles\1-85 Questing Profile Pack\Classic\[A - Quest] 1-58 [Kick]\[A - Quest] 1-12 [Kick]\[A - Quest] Human 1-5 [Kick].xml</LastUsedPath>
+  <MountDistance>75</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</LevelbotSettings>

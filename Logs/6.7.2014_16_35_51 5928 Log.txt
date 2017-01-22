@@ -1,0 +1,10 @@
+[16:35:53:026] Logging in...
+[16:35:59:711] Authentication failed!
+[16:36:04:399] Logging in...
+[16:36:04:502] Logged into CodeDeception local server
+[16:36:04:512] -------------------------------
+[16:36:04:513] You have not selected a valid instance of WoW to attach to!
+[16:36:04:513] Please restart Honorbuddy and choose a valid instance of WoW to use Honorbuddy with!
+[16:36:04:513] This version of Honorbuddy only supports WoW Build #15595
+[16:36:04:513] You are currently on build #0
+[16:36:04:513] -------------------------------

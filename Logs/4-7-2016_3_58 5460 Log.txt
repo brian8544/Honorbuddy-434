@@ -1,0 +1,151 @@
+[3:58:15:592] Logging in...
+[3:58:15:659] Logged into CodeDeception local server
+[3:58:16:347] Attached to WoW with ID 6164
+[3:58:16:434] Mesh folder path does not exist, creating folder at path: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[3:58:16:450] Honorbuddy v2.0.0.5883 started!
+[3:58:16:450] Using WoW with process ID 6164
+[3:58:16:450] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[3:58:16:450] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[3:58:16:454] Character is a level 85 Human Paladin
+[3:58:16:455] Current zone is Darnassus
+[3:58:16:473] New bot added!: ArchaeologyBuddy
+[3:58:16:656] New bot added!: Instancebuddy
+[3:58:16:658] New bot added!: BGBuddy
+[3:58:16:677] New bot added!: Gatherbuddy2
+[3:58:16:680] New bot added!: Grind Bot
+[3:58:16:682] New bot added!: Questing
+[3:58:16:687] New bot added!: Mixed Mode
+[3:58:16:689] New bot added!: PartyBot
+[3:58:20:582] New bot added!: Combat Bot
+[3:58:20:582] New bot added!: ProfessionBuddy
+[3:58:20:620] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[3:58:20:620] KillBetweenHotspots: True
+[3:58:20:620] AdvancedSettingsMode: False
+[3:58:20:620] LogoutForInactivity: True
+[3:58:20:620] LogoutInactivityTimer: 10
+[3:58:20:620] LogoutInactivityUseForceQuit: False
+[3:58:20:620] ProfileDebuggingMode: False
+[3:58:20:620] FoodAmount: 0
+[3:58:20:620] DrinkAmount: 0
+[3:58:20:620] FormLocationX: 816
+[3:58:20:620] FormLocationY: 156
+[3:58:20:620] FormWidth: 396
+[3:58:20:620] FormHeight: 302
+[3:58:20:620] SelectedBotIndex: 2
+[3:58:20:620] UseFlightPaths: False
+[3:58:20:620] FindMountAutomatically: True
+[3:58:20:620] UseRandomMount: True
+[3:58:20:620] FoodName has no value yet!
+[3:58:20:620] DrinkName has no value yet!
+[3:58:20:620] MountName has no value yet!
+[3:58:20:620] FlyingMountName has no value yet!
+[3:58:20:620] LootMobs: True
+[3:58:20:620] SkinMobs: False
+[3:58:20:620] NinjaSkin: False
+[3:58:20:620] LootChests: True
+[3:58:20:620] HarvestMinerals: False
+[3:58:20:620] HarvestHerbs: False
+[3:58:20:620] UseMount: True
+[3:58:20:620] PullDistance: 45
+[3:58:20:620] LootRadius: 45
+[3:58:20:620] FindVendorsAutomatically: False
+[3:58:20:620] TrainNewSkills: False
+[3:58:20:620] LearnFlightPaths: True
+[3:58:20:620] LastUsedPath has no value yet!
+[3:58:20:620] MountDistance: 75
+[3:58:20:620] RessAtSpiritHealers: False
+[3:58:20:620] GroundMountFarmingMode: False
+[3:58:20:620] FoodAmount: 0
+[3:58:20:620] DrinkAmount: 0
+[3:58:20:620] FormLocationX: 816
+[3:58:20:620] FormLocationY: 156
+[3:58:20:620] SelectedBotIndex: 2
+[3:58:20:620] UseFlightPaths: False
+[3:58:20:620] FindMountAutomatically: True
+[3:58:20:620] UseRandomMount: True
+[3:58:20:620] FoodName has no value yet!
+[3:58:20:620] DrinkName has no value yet!
+[3:58:20:620] MountName has no value yet!
+[3:58:20:620] LootMobs: True
+[3:58:20:620] SkinMobs: False
+[3:58:20:620] NinjaSkin: False
+[3:58:20:620] LootChests: True
+[3:58:20:620] HarvestMinerals: False
+[3:58:20:620] HarvestHerbs: False
+[3:58:20:620] UseMount: True
+[3:58:20:620] PullDistance: 45
+[3:58:20:620] LootRadius: 45
+[3:58:20:620] FindVendorsAutomatically: False
+[3:58:20:620] TrainNewSkills: False
+[3:58:20:620] LearnFlightPaths: True
+[3:58:20:620] LastUsedPath has no value yet!
+[3:58:20:620] MountDistance: 75
+[3:58:20:620] RessAtSpiritHealers: False
+[3:58:20:623] Please wait a few seconds while Honorbuddy initializes.
+[3:58:20:625] Activity: Initializing.
+[3:58:20:626] Activity: Loading memory management & tables
+[3:58:20:633] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[3:58:20:634] V: 2.0.0.5883
+[3:58:20:644] Activity: Loading Spells
+[3:58:20:694] Activity: Initializing Spell Manager
+[3:58:20:706] Activity: Initializing Plugins
+[3:58:20:914] 
+[3:58:22:193] [WeigtSet] Selected weight set: Paladin-Holy
+[3:58:23:112] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[3:58:23:153] Root element is missing.
+[3:58:23:153] ItemForAura: Continuing with Default Config Values
+[3:58:23:153] ItemForAura - Questhelper - Version 2.0 Loaded.
+[3:58:23:154] Root element is missing.
+[3:58:23:154] ItemForAura: Continuing with Default Config Values
+[3:58:23:589] Activity: Initializing Navigator
+[3:58:23:669] Activity: Initializing Blackspot Manager
+[3:58:23:672] Activity: Initializing Battlegrounds
+[3:58:23:672] Activity: Initializing Flight Paths
+[3:58:23:686] Activity: Initializing Routines
+[3:58:23:689] Building spell book
+[3:58:23:692] Spell book built
+[3:58:23:693] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[3:58:24:358] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[3:58:25:354] Activity: Initialization complete
+[3:58:25:354] Initialization complete.
+[3:58:25:355] Activity: Honorbuddy Startup Complete
+[3:58:28:229] Chose Singular v2 $Revision: 605 $ as your combat class!
+[3:58:28:230] [Singular] Starting Singular v2.0.0.0
+[3:58:28:230] [Singular] Determining talent spec.
+[3:58:28:318] [Singular-DEBUG] [Talents] Best Tree: 31
+[3:58:28:318] [Singular] Current spec is  Holy Paladin
+[3:58:28:322] [Singular-DEBUG] Creating Combat behavior.
+[3:58:28:326] [Singular] Building method list
+[3:58:28:329] [Singular] Added 377 methods
+[3:58:28:333] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[3:58:28:333] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[3:58:28:347] [Singular-DEBUG] Creating Pull behavior.
+[3:58:28:349] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[3:58:28:349] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[3:58:28:350] [Singular-DEBUG] Creating Rest behavior.
+[3:58:28:352] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[3:58:28:352] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[3:58:28:360] [Singular-DEBUG] Creating CombatBuffs behavior.
+[3:58:28:362] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[3:58:28:362] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[3:58:28:364] [Singular-DEBUG] Creating Heal behavior.
+[3:58:28:367] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[3:58:28:367] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[3:58:28:369] [Singular-DEBUG] Creating PullBuffs behavior.
+[3:58:28:372] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[3:58:28:373] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[3:58:28:373] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[3:58:28:377] [Singular] Behaviors created!
+[3:58:28:389] [Singular-DEBUG] Attached combat log
+[3:58:38:339] Starting the bot!
+[3:58:38:426] Received error code from mesh server when attempting to get tile map for Kalimdor: 
+[3:58:38:429] Failed to get tile map for Kalimdor!
+[3:58:38:442] Tilemap is null!
+[3:58:38:443] System.NullReferenceException: Tilemap is null!
+   at ns32.Class125.SetMap(String name)
+   at Tripper.Navigation.WowNavigator.ChangeMap(String mapName)
+   at Styx.Logic.Profiles.ProfileManager.LoadEmpty()
+   at Bots.BGBuddy.BGBuddy.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[3:58:38:443] Stop called!

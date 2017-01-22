@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LevelbotSettings>
+  <GroundMountFarmingMode>False</GroundMountFarmingMode>
+  <FoodAmount>0</FoodAmount>
+  <DrinkAmount>0</DrinkAmount>
+  <FormLocationX>2193</FormLocationX>
+  <FormLocationY>590</FormLocationY>
+  <SelectedBotIndex>5</SelectedBotIndex>
+  <UseFlightPaths>False</UseFlightPaths>
+  <FindMountAutomatically>True</FindMountAutomatically>
+  <UseRandomMount>True</UseRandomMount>
+  <MailRecipient></MailRecipient>
+  <FoodName>58260</FoodName>
+  <DrinkName>58257</DrinkName>
+  <MountName>swift palomino</MountName>
+  <LootMobs>True</LootMobs>
+  <SkinMobs>False</SkinMobs>
+  <NinjaSkin>False</NinjaSkin>
+  <LootChests>True</LootChests>
+  <HarvestMinerals>False</HarvestMinerals>
+  <HarvestHerbs>False</HarvestHerbs>
+  <UseMount>False</UseMount>
+  <PullDistance>45</PullDistance>
+  <LootRadius>45</LootRadius>
+  <FindVendorsAutomatically>False</FindVendorsAutomatically>
+  <TrainNewSkills>False</TrainNewSkills>
+  <LearnFlightPaths>True</LearnFlightPaths>
+  <LastUsedPath></LastUsedPath>
+  <MountDistance>75</MountDistance>
+  <RessAtSpiritHealers>False</RessAtSpiritHealers>
+</LevelbotSettings>

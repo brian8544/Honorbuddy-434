@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PaladinSettings>
+  <Aura>Auto</Aura>
+  <GoAKHealth>40</GoAKHealth>
+  <ArdentDefenderHealth>40</ArdentDefenderHealth>
+  <DivineProtectionHealthProt>80</DivineProtectionHealthProt>
+  <DivineProtectionHealthRet>70</DivineProtectionHealthRet>
+  <ConsecrationCount>3</ConsecrationCount>
+  <LayOnHandsHealth>30</LayOnHandsHealth>
+  <LightOfDawnHealth>80</LightOfDawnHealth>
+  <LightOfDawnCount>2</LightOfDawnCount>
+  <WordOfGloryHealth>65</WordOfGloryHealth>
+  <HolyShockHealth>90</HolyShockHealth>
+  <FlashOfLightHealth>50</FlashOfLightHealth>
+  <DivineLightHealth>65</DivineLightHealth>
+  <HolyLightHealth>90</HolyLightHealth>
+  <AvengersPullOnly>False</AvengersPullOnly>
+  <DivinePleaMana>50</DivinePleaMana>
+</PaladinSettings>

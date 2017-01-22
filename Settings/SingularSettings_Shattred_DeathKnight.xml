@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DeathKnightSettings>
+  <UseDeathAndDecay>True</UseDeathAndDecay>
+  <DeathAndDecayCount>2</DeathAndDecayCount>
+  <UseIceboundFortitude>True</UseIceboundFortitude>
+  <IceboundFortitudePercent>30</IceboundFortitudePercent>
+  <DeathStrikeEmergencyPercent>30</DeathStrikeEmergencyPercent>
+  <UseLichborne>True</UseLichborne>
+  <UseAntiMagicShell>True</UseAntiMagicShell>
+  <UseArmyOfTheDead>False</UseArmyOfTheDead>
+  <ArmyOfTheDeadPercent>20</ArmyOfTheDeadPercent>
+  <UseBoneShield>True</UseBoneShield>
+  <BoneShieldExclusive>True</BoneShieldExclusive>
+  <UseDancingRuneWeapon>True</UseDancingRuneWeapon>
+  <EmpowerRuneWeaponPercent>30</EmpowerRuneWeaponPercent>
+  <IceboundFortitudeExclusive>True</IceboundFortitudeExclusive>
+  <LichborneExclusive>True</LichborneExclusive>
+  <LichbornePercent>60</LichbornePercent>
+  <UsePetSacrifice>True</UsePetSacrifice>
+  <PetSacrificeExclusive>True</PetSacrificeExclusive>
+  <PetSacrificeSummonPercent>60</PetSacrificeSummonPercent>
+  <PetSacrificePercent>60</PetSacrificePercent>
+  <UseVampiricBlood>True</UseVampiricBlood>
+  <VampiricBloodExclusive>True</VampiricBloodExclusive>
+  <VampiricBloodPercent>60</VampiricBloodPercent>
+  <UsePillarOfFrost>True</UsePillarOfFrost>
+  <UseRaiseDead>True</UseRaiseDead>
+  <UseEmpowerRuneWeapon>True</UseEmpowerRuneWeapon>
+  <UseNecroticStrike>False</UseNecroticStrike>
+  <UseSummonGargoyle>True</UseSummonGargoyle>
+</DeathKnightSettings>

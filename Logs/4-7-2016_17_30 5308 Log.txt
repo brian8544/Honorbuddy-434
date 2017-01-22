@@ -1,0 +1,176 @@
+[17:30:24:972] Logging in...
+[17:30:25:045] Logged into CodeDeception local server
+[17:30:25:476] Attached to WoW with ID 10016
+[17:30:25:532] Honorbuddy v2.0.0.5883 started!
+[17:30:25:532] Using WoW with process ID 10016
+[17:30:25:532] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[17:30:25:532] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[17:30:25:534] Character is a level 70 Orc Mage
+[17:30:25:535] Current zone is Orgrimmar
+[17:30:25:544] New bot added!: ArchaeologyBuddy
+[17:30:25:905] New bot added!: Instancebuddy
+[17:30:25:907] New bot added!: BGBuddy
+[17:30:25:928] New bot added!: Gatherbuddy2
+[17:30:25:930] New bot added!: Grind Bot
+[17:30:25:932] New bot added!: Questing
+[17:30:25:937] New bot added!: Mixed Mode
+[17:30:25:939] New bot added!: PartyBot
+[17:30:27:225] New bot added!: Combat Bot
+[17:30:27:225] New bot added!: ProfessionBuddy
+[17:30:27:233] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[17:30:27:233] KillBetweenHotspots: True
+[17:30:27:233] AdvancedSettingsMode: False
+[17:30:27:233] LogoutForInactivity: True
+[17:30:27:233] LogoutInactivityTimer: 10
+[17:30:27:233] LogoutInactivityUseForceQuit: False
+[17:30:27:233] ProfileDebuggingMode: False
+[17:30:27:233] FoodAmount: 0
+[17:30:27:233] DrinkAmount: 0
+[17:30:27:233] FormLocationX: 2193
+[17:30:27:233] FormLocationY: 590
+[17:30:27:233] FormWidth: 396
+[17:30:27:233] FormHeight: 302
+[17:30:27:233] SelectedBotIndex: 2
+[17:30:27:233] UseFlightPaths: False
+[17:30:27:233] FindMountAutomatically: True
+[17:30:27:233] UseRandomMount: True
+[17:30:27:233] FoodName has no value yet!
+[17:30:27:233] DrinkName has no value yet!
+[17:30:27:233] MountName has no value yet!
+[17:30:27:233] FlyingMountName has no value yet!
+[17:30:27:233] LootMobs: True
+[17:30:27:233] SkinMobs: False
+[17:30:27:233] NinjaSkin: False
+[17:30:27:233] LootChests: True
+[17:30:27:233] HarvestMinerals: False
+[17:30:27:233] HarvestHerbs: False
+[17:30:27:233] UseMount: True
+[17:30:27:233] PullDistance: 45
+[17:30:27:233] LootRadius: 45
+[17:30:27:233] FindVendorsAutomatically: False
+[17:30:27:233] TrainNewSkills: False
+[17:30:27:233] LearnFlightPaths: True
+[17:30:27:233] LastUsedPath has no value yet!
+[17:30:27:233] MountDistance: 75
+[17:30:27:233] RessAtSpiritHealers: False
+[17:30:27:233] GroundMountFarmingMode: False
+[17:30:27:233] FoodAmount: 0
+[17:30:27:233] DrinkAmount: 0
+[17:30:27:233] FormLocationX: 2193
+[17:30:27:233] FormLocationY: 590
+[17:30:27:233] SelectedBotIndex: 2
+[17:30:27:233] UseFlightPaths: False
+[17:30:27:233] FindMountAutomatically: True
+[17:30:27:233] UseRandomMount: True
+[17:30:27:233] FoodName has no value yet!
+[17:30:27:233] DrinkName has no value yet!
+[17:30:27:233] MountName has no value yet!
+[17:30:27:233] LootMobs: True
+[17:30:27:233] SkinMobs: False
+[17:30:27:233] NinjaSkin: False
+[17:30:27:233] LootChests: True
+[17:30:27:233] HarvestMinerals: False
+[17:30:27:233] HarvestHerbs: False
+[17:30:27:233] UseMount: True
+[17:30:27:233] PullDistance: 45
+[17:30:27:233] LootRadius: 45
+[17:30:27:233] FindVendorsAutomatically: False
+[17:30:27:233] TrainNewSkills: False
+[17:30:27:233] LearnFlightPaths: True
+[17:30:27:233] LastUsedPath has no value yet!
+[17:30:27:233] MountDistance: 75
+[17:30:27:233] RessAtSpiritHealers: False
+[17:30:27:233] Please wait a few seconds while Honorbuddy initializes.
+[17:30:27:234] Activity: Initializing.
+[17:30:27:234] Activity: Loading memory management & tables
+[17:30:27:246] Activity: Loading Spells
+[17:30:27:302] Activity: Initializing Spell Manager
+[17:30:27:311] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[17:30:27:312] V: 2.0.0.5883
+[17:30:27:315] Activity: Initializing Plugins
+[17:30:27:330] 
+[17:30:28:547] [WeigtSet] Selected weight set: Mage-Fire
+[17:30:29:439] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[17:30:29:441] Root element is missing.
+[17:30:29:441] ItemForAura: Continuing with Default Config Values
+[17:30:29:442] ItemForAura - Questhelper - Version 2.0 Loaded.
+[17:30:29:443] Root element is missing.
+[17:30:29:443] ItemForAura: Continuing with Default Config Values
+[17:30:29:883] Activity: Initializing Navigator
+[17:30:29:931] Activity: Initializing Blackspot Manager
+[17:30:29:933] Activity: Initializing Battlegrounds
+[17:30:29:933] Activity: Initializing Flight Paths
+[17:30:29:959] Activity: Initializing Routines
+[17:30:29:962] Building spell book
+[17:30:29:966] Spell book built
+[17:30:29:967] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[17:30:30:571] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[17:30:31:554] Activity: Initialization complete
+[17:30:31:554] Initialization complete.
+[17:30:31:555] Activity: Honorbuddy Startup Complete
+[17:30:38:356] Starting the bot!
+[17:30:38:403] Downloaded tilemap Kalimdor
+[17:30:38:407] Changed tilemap to Kalimdor, Tiled: True
+[17:30:38:423] Changing current profile to Empty Profile
+[17:30:38:691] Chose Singular v2 $Revision: 605 $ as your combat class!
+[17:30:38:692] [Singular] Starting Singular v2.0.0.0
+[17:30:38:692] [Singular] Determining talent spec.
+[17:30:38:807] [Singular-DEBUG] [Talents] Best Tree: 31
+[17:30:38:808] [Singular] Current spec is  Fire Mage
+[17:30:38:809] [Singular-DEBUG] Creating Combat behavior.
+[17:30:38:814] [Singular] Building method list
+[17:30:38:819] [Singular] Added 377 methods
+[17:30:38:823] [Singular-DEBUG] CreateFireMageNormalCombat is a match!
+[17:30:38:823] [Singular]  Using CreateFireMageNormalCombat for Fire Mage - Combat (Priority: 0)
+[17:30:38:840] [Singular-DEBUG] Creating Pull behavior.
+[17:30:38:842] [Singular-DEBUG] CreateFireMageNormalPull is a match!
+[17:30:38:842] [Singular]  Using CreateFireMageNormalPull for Fire Mage - Pull (Priority: 0)
+[17:30:38:843] [Singular-DEBUG] Creating Rest behavior.
+[17:30:38:846] [Singular] Using default rest behavior.
+[17:30:38:848] [Singular-DEBUG] Creating CombatBuffs behavior.
+[17:30:38:851] [Singular-DEBUG] Creating Heal behavior.
+[17:30:38:854] [Singular-DEBUG] Creating PullBuffs behavior.
+[17:30:38:857] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[17:30:38:859] [Singular-DEBUG] CreateMageBuffs is a match!
+[17:30:38:859] [Singular]  Using CreateMageBuffs for Fire Mage - PreCombatBuffs (Priority: 0)
+[17:30:38:862] [Singular] Behaviors created!
+[17:30:38:897] [Singular-DEBUG] Attached combat log
+[17:30:38:986] Cleared POI
+[17:30:38:986] Cleared POI - Reason Starting up
+[17:30:38:986] Cleared POI
+[17:30:39:130] Inserting Orgrimmar Grunt [Gossip] into the database!
+[17:30:39:144] Inserting Brew Vendor [Gossip, Vendor] into the database!
+[17:30:39:164] Inserting Zulna [Vendor] into the database!
+[17:30:39:181] Inserting Karus [Gossip, Questgiver, Banker] into the database!
+[17:30:39:203] Inserting Soran [Gossip, Banker] into the database!
+[17:30:39:222] Inserting Koma [Gossip, Banker] into the database!
+[17:30:39:243] Inserting Auctioneer Grimful [Gossip, Questgiver, Auctioneer] into the database!
+[17:30:39:264] Inserting Auctioneer Thathung [Gossip, Questgiver, Auctioneer] into the database!
+[17:30:39:284] Inserting Auctioneer Wabang [Gossip, Questgiver, Auctioneer] into the database!
+[17:30:39:304] Inserting Togar [Vendor] into the database!
+[17:30:41:393] Stopping the bot!
+[17:30:41:394] Stop called!
+[17:30:41:426] Activity: Honorbuddy Stopped
+[17:30:42:446] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Threading.WaitHandle.WaitOneNative(SafeWaitHandle waitHandle, UInt32 millisecondsTimeout, Boolean hasThreadAffinity, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int64 timeout, Boolean exitContext)
+   at System.Threading.WaitHandle.WaitOne(Int32 millisecondsTimeout, Boolean exitContext)
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.WoWObjects.WoWObject.GetObjectName()
+[17:30:42:448] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at Styx.Logic.Targeting.method_0(Delegate e, Object[] args)
+[17:30:42:449] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.method_0(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[17:30:42:449] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[17:30:42:450] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

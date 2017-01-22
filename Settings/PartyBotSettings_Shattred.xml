@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PartyBotSettings>
+  <!--True if this bot should be run with the LeaderPlugin (setting this to true will make it do nothing)-->
+  <DoNothing>False</DoNothing>
+  <FollowDistance>5</FollowDistance>
+  <!--True if the bot should wait before releasing from corpse in dungeons.-->
+  <WaitForRessInDungeons>True</WaitForRessInDungeons>
+  <!--True if the bot should loot in dungeons.-->
+  <LootInDungeons>False</LootInDungeons>
+  <!--True if the bot should accept battlefield ports.-->
+  <AcceptBattlefieldPorts>False</AcceptBattlefieldPorts>
+  <!--True if the bot should accept dungeon invites.-->
+  <AcceptDungeonInvites>False</AcceptDungeonInvites>
+  <!--True if the bot should accept group invites from the leader.-->
+  <AcceptGroupInvitesFromLeader>False</AcceptGroupInvitesFromLeader>
+  <!--True if the bot should auto accept shared quests-->
+  <AutoAcceptSharedQuests>False</AutoAcceptSharedQuests>
+  <Setting_BlacklistedSlots>19,20,21,22</Setting_BlacklistedSlots>
+  <Setting_BlacklistedEquipQualities>4</Setting_BlacklistedEquipQualities>
+  <UseCachedWeights>True</UseCachedWeights>
+  <IgnoreHeirlooms>True</IgnoreHeirlooms>
+</PartyBotSettings>

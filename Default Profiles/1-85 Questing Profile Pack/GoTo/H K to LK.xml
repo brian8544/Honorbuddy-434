@@ -1,0 +1,61 @@
+<HBProfile>
+	<Name>K to LK [Kick]</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.1</MinDurability>
+	<MinFreeBagSlots>1</MinFreeBagSlots>
+	
+
+	<Vendors>
+		<!-- Orgrimmar Vendor -->
+		<Vendor Name="Trak'gen" Entry="3313" Type="Food" X="1528.89" Y="-4442.89" Z="24.02194" />
+		<Vendor Name="Urtharo" Entry="3314" Type="Repair" X="1639.75" Y="-4316.71" Z="21.12019" />
+		<!--Orgrimmar Trainers-->
+		<Vendor Name="Zevrost" Type="Train" TrainClass="Warlock" Entry="3326" X="1848.788" Y="-4360.646" Z="-14.72255"/>
+		<Vendor Name="Marud" Type="Train" TrainClass="Mage" Entry="47247" X="1764.56" Y="-4349.509" Z="-7.769643"/>
+		<Vendor Name="Seer Liwatha" Type="Train" TrainClass="Priest" Entry="44735" X="1863.46" Y="-4297.75" Z="23.74968"/>
+		<Vendor Name="Lothan Silverblade" Entry="43012" Type="Train" TrainClass="Warrior" X="9521.21" Y="-6865.33" Z="18.75"/>
+		<Vendor Name="Sahi Cloudsinger" Entry="44740" Type="Train" TrainClass="Shaman" X="1884.15" Y="-4282.4" Z="23.5918"/>
+		<Vendor Name="Gordul" Type="Train" TrainClass="Rogue" Entry="47233" X="1773.21" Y="-4282.96" Z="7.892303"/>
+		<Vendor Name="Nohi Plainswalker" Type="Train" TrainClass="Hunter" Entry="44743"  X="1872.89" Y="-4281.46" Z="23.76952"/>
+		<Vendor Name="Sunwalker Atohmo" Type="Train" TrainClass="Paladin" Entry="44725"  X="1863.88" Y="-4292.69" Z="23.78126"/>
+		<Vendor Name="Shalla Whiteleaf" Type="Train" TrainClass="Druid" Entry="44726"  X="1888.95" Y="-4285.25" Z="23.55553"/>
+	</Vendors>
+	
+	<Mailboxes>
+		<Mailbox X="1604.843" Y="-4383.491" Z="20.57193" /> <!-- Org -->
+	</Mailboxes>
+	
+	<Blackspots>
+	</Blackspots>
+	
+	<QuestOrder>
+	
+		<CustomBehavior File="UserSettings" LearnFlightPaths="False" UseFlightPaths="False" TrainNewSkills="False" />
+				
+			<If Condition="Me.MapId == 1 &amp;&amp; (Me.ZoneId == 1637)" >
+				<If Condition="Me.Class != WoWClass.DeathKnight">
+					<CustomBehavior File="UserSettings" TrainNewSkills="True" />
+					<CustomBehavior File="ForceSetVendor" DoTrain="True" DoSell="True" DoRepair="True" DoMail="True" />
+				</If>
+				
+				<CustomBehavior File="Message" Text="Running to Org Zepp to Borean" LogColor="Cornflowerblue" />
+				<RunTo X="1763.389" Y="-4283.858" Z="133.1073" />
+				
+				<CustomBehavior File="Message" Text="Waiting for Org Zepp to Borean - don't interact!" LogColor="Orange" />
+		
+				<CustomBehavior File="UseTransport" TransportId="186238"
+											WaitAtX="1763.203" WaitAtY="-4284.529" WaitAtZ="133.1072" 
+											TransportStartX="1775.066" TransportStartY="-4299.745" TransportStartZ="151.0326" 
+											StandOnX="1770.22" StandOnY="-4292.056" StandOnZ="133.1872" 
+											TransportEndX="2837.908" TransportEndY="6187.443" TransportEndZ="140.1648" 
+											GetOffX="2836.831" GetOffY="6185.15" GetOffZ="121.9923" />
+	
+		</If>
+		
+			<CustomBehavior File="LoadProfile" ProfileName="..\LK\[Fly][H - Quest] LK 68-80 [Kick] - R" /> 
+
+	  
+	</QuestOrder>
+</HBProfile>

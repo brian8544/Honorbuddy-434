@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BGBotSettings>
+  <!--The first BG you would like to queue for.-->
+  <BG1>WSG</BG1>
+  <!--The second BG you would like to queue for.-->
+  <BG2>None</BG2>
+  <!--Set this to true if you wish to include mounted players in battlegrounds.-->
+  <IncludeMountedPlayers>False</IncludeMountedPlayers>
+  <!--Set this to true if you wish to only heal people and not target any players.-->
+  <IsHealer>False</IsHealer>
+</BGBotSettings>

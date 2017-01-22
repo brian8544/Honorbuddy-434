@@ -1,0 +1,727 @@
+[4:04:40:575] Logging in...
+[4:04:40:750] Logged into CodeDeception local server
+[4:04:41:167] Attached to WoW with ID 6164
+[4:04:41:206] Honorbuddy v2.0.0.5883 started!
+[4:04:41:206] Using WoW with process ID 6164
+[4:04:41:206] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[4:04:41:207] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[4:04:41:209] Character is a level 85 Human Paladin
+[4:04:41:209] Current zone is Darnassus
+[4:04:41:218] New bot added!: ArchaeologyBuddy
+[4:04:41:307] [Instancebuddy]: ----------------------------------------------------------------------
+[4:04:41:309] [Instancebuddy]: Currently supported tanking dungeons :
+[4:04:41:309] [Instancebuddy]: (This list will update itself automatically)
+[4:04:41:309] [Instancebuddy]: 
+[4:04:41:309] [Instancebuddy]:  (Level 15 - 21) Deadmines
+[4:04:41:309] [Instancebuddy]:  (Level 15 - 21) Ragefire Chasm
+[4:04:41:309] [Instancebuddy]:  (Level 16 - 26) Shadowfang Keep
+[4:04:41:309] [Instancebuddy]:  (Level 20 - 30) The Stockade
+[4:04:41:309] [Instancebuddy]:  (Level 26 - 36) Scarlet Monastery - Graveyard
+[4:04:41:309] [Instancebuddy]:  (Level 29 - 39) Scarlet Monastery - Library
+[4:04:41:309] [Instancebuddy]:  (Level 32 - 42) Scarlet Monastery - Armory
+[4:04:41:309] [Instancebuddy]:  (Level 35 - 45) Scarlet Monastery - Cathedral
+[4:04:41:309] [Instancebuddy]:  (Level 38 - 48) Scholomance
+[4:04:41:309] [Instancebuddy]:  (Level 42 - 52) Stratholme - Main Gate
+[4:04:41:309] [Instancebuddy]:  (Level 46 - 56) Stratholme - Service Entrance
+[4:04:41:309] [Instancebuddy]:  (Level 57 - 67) Hellfire Ramparts
+[4:04:41:309] [Instancebuddy]:  (Level 59 - 68) The Blood Furnace
+[4:04:41:309] [Instancebuddy]:  (Level 62 - 71) Mana Tombs
+[4:04:41:309] [Instancebuddy]:  (Level 65 - 73) Sethekk Halls
+[4:04:41:309] [Instancebuddy]: ----------------------------------------------------------------------
+[4:04:41:430] New bot added!: Instancebuddy
+[4:04:41:432] New bot added!: BGBuddy
+[4:04:41:451] New bot added!: Gatherbuddy2
+[4:04:41:453] New bot added!: Grind Bot
+[4:04:41:455] New bot added!: Questing
+[4:04:41:459] New bot added!: Mixed Mode
+[4:04:41:461] New bot added!: PartyBot
+[4:04:42:763] New bot added!: Combat Bot
+[4:04:42:763] New bot added!: ProfessionBuddy
+[4:04:42:774] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[4:04:42:774] KillBetweenHotspots: True
+[4:04:42:774] AdvancedSettingsMode: False
+[4:04:42:774] LogoutForInactivity: True
+[4:04:42:774] LogoutInactivityTimer: 10
+[4:04:42:774] LogoutInactivityUseForceQuit: False
+[4:04:42:774] ProfileDebuggingMode: False
+[4:04:42:774] FoodAmount: 0
+[4:04:42:774] DrinkAmount: 0
+[4:04:42:774] FormLocationX: 2154
+[4:04:42:774] FormLocationY: 528
+[4:04:42:774] FormWidth: 396
+[4:04:42:774] FormHeight: 302
+[4:04:42:774] SelectedBotIndex: 1
+[4:04:42:774] UseFlightPaths: False
+[4:04:42:774] FindMountAutomatically: True
+[4:04:42:774] UseRandomMount: True
+[4:04:42:774] FoodName has no value yet!
+[4:04:42:774] DrinkName has no value yet!
+[4:04:42:774] MountName: Raven Lord
+[4:04:42:774] FlyingMountName has no value yet!
+[4:04:42:774] LootMobs: True
+[4:04:42:774] SkinMobs: False
+[4:04:42:774] NinjaSkin: False
+[4:04:42:774] LootChests: True
+[4:04:42:774] HarvestMinerals: False
+[4:04:42:774] HarvestHerbs: False
+[4:04:42:774] UseMount: True
+[4:04:42:774] PullDistance: 45
+[4:04:42:774] LootRadius: 45
+[4:04:42:774] FindVendorsAutomatically: False
+[4:04:42:774] TrainNewSkills: False
+[4:04:42:774] LearnFlightPaths: True
+[4:04:42:774] LastUsedPath has no value yet!
+[4:04:42:774] MountDistance: 75
+[4:04:42:774] RessAtSpiritHealers: False
+[4:04:42:774] GroundMountFarmingMode: False
+[4:04:42:774] FoodAmount: 0
+[4:04:42:774] DrinkAmount: 0
+[4:04:42:774] FormLocationX: 2154
+[4:04:42:774] FormLocationY: 528
+[4:04:42:774] SelectedBotIndex: 1
+[4:04:42:774] UseFlightPaths: False
+[4:04:42:774] FindMountAutomatically: True
+[4:04:42:774] UseRandomMount: True
+[4:04:42:774] FoodName has no value yet!
+[4:04:42:774] DrinkName has no value yet!
+[4:04:42:774] MountName: Raven Lord
+[4:04:42:774] LootMobs: True
+[4:04:42:774] SkinMobs: False
+[4:04:42:774] NinjaSkin: False
+[4:04:42:774] LootChests: True
+[4:04:42:774] HarvestMinerals: False
+[4:04:42:774] HarvestHerbs: False
+[4:04:42:774] UseMount: True
+[4:04:42:774] PullDistance: 45
+[4:04:42:774] LootRadius: 45
+[4:04:42:774] FindVendorsAutomatically: False
+[4:04:42:774] TrainNewSkills: False
+[4:04:42:774] LearnFlightPaths: True
+[4:04:42:774] LastUsedPath has no value yet!
+[4:04:42:774] MountDistance: 75
+[4:04:42:774] RessAtSpiritHealers: False
+[4:04:42:774] Please wait a few seconds while Honorbuddy initializes.
+[4:04:42:775] Activity: Initializing.
+[4:04:42:775] Activity: Loading memory management & tables
+[4:04:42:789] Activity: Loading Spells
+[4:04:42:822] Activity: Initializing Spell Manager
+[4:04:42:839] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[4:04:42:841] V: 2.0.0.5883
+[4:04:42:844] Activity: Initializing Plugins
+[4:04:42:919] 
+[4:04:44:166] [WeigtSet] Selected weight set: Paladin-Holy
+[4:04:45:076] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[4:04:45:078] Root element is missing.
+[4:04:45:078] ItemForAura: Continuing with Default Config Values
+[4:04:45:079] ItemForAura - Questhelper - Version 2.0 Loaded.
+[4:04:45:080] Root element is missing.
+[4:04:45:080] ItemForAura: Continuing with Default Config Values
+[4:04:45:503] Activity: Initializing Navigator
+[4:04:45:553] Activity: Initializing Blackspot Manager
+[4:04:45:555] Activity: Initializing Battlegrounds
+[4:04:45:556] Activity: Initializing Flight Paths
+[4:04:45:572] Activity: Initializing Routines
+[4:04:45:575] Building spell book
+[4:04:45:578] Spell book built
+[4:04:45:579] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[4:04:46:339] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[4:04:48:381] Activity: Initialization complete
+[4:04:48:381] Initialization complete.
+[4:04:48:383] Activity: Honorbuddy Startup Complete
+[4:04:57:787] Activity: Loading Profile...
+[4:05:02:204] Starting the bot!
+[4:05:02:238] Downloaded tilemap Kalimdor
+[4:05:02:242] Changed tilemap to Kalimdor, Tiled: True
+[4:05:02:287] Changing current profile to Empty Profile
+[4:05:02:326] Chose Singular v2 $Revision: 605 $ as your combat class!
+[4:05:02:327] [Singular] Starting Singular v2.0.0.0
+[4:05:02:327] [Singular] Determining talent spec.
+[4:05:02:410] [Singular-DEBUG] [Talents] Best Tree: 31
+[4:05:02:411] [Singular] Current spec is  Holy Paladin
+[4:05:02:412] [Singular-DEBUG] Creating Combat behavior.
+[4:05:02:416] [Singular] Building method list
+[4:05:02:420] [Singular] Added 377 methods
+[4:05:02:424] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[4:05:02:424] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[4:05:02:436] [Singular-DEBUG] Creating Pull behavior.
+[4:05:02:437] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[4:05:02:437] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[4:05:02:439] [Singular-DEBUG] Creating Rest behavior.
+[4:05:02:441] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[4:05:02:441] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[4:05:02:449] [Singular-DEBUG] Creating CombatBuffs behavior.
+[4:05:02:450] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[4:05:02:450] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[4:05:02:452] [Singular-DEBUG] Creating Heal behavior.
+[4:05:02:454] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[4:05:02:454] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[4:05:02:456] [Singular-DEBUG] Creating PullBuffs behavior.
+[4:05:02:459] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[4:05:02:460] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[4:05:02:460] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[4:05:02:464] [Singular] Behaviors created!
+[4:05:02:479] [Singular-DEBUG] Attached combat log
+[4:05:02:515] Cleared POI
+[4:05:02:515] Cleared POI - Reason Starting up
+[4:05:02:515] Cleared POI
+[4:05:02:839] Inserting Earthen Ring Pathfinder [Gossip] into the database!
+[4:05:02:844] Inserting Crildor [Gossip, Questgiver] into the database!
+[4:05:02:853] Inserting Officer Lunalight [Gossip, Questgiver] into the database!
+[4:05:02:863] Inserting Steamwheedle Shyster [Gossip] into the database!
+[4:05:03:725] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:05:03:725] Cleared POI - Reason Exception in Root.Tick()
+[4:05:03:725] Cleared POI
+[4:05:03:841] Activity: Downloading Mesh...
+[4:05:04:214] Downloaded Kalimdor_27_13
+[4:05:04:217] Activity: Loading Profile...
+[4:05:04:221] Activity: Loading Tile/s
+[4:05:04:222] Loading Kalimdor_27_13
+[4:05:04:419] Activity: Downloading Mesh...
+[4:05:04:531] Downloaded Kalimdor_26_13
+[4:05:04:533] Activity: Loading Tile/s
+[4:05:04:533] Loading Kalimdor_26_13
+[4:05:04:591] Updating repair cost for current equipped items. New value: [0g7s45c]
+[4:05:04:661] [Singular] Casting Blessing of Kings on Myself
+[4:05:04:666] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [1]
+[4:05:04:829] [BGBuddy]: Queueing up for RandomBattleground
+[4:05:06:088] [Singular] Casting Concentration Aura on Myself
+[4:05:06:089] Spell_C::CastSpell(19746, 0, 0x5D596B, 0) [2]
+[4:05:07:481] [Singular] Casting Seal of Insight on Myself
+[4:05:07:482] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [3]
+[4:05:07:623] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [4]
+[4:05:16:528] Stopping the bot!
+[4:05:16:529] Stop called!
+[4:05:16:541] Changed tilemap to Kalimdor, Tiled: True
+[4:05:16:546] Activity: Honorbuddy Stopped
+[4:05:25:232] Activity: Loading Profile...
+[4:05:35:363] PB 1.463:Initializing ...
+[4:05:35:401] PB 1.463:No DataStore Addon found
+[4:05:35:475] ************* Change Log ****************
+[4:05:35:475] *****************************************
+[4:05:35:866] Err: System.ArgumentException: The directory name C:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\Profiles is invalid.
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at HighVoltz.MainForm..ctor() in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\MainForm.cs:line 504
+[4:05:35:987] PB 1.463: A new wow version has been detected
+Scanning for new KnownSpellsPtr offset
+[4:05:36:039] PB 1.463: Checking for new version
+[4:05:36:062] PB 1.463: A new version was found.Downloading Update
+[4:05:36:084] PB 1.463: Download complete :P
+[4:05:37:120] PB 1.463: Found KnownSpellsPtr offset for WoW Version 4, 3, 4, 15595 at offset 0xB33C8C
+[4:05:37:150] System.NullReferenceException: Object reference not set to an instance of an object.
+   at HighVoltz.Professionbuddy.<get_SupportedTradeSkills>b__9(SkillLine skill) in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 533
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at HighVoltz.Professionbuddy.get_SupportedTradeSkills() in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 535
+   at HighVoltz.Professionbuddy.<LoadTradeSkills>b__10(Object state) in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 648
+[4:05:46:540] Starting the bot!
+[4:05:46:548] PB 1.463:Start Called
+[4:05:46:587] Styx.HonorbuddyUnableToStartException: ArchaeologyBuddy can only train Archaeology in Kalimdor for Horde and Eastern Kingdoms for Alliance. Please start AB in the approaite continent or train Archaeology first.
+   at Bots.ArchaeologyBuddy.ArchBuddy.Start()
+   at HighVoltz.Professionbuddy.Start() in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 206
+[4:05:46:611] Cleared POI - Reason Starting up
+[4:05:46:611] Cleared POI
+[4:05:46:761] [ArchBuddy]: Searching for digsites...
+[4:05:46:761] Activity: Searching for digsites...
+[4:05:46:793] [ArchBuddy]: No digsites on the map
+[4:05:46:894] [ArchBuddy]: Searching for digsites...
+[4:05:46:904] [ArchBuddy]: No digsites on the map
+[4:05:47:000] [ArchBuddy]: Searching for digsites...
+[4:05:47:011] [ArchBuddy]: No digsites on the map
+[4:05:47:109] [ArchBuddy]: Searching for digsites...
+[4:05:47:120] [ArchBuddy]: No digsites on the map
+[4:05:47:221] [ArchBuddy]: Searching for digsites...
+[4:05:47:226] [ArchBuddy]: No digsites on the map
+[4:05:47:325] [ArchBuddy]: Searching for digsites...
+[4:05:47:331] [ArchBuddy]: No digsites on the map
+[4:05:47:432] [ArchBuddy]: Searching for digsites...
+[4:05:47:442] [ArchBuddy]: No digsites on the map
+[4:05:47:543] [ArchBuddy]: Searching for digsites...
+[4:05:47:548] [ArchBuddy]: No digsites on the map
+[4:05:47:647] [ArchBuddy]: Searching for digsites...
+[4:05:47:654] [ArchBuddy]: No digsites on the map
+[4:05:47:758] [ArchBuddy]: Searching for digsites...
+[4:05:47:767] [ArchBuddy]: No digsites on the map
+[4:05:47:869] [ArchBuddy]: Searching for digsites...
+[4:05:47:875] [ArchBuddy]: No digsites on the map
+[4:05:47:926] Stopping the bot!
+[4:05:47:926] Stop called!
+[4:05:47:931] PB 1.463:Stop Called
+[4:05:47:932] [ArchBuddy]: Stopped Archaeologybuddy after clearing 0 digsites in 0h 1m 6s.
+[4:05:47:933] [ArchBuddy]: Solve Report:
+[4:05:47:933] [ArchBuddy]: ---------------------------
+[4:05:47:933] [ArchBuddy]: No solves
+[4:05:47:933] Activity: Honorbuddy Stopped
+[4:07:58:603] Starting the bot!
+[4:07:58:958] Downloaded tilemap Azeroth
+[4:07:58:964] Changed tilemap to Azeroth, Tiled: True
+[4:07:58:988] Cleared POI - Reason Starting up
+[4:07:58:988] Cleared POI
+[4:07:58:989] Building spell book
+[4:07:58:990] Adding: Archaeology
+[4:07:58:990] Adding: Survey
+[4:07:58:991] Spell book built
+[4:07:59:122] [Singular-DEBUG] Switched targets!
+[4:07:59:123] [Singular-DEBUG] Melee Distance: 5
+[4:07:59:123] [Singular-DEBUG] Health: 1220
+[4:07:59:123] [Singular-DEBUG] Level: 35
+[4:07:59:135] Activity: Downloading Mesh...
+[4:07:59:369] Downloaded Azeroth_34_40
+[4:07:59:372] Activity: Honorbuddy Stopped
+[4:07:59:372] Activity: Loading Tile/s
+[4:07:59:372] Loading Azeroth_34_40
+[4:07:59:449] Activity: Downloading Mesh...
+[4:07:59:736] Downloaded Azeroth_34_41
+[4:07:59:737] Activity: Loading Tile/s
+[4:07:59:738] Loading Azeroth_34_41
+[4:07:59:848] Activity: Downloading Mesh...
+[4:08:00:097] Downloaded Azeroth_33_40
+[4:08:00:099] Activity: Loading Tile/s
+[4:08:00:102] Loading Azeroth_33_40
+[4:08:00:193] [ArchBuddy]: Searching for digsites...
+[4:08:00:193] Activity: Searching for digsites...
+[4:08:00:201] [ArchBuddy]: No digsites on the map
+[4:08:00:320] [ArchBuddy]: Searching for digsites...
+[4:08:00:328] [ArchBuddy]: No digsites on the map
+[4:08:00:431] [ArchBuddy]: Searching for digsites...
+[4:08:00:439] [ArchBuddy]: No digsites on the map
+[4:08:00:544] [ArchBuddy]: Searching for digsites...
+[4:08:00:552] [ArchBuddy]: No digsites on the map
+[4:08:00:658] [ArchBuddy]: Searching for digsites...
+[4:08:00:667] [ArchBuddy]: No digsites on the map
+[4:08:00:777] [ArchBuddy]: Searching for digsites...
+[4:08:00:786] [ArchBuddy]: No digsites on the map
+[4:08:00:892] [ArchBuddy]: Searching for digsites...
+[4:08:00:898] [ArchBuddy]: No digsites on the map
+[4:08:01:004] [ArchBuddy]: Searching for digsites...
+[4:08:01:012] [ArchBuddy]: No digsites on the map
+[4:08:01:118] [ArchBuddy]: Searching for digsites...
+[4:08:01:126] [ArchBuddy]: No digsites on the map
+[4:08:01:232] [ArchBuddy]: Searching for digsites...
+[4:08:01:240] [ArchBuddy]: No digsites on the map
+[4:08:01:344] [ArchBuddy]: Searching for digsites...
+[4:08:01:353] [ArchBuddy]: No digsites on the map
+[4:08:01:459] [ArchBuddy]: Searching for digsites...
+[4:08:01:467] [ArchBuddy]: No digsites on the map
+[4:08:01:575] [ArchBuddy]: Searching for digsites...
+[4:08:01:580] [ArchBuddy]: No digsites on the map
+[4:08:01:685] [ArchBuddy]: Searching for digsites...
+[4:08:01:693] [ArchBuddy]: No digsites on the map
+[4:08:01:799] [ArchBuddy]: Searching for digsites...
+[4:08:01:806] [ArchBuddy]: No digsites on the map
+[4:08:01:914] [ArchBuddy]: Searching for digsites...
+[4:08:01:923] [ArchBuddy]: No digsites on the map
+[4:08:02:028] [ArchBuddy]: Searching for digsites...
+[4:08:02:036] [ArchBuddy]: No digsites on the map
+[4:08:02:142] [ArchBuddy]: Searching for digsites...
+[4:08:02:149] [ArchBuddy]: No digsites on the map
+[4:08:02:256] [ArchBuddy]: Searching for digsites...
+[4:08:02:264] [ArchBuddy]: No digsites on the map
+[4:08:02:371] [ArchBuddy]: Searching for digsites...
+[4:08:02:381] [ArchBuddy]: No digsites on the map
+[4:08:02:487] [ArchBuddy]: Searching for digsites...
+[4:08:02:492] [ArchBuddy]: No digsites on the map
+[4:08:02:599] [ArchBuddy]: Searching for digsites...
+[4:08:02:608] [ArchBuddy]: No digsites on the map
+[4:08:02:710] [ArchBuddy]: Searching for digsites...
+[4:08:02:719] [ArchBuddy]: No digsites on the map
+[4:08:02:822] [ArchBuddy]: Searching for digsites...
+[4:08:02:829] [ArchBuddy]: No digsites on the map
+[4:08:02:898] Stopping the bot!
+[4:08:02:898] Stop called!
+[4:08:02:902] [ArchBuddy]: Stopped Archaeologybuddy after clearing 0 digsites in 0h 0m 3s.
+[4:08:02:902] [ArchBuddy]: Solve Report:
+[4:08:02:902] [ArchBuddy]: ---------------------------
+[4:08:02:902] [ArchBuddy]: No solves
+[4:08:02:903] Activity: Honorbuddy Stopped
+[4:08:02:908] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:08:02:908] Cleared POI - Reason Exception in Root.Tick()
+[4:08:02:908] Cleared POI
+[4:08:43:545] Activity: Loading Profile...
+[4:08:45:329] Starting the bot!
+[4:08:45:348] Object reference not set to an instance of an object.
+[4:08:45:348] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:08:45:348] Stop called!
+[4:11:00:699] Starting the bot!
+[4:11:00:708] Changed tilemap to Azeroth, Tiled: True
+[4:11:00:794] Cleared POI - Reason Starting up
+[4:11:00:794] Cleared POI
+[4:11:00:813] Inserting Ironforge Guard [Gossip] into the database!
+[4:11:00:899] Activity: Loading Tile/s
+[4:11:00:899] Loading Azeroth_34_40
+[4:11:00:976] Updating repair cost for current equipped items. New value: [0g7s45c]
+[4:11:05:986] [Instancebuddy]: Queueing at dungeon finder
+[4:11:39:105] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.StyxWoW.smethod_2[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember.smethod_0(UInt64 guid)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember..ctor(UInt64 guid, Boolean isPartyMember)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_PartyMemberInfos()
+   at Singular.Managers.HealerManager.GetMainTankGuids() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Managers\HealerManager.cs:line 183
+   at Singular.Managers.HealerManager.DefaultTargetWeight(List`1 units) in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Managers\HealerManager.cs:line 141
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at Styx.Logic.Targeting.method_0(Delegate e, Object[] args)
+[4:11:39:106] System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember.GetInfo(UInt64 guid)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember..ctor(UInt64 guid, Boolean isPartyMember)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_PartyMemberInfos()
+   at Singular.Helpers.Group.get_Tanks() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Helpers\Group.cs:line 40
+   at Singular.Helpers.Group.get_MeIsTank() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Helpers\Group.cs:line 18
+   at Singular.SingularRoutine.Pulse() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\SingularRoutine.cs:line 147
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:11:39:107] Not in game
+[4:11:41:369] Downloaded tilemap SkywallDungeon
+[4:11:41:375] Changed tilemap to SkywallDungeon, Tiled: True
+[4:11:41:379] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[4:11:41:379] [Singular-DEBUG] Creating Combat behavior.
+[4:11:41:381] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[4:11:41:381] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[4:11:41:383] [Singular-DEBUG] Creating Pull behavior.
+[4:11:41:385] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[4:11:41:385] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[4:11:41:386] [Singular-DEBUG] Creating Rest behavior.
+[4:11:41:388] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[4:11:41:388] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[4:11:41:390] [Singular-DEBUG] Creating CombatBuffs behavior.
+[4:11:41:392] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[4:11:41:392] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[4:11:41:393] [Singular-DEBUG] Creating Heal behavior.
+[4:11:41:395] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[4:11:41:395] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[4:11:41:396] [Singular-DEBUG] Creating PullBuffs behavior.
+[4:11:41:401] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[4:11:41:403] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[4:11:41:403] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[4:11:41:434] [Instancebuddy]: In a blacklisted dungeon. Leaving
+[4:11:41:738] [Instancebuddy]: Dungeon run is over. Teleporting out.
+[4:11:44:742] Activity: Releasing from corpse
+[4:11:44:742] Activity: Releasing corpse
+[4:11:44:742] I died!
+[4:11:44:749] Activity: Releasing from corpse
+[4:11:44:946] Changed tilemap to Azeroth, Tiled: True
+[4:11:44:951] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[4:11:44:951] [Singular-DEBUG] Creating Combat behavior.
+[4:11:44:953] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[4:11:44:953] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[4:11:44:956] [Singular-DEBUG] Creating Pull behavior.
+[4:11:44:958] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[4:11:44:958] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[4:11:44:960] [Singular-DEBUG] Creating Rest behavior.
+[4:11:44:962] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[4:11:44:962] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[4:11:44:964] [Singular-DEBUG] Creating CombatBuffs behavior.
+[4:11:44:966] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[4:11:44:966] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[4:11:44:967] [Singular-DEBUG] Creating Heal behavior.
+[4:11:44:969] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[4:11:44:969] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[4:11:44:973] [Singular-DEBUG] Creating PullBuffs behavior.
+[4:11:44:977] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[4:11:44:979] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[4:11:44:979] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[4:11:54:895] [Instancebuddy]: Queueing at dungeon finder
+[4:12:04:665] Stopping the bot!
+[4:12:04:665] Stop called!
+[4:12:04:682] Activity: Honorbuddy Stopped
+[4:12:07:258] Starting the bot!
+[4:12:07:335] Cleared POI - Reason Starting up
+[4:12:07:335] Cleared POI
+[4:12:17:231] Not in game
+[4:12:17:961] Changed tilemap to SkywallDungeon, Tiled: True
+[4:12:17:965] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[4:12:17:965] [Singular-DEBUG] Creating Combat behavior.
+[4:12:17:968] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[4:12:17:968] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[4:12:17:969] [Singular-DEBUG] Creating Pull behavior.
+[4:12:17:972] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[4:12:17:972] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[4:12:17:974] [Singular-DEBUG] Creating Rest behavior.
+[4:12:17:976] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[4:12:17:976] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[4:12:17:977] [Singular-DEBUG] Creating CombatBuffs behavior.
+[4:12:17:979] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[4:12:17:979] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[4:12:17:981] [Singular-DEBUG] Creating Heal behavior.
+[4:12:17:983] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[4:12:17:983] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[4:12:17:985] [Singular-DEBUG] Creating PullBuffs behavior.
+[4:12:17:988] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[4:12:17:990] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[4:12:17:990] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[4:12:18:375] [Instancebuddy]: Tank is set to: DeathKnight with MaxHP: 169262
+[4:12:18:404] [Singular] Casting Blessing of Kings on Myself
+[4:12:18:406] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [5]
+[4:12:22:881] Inserting Itesh [Gossip, Questgiver, Unk2] into the database!
+[4:12:23:324] Activity: Downloading Mesh...
+[4:12:23:376] Downloaded SkywallDungeon_32_32
+[4:12:23:379] Activity: Honorbuddy Stopped
+[4:12:23:379] Activity: Loading Tile/s
+[4:12:23:380] Loading SkywallDungeon_32_32
+[4:12:26:743] Activity: Downloading Mesh...
+[4:12:26:780] Downloaded SkywallDungeon_31_32
+[4:12:26:783] Activity: Loading Tile/s
+[4:12:26:784] Loading SkywallDungeon_31_32
+[4:12:29:152] Unloading tiles!
+[4:12:29:153] Loading SkywallDungeon_32_32
+[4:12:37:468] [Singular] Casting Judgement on Wild Vortex
+[4:12:37:469] Spell_C::CastSpell(20271, 0, 0xF130B35800059955, 0) [6]
+[4:12:37:547] [Singular-DEBUG] Switched targets!
+[4:12:37:547] [Singular-DEBUG] Melee Distance: 5
+[4:12:37:547] [Singular-DEBUG] Health: 387450
+[4:12:37:547] [Singular-DEBUG] Level: 85
+[4:12:37:616] Activity: Combat
+[4:12:39:924] [Singular] Casting Beacon of Light on Tank
+[4:12:39:926] Spell_C::CastSpell(53563, 0, 0x5597C9, 0) [7]
+[4:12:41:259] [Singular] Casting Holy Shock on Tank
+[4:12:41:260] Spell_C::CastSpell(20473, 0, 0x5597C9, 0) [8]
+[4:12:45:587] [Singular] Casting Judgement on Wild Vortex
+[4:12:45:588] Spell_C::CastSpell(20271, 0, 0xF130B35800059955, 0) [9]
+[4:12:47:223] [Singular] Casting Holy Light on Tank
+[4:12:47:224] Spell_C::CastSpell(635, 0, 0x5597C9, 0) [10]
+[4:12:49:539] [Singular] Casting Holy Shock on Myself
+[4:12:49:540] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [11]
+[4:12:50:868] [Singular] Casting Holy Light on Myself
+[4:12:50:869] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [12]
+[4:12:52:912] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [13]
+[4:12:55:247] [Singular] Casting Judgement on Wild Vortex
+[4:12:55:248] Spell_C::CastSpell(20271, 0, 0xF130B35800059955, 0) [14]
+[4:12:56:767] [Singular] Casting Holy Shock on Myself
+[4:12:56:769] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [15]
+[4:12:59:760] [Singular-DEBUG] Switched targets!
+[4:12:59:760] [Singular-DEBUG] Melee Distance: 5
+[4:12:59:760] [Singular-DEBUG] Health: 400975
+[4:12:59:760] [Singular-DEBUG] Level: 86
+[4:13:03:442] [Singular] Casting Judgement on Wild Vortex
+[4:13:03:443] Spell_C::CastSpell(20271, 0, 0xF130B35800059953, 0) [16]
+[4:13:15:068] [Singular] Casting Holy Shock on Tank
+[4:13:15:070] Spell_C::CastSpell(20473, 0, 0x5597C9, 0) [17]
+[4:13:22:735] Spell_C::CastSpell(20473, 0, 0x5597C9, 0) [18]
+[4:13:51:837] [Singular] Casting Judgement on Armored Mistral
+[4:13:51:838] Spell_C::CastSpell(20271, 0, 0xF130B35B00059950, 0) [19]
+[4:13:51:932] [Singular-DEBUG] Switched targets!
+[4:13:51:932] [Singular-DEBUG] Melee Distance: 5
+[4:13:51:932] [Singular-DEBUG] Health: 387450
+[4:13:51:932] [Singular-DEBUG] Level: 85
+[4:14:00:055] Spell_C::CastSpell(20271, 0, 0xF130B35B00059950, 0) [20]
+[4:14:07:468] [Singular] Casting Holy Shock on Rogue
+[4:14:07:469] Spell_C::CastSpell(20473, 0, 0x5FB895, 0) [21]
+[4:14:07:558] [Singular-DEBUG] Switched targets!
+[4:14:07:558] [Singular-DEBUG] Melee Distance: 5
+[4:14:07:558] [Singular-DEBUG] Health: 400975
+[4:14:07:558] [Singular-DEBUG] Level: 86
+[4:14:08:871] [Singular] Casting Holy Light on Rogue
+[4:14:08:872] Spell_C::CastSpell(635, 0, 0x5FB895, 0) [22]
+[4:14:11:237] Spell_C::CastSpell(635, 0, 0x5FB895, 0) [23]
+[4:14:13:615] [Singular] Casting Holy Shock on DeathKnight
+[4:14:13:616] Spell_C::CastSpell(20473, 0, 0x615893, 0) [24]
+[4:14:14:931] Spell_C::CastSpell(20473, 0, 0x615893, 0) [25]
+[4:14:16:300] [Singular] Casting Word of Glory on DeathKnight
+[4:14:16:301] Spell_C::CastSpell(85673, 0, 0x615893, 0) [26]
+[4:14:17:342] [Singular-DEBUG] Switched targets!
+[4:14:17:342] [Singular-DEBUG] Melee Distance: 5
+[4:14:17:342] [Singular-DEBUG] Health: 387450
+[4:14:17:342] [Singular-DEBUG] Level: 85
+[4:14:17:755] [Singular] Casting Holy Light on DeathKnight
+[4:14:17:756] Spell_C::CastSpell(635, 0, 0x615893, 0) [27]
+[4:14:17:844] [Singular-DEBUG] Switched targets!
+[4:14:17:844] [Singular-DEBUG] Melee Distance: 5
+[4:14:17:844] [Singular-DEBUG] Health: 400975
+[4:14:17:844] [Singular-DEBUG] Level: 86
+[4:14:20:045] Spell_C::CastSpell(635, 0, 0x615893, 0) [28]
+[4:14:22:398] [Singular] Casting Holy Shock on Rogue
+[4:14:22:401] Spell_C::CastSpell(20473, 0, 0x5FB895, 0) [29]
+[4:14:23:752] Spell_C::CastSpell(20473, 0, 0x5FB895, 0) [30]
+[4:14:46:227] Stopping the bot!
+[4:14:46:227] Stop called!
+[4:14:46:244] Activity: Honorbuddy Stopped
+[4:14:46:245] System.NullReferenceException: Object reference not set to an instance of an object.
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator.Class89.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector.Class192.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:14:46:245] Cleared POI - Reason Exception in Root.Tick()
+[4:14:46:245] Cleared POI
+[4:15:24:082] Starting the bot!
+[4:15:24:092] Can not start quest bot - this profile does not contain a quest order!
+[4:15:24:092] Styx.HonorbuddyUnableToStartException: Can not start quest bot - this profile does not contain a quest order!
+   at Bots.Quest.QuestBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:15:24:092] Stop called!
+[4:15:39:130] Starting the bot!
+[4:15:39:138] Can not start quest bot - this profile does not contain a quest order!
+[4:15:39:138] Styx.HonorbuddyUnableToStartException: Can not start quest bot - this profile does not contain a quest order!
+   at Bots.Quest.QuestBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:15:39:138] Stop called!
+[4:16:01:868] Starting the bot!
+[4:16:01:876] Changed tilemap to Azeroth, Tiled: True
+[4:16:02:089] Cleared POI - Reason Starting up
+[4:16:02:089] Cleared POI
+[4:16:02:090] Building spell book
+[4:16:02:091] Adding: Expert Riding
+[4:16:02:091] Adding: Gemcutting
+[4:16:02:091] Adding: Gift of the Naaru
+[4:16:02:091] Adding: Heroic Presence
+[4:16:02:091] Adding: Mail Specialization
+[4:16:02:091] Adding: Shadow Resistance
+[4:16:02:091] Adding: Bind Elemental
+[4:16:02:091] Adding: Call of the Ancestors
+[4:16:02:091] Adding: Call of the Elements
+[4:16:02:091] Adding: Call of the Spirits
+[4:16:02:091] Adding: Chain Lightning
+[4:16:02:091] Adding: Earth Shock
+[4:16:02:091] Adding: Earthbind Totem
+[4:16:02:091] Adding: Fire Elemental Totem
+[4:16:02:091] Adding: Fire Nova
+[4:16:02:091] Adding: Flame Shock
+[4:16:02:091] Adding: Frost Shock
+[4:16:02:091] Adding: Hex
+[4:16:02:091] Adding: Lava Burst
+[4:16:02:091] Adding: Lightning Bolt
+[4:16:02:091] Adding: Magma Totem
+[4:16:02:091] Adding: Purge
+[4:16:02:091] Adding: Searing Totem
+[4:16:02:091] Adding: Spiritwalker's Grace
+[4:16:02:091] Adding: Stoneclaw Totem
+[4:16:02:091] Adding: Wind Shear
+[4:16:02:091] Adding: Astral Recall
+[4:16:02:091] Adding: Earth Elemental Totem
+[4:16:02:091] Adding: Elemental Resistance Totem
+[4:16:02:091] Adding: Far Sight
+[4:16:02:091] Adding: Flametongue Totem
+[4:16:02:091] Adding: Flametongue Weapon
+[4:16:02:091] Adding: Frostbrand Weapon
+[4:16:02:091] Adding: Ghost Wolf
+[4:16:02:091] Adding: Grounding Totem
+[4:16:02:091] Adding: Heroism
+[4:16:02:091] Adding: Lightning Shield
+[4:16:02:091] Adding: Primal Strike
+[4:16:02:091] Adding: Rockbiter Weapon
+[4:16:02:091] Adding: Stoneskin Totem
+[4:16:02:091] Adding: Strength of Earth Totem
+[4:16:02:091] Adding: Unleash Elements
+[4:16:02:091] Adding: Water Breathing
+[4:16:02:091] Adding: Water Walking
+[4:16:02:091] Adding: Windfury Totem
+[4:16:02:092] Adding: Windfury Weapon
+[4:16:02:092] Adding: Wrath of Air Totem
+[4:16:02:092] Adding: Ancestral Spirit
+[4:16:02:092] Adding: Chain Heal
+[4:16:02:092] Adding: Cleanse Spirit
+[4:16:02:092] Adding: Earth Shield
+[4:16:02:092] Adding: Earthliving Weapon
+[4:16:02:092] Adding: Greater Healing Wave
+[4:16:02:092] Adding: Healing Rain
+[4:16:02:092] Adding: Healing Stream Totem
+[4:16:02:092] Adding: Healing Surge
+[4:16:02:092] Adding: Healing Wave
+[4:16:02:092] Adding: Mana Spring Totem
+[4:16:02:092] Adding: Mana Tide Totem
+[4:16:02:092] Adding: Nature's Swiftness
+[4:16:02:092] Adding: Purification
+[4:16:02:092] Adding: Reincarnation
+[4:16:02:092] Adding: Riptide
+[4:16:02:092] Adding: Spirit Link Totem
+[4:16:02:092] Adding: Totem of Tranquil Mind
+[4:16:02:092] Adding: Totemic Recall
+[4:16:02:092] Adding: Tremor Totem
+[4:16:02:092] Adding: Water Shield
+[4:16:02:093] Spell book built
+[4:16:02:206] Inserting Woo Ping [Gossip, Trainer, ProfessionTrainer] into the database!
+[4:16:02:218] Inserting Master Sergeant Maclure [Gossip, Questgiver] into the database!
+[4:16:02:230] Inserting Hallegosa [Questgiver] into the database!
+[4:16:02:241] Inserting Scrapbot [Vendor, Repair] into the database!
+[4:16:04:419] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[4:16:04:419] [Singular-DEBUG] Creating Combat behavior.
+[4:16:04:421] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[4:16:04:422] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[4:16:04:423] [Singular-DEBUG] Creating Pull behavior.
+[4:16:04:426] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[4:16:04:426] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[4:16:04:427] [Singular-DEBUG] Creating Rest behavior.
+[4:16:04:429] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[4:16:04:429] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[4:16:04:431] [Singular-DEBUG] Creating CombatBuffs behavior.
+[4:16:04:433] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[4:16:04:433] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[4:16:04:434] [Singular-DEBUG] Creating Heal behavior.
+[4:16:04:436] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[4:16:04:436] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[4:16:04:438] [Singular-DEBUG] Creating PullBuffs behavior.
+[4:16:04:441] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[4:16:04:443] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[4:16:04:443] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[4:16:04:489] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[4:16:09:618] [Instancebuddy]: Queueing at dungeon finder
+[4:16:11:641] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[4:16:17:011] [Instancebuddy]: Queueing at dungeon finder
+[4:16:19:033] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[4:16:22:165] [Singular-DEBUG] Switched targets!
+[4:16:22:165] [Singular-DEBUG] Melee Distance: 5
+[4:16:22:165] [Singular-DEBUG] Health: 1003
+[4:16:22:165] [Singular-DEBUG] Level: 30
+[4:16:24:398] [Instancebuddy]: Queueing at dungeon finder
+[4:16:26:413] [Singular] We have no food/drink. Waiting to recover our health/mana back
+[4:16:26:648] Drinking Highland Spring Water
+[4:16:31:709] [Instancebuddy]: Queueing at dungeon finder
+[4:16:34:507] Activity: Downloading Mesh...
+[4:16:35:099] Downloaded Azeroth_30_48
+[4:16:35:101] Activity: Honorbuddy Stopped
+[4:16:35:101] Activity: Loading Tile/s
+[4:16:35:101] Loading Azeroth_30_48
+[4:16:35:351] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:16:47:802] Stopping the bot!
+[4:16:47:802] Stop called!
+[4:16:47:827] Activity: Honorbuddy Stopped
+[4:16:48:500] System.NullReferenceException: Object reference not set to an instance of an object.
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator.Class89.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector.Class192.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:16:48:500] Cleared POI - Reason Exception in Root.Tick()
+[4:16:48:500] Cleared POI
+[4:16:50:761] Starting the bot!
+[4:16:50:769] Changed tilemap to Azeroth, Tiled: True
+[4:16:50:892] Cleared POI - Reason Starting up
+[4:16:50:892] Cleared POI
+[4:16:51:049] [Singular-DEBUG] Switched targets!
+[4:16:51:049] [Singular-DEBUG] Melee Distance: 3.5
+[4:16:51:049] [Singular-DEBUG] Health: 106957
+[4:16:51:049] [Singular-DEBUG] Level: 85
+[4:16:56:116] [Instancebuddy]: Queueing at dungeon finder
+[4:17:05:008] Stopping the bot!
+[4:17:05:008] Stop called!
+[4:17:06:943] Wow exited, Honorbuddy stopped!
+[4:17:12:922] [Instancebuddy]: 1689System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   at BlueMagic.ExecutorRand.Execute()
+   at Styx.WoWInternals.Lua.GetReturnValues(String lua, String scriptName)
+   at Styx.WoWInternals.Lua.GetReturnVal[T](String lua, UInt32 retVal)
+   at Instancebuddy.Instancebuddy.get_PartyMembersCountLua()
+   at Instancebuddy.Instancebuddy.method_0()
+[4:17:12:988] Not in game
+[4:17:15:000] System.Exception: Process must have frozen or gotten out of sync; InjectionFinishedEvent was never fired.
+   at BlueMagic.ExecutorRand.GrabFrame()
+   at Styx.Logic.BehaviorTree.TreeRoot.Stop()

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BGBuddySettings>
+  <FirstTime>False</FirstTime>
+  <LootCorpses>False</LootCorpses>
+  <PullDistance>40</PullDistance>
+  <MountUpDistance>40</MountUpDistance>
+  <Queue1>RandomBattleground</Queue1>
+  <Queue2>None</Queue2>
+  <EotsLogicType>Attack</EotsLogicType>
+  <BfgLogicType>Attack</BfgLogicType>
+  <AVLogicType>Attack</AVLogicType>
+  <WsgLogicType>Attack</WsgLogicType>
+  <TpLogicType>Attack</TpLogicType>
+  <IocLogicType>Attack</IocLogicType>
+  <SotaLogicType>Attack</SotaLogicType>
+  <AbLogicType>Attack</AbLogicType>
+</BGBuddySettings>

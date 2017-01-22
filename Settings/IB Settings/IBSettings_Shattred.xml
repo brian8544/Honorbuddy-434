@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IBSettings>
+  <NoMovement>False</NoMovement>
+  <QueueType>3</QueueType>
+  <RestSpeech>False</RestSpeech>
+  <ReQueue>False</ReQueue>
+  <FarmingMode>False</FarmingMode>
+  <FarmDungeon></FarmDungeon>
+  <LootInInstance>True</LootInInstance>
+  <LeaveBlacklisted>True</LeaveBlacklisted>
+  <Gather>False</Gather>
+  <ForcePOI>4</ForcePOI>
+  <LootFarming>True</LootFarming>
+  <GatherFarming>True</GatherFarming>
+  <OnlyLoot>False</OnlyLoot>
+  <OnlyLootID>0</OnlyLootID>
+</IBSettings>

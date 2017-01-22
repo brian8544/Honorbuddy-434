@@ -1,0 +1,16 @@
+[21:10:42:954] Logging in...
+[21:10:43:050] Logged into [Teq] host
+[21:10:45:521] Error attaching Honorbuddy to WoW! - System.TypeInitializationException: The type initializer for 'MainDev.RemoteASM.RemoteAsm' threw an exception. ---> System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types. Retrieve the LoaderExceptions property for more information.
+   at System.Reflection.Module._GetTypesInternal(StackCrawlMark& stackMark)
+   at System.Reflection.Assembly.GetTypes()
+   at MainDev.RemoteASM.RemoteAsm..cctor()
+   --- End of inner exception stack trace ---
+   at MainDev.RemoteASM.RemoteAsm..ctor()
+   at Styx.WoWInternals.ObjectManager.Initialize(Memory blackmagic)
+   at Honorbuddy.MainWindow.method_9()
+[21:10:45:521] -------------------------------
+[21:10:45:521] You have not selected a valid instance of WoW to attach to!
+[21:10:45:521] Please restart Honorbuddy and choose a valid instance of WoW to use Honorbuddy with!
+[21:10:45:521] This version of Honorbuddy only supports WoW Build #15595
+[21:10:45:521] You are currently on build #15595
+[21:10:45:521] -------------------------------

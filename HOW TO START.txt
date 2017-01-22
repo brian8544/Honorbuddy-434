@@ -1,0 +1,12 @@
+Regular?
+
+1) Open Auth\HBCD_Auth.exe
+2) Launch HonorBuddy
+
+
+--
+
+New account?
+
+1) Open HBRelog and setup
+2) Read REGULAR.

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DruidSettings>
+  <InnervateMana>40</InnervateMana>
+  <NoHealBalanceAndFeral>False</NoHealBalanceAndFeral>
+  <NonRestoHealingTouch>20</NonRestoHealingTouch>
+  <NonRestoRejuvenation>40</NonRestoRejuvenation>
+  <NonRestoRegrowth>40</NonRestoRegrowth>
+  <UseStarfall>False</UseStarfall>
+  <TranquilityHealth>60</TranquilityHealth>
+  <TranquilityCount>3</TranquilityCount>
+  <Swiftmend>65</Swiftmend>
+  <WildGrowthHealth>80</WildGrowthHealth>
+  <WildGrowthCount>2</WildGrowthCount>
+  <Regrowth>70</Regrowth>
+  <HealingTouch>60</HealingTouch>
+  <Nourish>75</Nourish>
+  <Rejuvenation>90</Rejuvenation>
+  <TreeOfLifeHealth>80</TreeOfLifeHealth>
+  <TreeOfLifeCount>3</TreeOfLifeCount>
+  <Barkskin>70</Barkskin>
+  <FeralBarkskin>50</FeralBarkskin>
+  <SurvivalInstinctsHealth>55</SurvivalInstinctsHealth>
+  <FrenziedRegenerationHealth>30</FrenziedRegenerationHealth>
+  <ManualFeralForm>None</ManualFeralForm>
+</DruidSettings>

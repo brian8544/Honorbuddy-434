@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SingularSettings>
+  <DisableAllMovement>False</DisableAllMovement>
+  <UseInstanceRotation>False</UseInstanceRotation>
+  <DisableAllTargeting>False</DisableAllTargeting>
+  <WaitForResSickness>True</WaitForResSickness>
+  <MinHealth>65</MinHealth>
+  <MinMana>65</MinMana>
+  <PotionHealth>30</PotionHealth>
+  <PotionMana>30</PotionMana>
+  <EnableDebugLogging>False</EnableDebugLogging>
+  <DisableNonCombatBehaviors>False</DisableNonCombatBehaviors>
+  <IgnoreHealTargetsAboveHealth>95</IgnoreHealTargetsAboveHealth>
+  <UseAlchemyFlasks>True</UseAlchemyFlasks>
+  <Trinket1>False</Trinket1>
+  <Trinket2>False</Trinket2>
+  <Trinket1Usage>Never</Trinket1Usage>
+  <Trinket2Usage>Never</Trinket2Usage>
+  <UseRacials>True</UseRacials>
+  <GiftNaaruHP>30</GiftNaaruHP>
+  <ShadowmeldThreatDrop>True</ShadowmeldThreatDrop>
+  <DisableTankTargetSwitching>False</DisableTankTargetSwitching>
+  <EnableTaunting>True</EnableTaunting>
+</SingularSettings>

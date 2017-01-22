@@ -1,0 +1,397 @@
+[4:34:15:892] Logging in...
+[4:34:15:948] Logged into CodeDeception local server
+[4:34:16:358] Attached to WoW with ID 7324
+[4:34:16:411] Honorbuddy v2.0.0.5883 started!
+[4:34:16:411] Using WoW with process ID 7324
+[4:34:16:411] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[4:34:16:411] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[4:34:16:414] Character is a level 85 Draenei Shaman
+[4:34:16:414] Current zone is Stormwind City
+[4:34:16:421] New bot added!: ArchaeologyBuddy
+[4:34:16:530] [Instancebuddy]: ----------------------------------------------------------------------
+[4:34:16:532] [Instancebuddy]: Currently supported tanking dungeons :
+[4:34:16:532] [Instancebuddy]: (This list will update itself automatically)
+[4:34:16:532] [Instancebuddy]: 
+[4:34:16:532] [Instancebuddy]:  (Level 15 - 21) Deadmines
+[4:34:16:532] [Instancebuddy]:  (Level 15 - 21) Ragefire Chasm
+[4:34:16:532] [Instancebuddy]:  (Level 16 - 26) Shadowfang Keep
+[4:34:16:532] [Instancebuddy]:  (Level 20 - 30) The Stockade
+[4:34:16:532] [Instancebuddy]:  (Level 26 - 36) Scarlet Monastery - Graveyard
+[4:34:16:532] [Instancebuddy]:  (Level 29 - 39) Scarlet Monastery - Library
+[4:34:16:532] [Instancebuddy]:  (Level 32 - 42) Scarlet Monastery - Armory
+[4:34:16:532] [Instancebuddy]:  (Level 35 - 45) Scarlet Monastery - Cathedral
+[4:34:16:532] [Instancebuddy]:  (Level 38 - 48) Scholomance
+[4:34:16:532] [Instancebuddy]:  (Level 42 - 52) Stratholme - Main Gate
+[4:34:16:532] [Instancebuddy]:  (Level 46 - 56) Stratholme - Service Entrance
+[4:34:16:532] [Instancebuddy]:  (Level 57 - 67) Hellfire Ramparts
+[4:34:16:532] [Instancebuddy]:  (Level 59 - 68) The Blood Furnace
+[4:34:16:532] [Instancebuddy]:  (Level 62 - 71) Mana Tombs
+[4:34:16:532] [Instancebuddy]:  (Level 65 - 73) Sethekk Halls
+[4:34:16:532] [Instancebuddy]: ----------------------------------------------------------------------
+[4:34:16:759] New bot added!: Instancebuddy
+[4:34:16:761] New bot added!: BGBuddy
+[4:34:16:781] New bot added!: Gatherbuddy2
+[4:34:16:783] New bot added!: Grind Bot
+[4:34:16:785] New bot added!: Questing
+[4:34:16:790] New bot added!: Mixed Mode
+[4:34:16:792] New bot added!: PartyBot
+[4:34:17:957] New bot added!: Combat Bot
+[4:34:17:957] New bot added!: ProfessionBuddy
+[4:34:17:968] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[4:34:17:968] KillBetweenHotspots: True
+[4:34:17:968] AdvancedSettingsMode: False
+[4:34:17:968] LogoutForInactivity: True
+[4:34:17:968] LogoutInactivityTimer: 10
+[4:34:17:968] LogoutInactivityUseForceQuit: False
+[4:34:17:968] ProfileDebuggingMode: False
+[4:34:17:968] FoodAmount: 0
+[4:34:17:968] DrinkAmount: 0
+[4:34:17:968] FormLocationX: 2202
+[4:34:17:968] FormLocationY: 580
+[4:34:17:968] FormWidth: 396
+[4:34:17:968] FormHeight: 302
+[4:34:17:968] SelectedBotIndex: 5
+[4:34:17:968] UseFlightPaths: False
+[4:34:17:968] FindMountAutomatically: True
+[4:34:17:968] UseRandomMount: True
+[4:34:17:968] FoodName: 58260
+[4:34:17:968] DrinkName: 58257
+[4:34:17:968] MountName: swift palomino
+[4:34:17:968] FlyingMountName has no value yet!
+[4:34:17:968] LootMobs: True
+[4:34:17:968] SkinMobs: False
+[4:34:17:968] NinjaSkin: False
+[4:34:17:968] LootChests: True
+[4:34:17:968] HarvestMinerals: False
+[4:34:17:968] HarvestHerbs: False
+[4:34:17:968] UseMount: True
+[4:34:17:968] PullDistance: 45
+[4:34:17:968] LootRadius: 45
+[4:34:17:968] FindVendorsAutomatically: False
+[4:34:17:968] TrainNewSkills: False
+[4:34:17:968] LearnFlightPaths: True
+[4:34:17:968] LastUsedPath has no value yet!
+[4:34:17:968] MountDistance: 75
+[4:34:17:968] RessAtSpiritHealers: False
+[4:34:17:968] GroundMountFarmingMode: False
+[4:34:17:968] FoodAmount: 0
+[4:34:17:968] DrinkAmount: 0
+[4:34:17:968] FormLocationX: 2202
+[4:34:17:968] FormLocationY: 580
+[4:34:17:968] SelectedBotIndex: 5
+[4:34:17:968] UseFlightPaths: False
+[4:34:17:968] FindMountAutomatically: True
+[4:34:17:968] UseRandomMount: True
+[4:34:17:968] FoodName: 58260
+[4:34:17:968] DrinkName: 58257
+[4:34:17:968] MountName: swift palomino
+[4:34:17:968] LootMobs: True
+[4:34:17:968] SkinMobs: False
+[4:34:17:968] NinjaSkin: False
+[4:34:17:968] LootChests: True
+[4:34:17:968] HarvestMinerals: False
+[4:34:17:968] HarvestHerbs: False
+[4:34:17:968] UseMount: True
+[4:34:17:968] PullDistance: 45
+[4:34:17:968] LootRadius: 45
+[4:34:17:968] FindVendorsAutomatically: False
+[4:34:17:968] TrainNewSkills: False
+[4:34:17:968] LearnFlightPaths: True
+[4:34:17:968] LastUsedPath has no value yet!
+[4:34:17:968] MountDistance: 75
+[4:34:17:968] RessAtSpiritHealers: False
+[4:34:17:969] Please wait a few seconds while Honorbuddy initializes.
+[4:34:17:969] Activity: Initializing.
+[4:34:17:969] Activity: Loading memory management & tables
+[4:34:17:980] Activity: Loading Spells
+[4:34:18:026] Activity: Initializing Spell Manager
+[4:34:18:031] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[4:34:18:031] V: 2.0.0.5883
+[4:34:18:038] Activity: Initializing Plugins
+[4:34:18:052] 
+[4:34:19:098] [WeigtSet] Selected weight set: Shaman-Restoration
+[4:34:19:857] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[4:34:19:859] Root element is missing.
+[4:34:19:859] ItemForAura: Continuing with Default Config Values
+[4:34:19:860] ItemForAura - Questhelper - Version 2.0 Loaded.
+[4:34:19:860] Root element is missing.
+[4:34:19:860] ItemForAura: Continuing with Default Config Values
+[4:34:20:221] Activity: Initializing Navigator
+[4:34:20:267] Activity: Initializing Blackspot Manager
+[4:34:20:269] Activity: Initializing Battlegrounds
+[4:34:20:269] Activity: Initializing Flight Paths
+[4:34:20:290] Activity: Initializing Routines
+[4:34:20:293] Building spell book
+[4:34:20:297] Spell book built
+[4:34:20:298] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[4:34:20:881] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[4:34:21:863] Activity: Initialization complete
+[4:34:21:863] Initialization complete.
+[4:34:21:864] Activity: Honorbuddy Startup Complete
+[4:34:22:517] Starting the bot!
+[4:34:22:557] Downloaded tilemap Azeroth
+[4:34:22:562] Changed tilemap to Azeroth, Tiled: True
+[4:34:22:584] Changing current profile to Empty Profile
+[4:35:07:518] Chose Singular v2 $Revision: 605 $ as your combat class!
+[4:35:07:519] [Singular] Starting Singular v2.0.0.0
+[4:35:07:519] [Singular] Determining talent spec.
+[4:35:07:631] [Singular-DEBUG] [Talents] Best Tree: 34
+[4:35:07:631] [Singular] Current spec is  Restoration Shaman
+[4:35:07:633] [Singular-DEBUG] Creating Combat behavior.
+[4:35:07:637] [Singular] Building method list
+[4:35:07:640] [Singular] Added 377 methods
+[4:35:07:643] [Singular-DEBUG] CreateRestoShamanCombatBehavior is a match!
+[4:35:07:643] [Singular]  Using CreateRestoShamanCombatBehavior for Restoration Shaman - Combat (Priority: 0)
+[4:35:07:657] [Singular-DEBUG] Creating Pull behavior.
+[4:35:07:660] [Singular] Singular currently does not support Pull for this class/spec combination, in this context! [Shaman, RestorationShaman, Normal]
+[4:35:07:660] Stop called!
+[4:35:08:742] Cleared POI
+[4:35:08:742] Cleared POI - Reason Starting up
+[4:35:08:742] Cleared POI
+[4:35:11:539] [Singular-DEBUG] Attached combat log
+[4:35:11:679] Activity: Loading Tile/s
+[4:35:11:679] Loading Azeroth_30_48
+[4:35:11:971] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:35:14:105] Stopping the bot!
+[4:35:14:105] Stop called!
+[4:35:14:143] Activity: Honorbuddy Stopped
+[4:35:15:746] Starting the bot!
+[4:35:15:756] Changed tilemap to Azeroth, Tiled: True
+[4:35:15:961] Cleared POI - Reason Starting up
+[4:35:15:961] Cleared POI
+[4:35:16:656] [Instancebuddy]: Queueing at dungeon finder
+[4:38:06:372] [Instancebuddy]: Anti AFK jump
+[4:38:12:074] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:40:52:605] Stopping the bot!
+[4:40:52:605] Stop called!
+[4:40:52:709] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:40:52:709] Cleared POI - Reason Exception in Root.Tick()
+[4:40:52:709] Cleared POI
+[4:41:05:395] Starting the bot!
+[4:41:05:490] Cleared POI - Reason Starting up
+[4:41:05:491] Cleared POI
+[4:41:05:733] [BGBuddy]: Queueing up for RandomBattleground
+[4:41:12:556] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:43:27:491] Stopping the bot!
+[4:43:27:491] Stop called!
+[4:43:32:946] Activity: Loading Profile...
+[4:44:29:571] Starting the bot!
+[4:44:29:650] Cleared POI - Reason Starting up
+[4:44:29:650] Cleared POI
+[4:44:30:129] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:44:30:134] [BGBuddy]: Accepting battleground join in 6 seconds.
+[4:44:46:242] Downloaded tilemap PVPZone03
+[4:44:46:242] Changed tilemap to PVPZone03, Tiled: True
+[4:44:46:248] [Singular-DEBUG] Detached combat log
+[4:44:46:259] [Singular] Context changed. New context: Battlegrounds. Rebuilding behaviors.
+[4:44:46:259] [Singular-DEBUG] Creating Combat behavior.
+[4:44:46:260] [Singular-DEBUG] CreateRestoShamanCombatBehavior is a match!
+[4:44:46:261] [Singular]  Using CreateRestoShamanCombatBehavior for Restoration Shaman - Combat (Priority: 0)
+[4:44:46:263] [Singular-DEBUG] Creating Pull behavior.
+[4:44:46:266] [Singular] Singular currently does not support Pull for this class/spec combination, in this context! [Shaman, RestorationShaman, Battlegrounds]
+[4:44:46:266] Stop called!
+[4:44:46:274] [BGBuddy]: Starting Warsong Gulch
+[4:44:46:303] Activity: Downloading Mesh...
+[4:44:46:547] Downloaded PVPZone03_29_29
+[4:44:46:551] Activity: Loading Profile...
+[4:44:46:552] Activity: Loading Tile/s
+[4:44:46:552] Loading PVPZone03_29_29
+[4:44:46:691] Activity: Honorbuddy Stopped
+[4:44:47:691] [BotEvents] EventChecker smethod_0 threw exception Thread was being aborted. in check
+[4:44:47:692] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.BotEvents.PulseEvents()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:44:47:692] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:44:53:898] Starting the bot!
+[4:44:53:908] Changed tilemap to PVPZone03, Tiled: True
+[4:44:53:940] Cleared POI - Reason Starting up
+[4:44:53:940] Cleared POI
+[4:44:54:055] Activity: Loading Tile/s
+[4:44:54:055] Loading PVPZone03_29_29
+[4:44:54:160] Changed POI to:Type: Hotspot, Loc: <1511.947, 1462.53, 352.4548>
+[4:44:54:160] [BGBuddy]: Moving to biggest friendly pack
+[4:44:54:164] Path randomized
+[4:44:56:685] Activity: Downloading Mesh...
+[4:44:56:841] Downloaded PVPZone03_28_29
+[4:44:56:842] Activity: Loading Tile/s
+[4:44:56:843] Loading PVPZone03_28_29
+[4:44:59:674] Changed POI to:Type: Hotspot, Loc: <1470.963, 1456.776, 343.1119>
+[4:44:59:674] [BGBuddy]: Moving to enemy flag carrier
+[4:45:00:469] Mounting: Swift Palomino
+[4:45:00:674] Mounting: Using Ghost Wolf since we are indoors.
+[4:45:00:677] Spell_C::CastSpell(2645, 0, 0x0, 0) [1]
+[4:45:02:768] Path randomized
+[4:45:05:665] Changed POI to:Type: Hotspot, Loc: <1528.795, 1476.078, 352.1674>
+[4:45:05:665] [BGBuddy]: Moving to biggest fight
+[4:45:06:922] [STUCK] Got stuck at <1499.406, 1460.322, 350.9247> on map 489
+[4:45:06:931] [STUCK][HITTEST] LD/LU: True
+[4:45:06:931] [STUCK][HITTEST] Left: True
+[4:45:06:931] [STUCK][HITTEST] RD/RU: False
+[4:45:06:931] [STUCK][HITTEST] Right: False
+[4:45:06:931] [STUCK][HITTEST] Behind: False
+[4:45:06:931] [STUCK][HITTEST] Behind Left: True
+[4:45:06:931] [STUCK][HITTEST] Behind Right: False
+[4:45:07:904] [STUCK] Jumping worked!
+[4:45:12:947] [Singular-DEBUG] Switched targets!
+[4:45:12:948] [Singular-DEBUG] Melee Distance: 3.5
+[4:45:12:948] [Singular-DEBUG] Health: 138241
+[4:45:12:948] [Singular-DEBUG] Level: 85
+[4:45:14:193] Changed POI to:Type: Kill, Name: Calipsoo
+[4:45:37:178] Stopping the bot!
+[4:45:37:178] Stop called!
+[4:45:37:185] Changed tilemap to PVPZone03, Tiled: True
+[4:45:37:189] Activity: Honorbuddy Stopped
+[4:47:22:172] Starting the bot!
+[4:47:22:185] Object reference not set to an instance of an object.
+[4:47:22:186] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:47:22:186] Stop called!
+[4:47:49:836] Starting the bot!
+[4:47:49:844] Object reference not set to an instance of an object.
+[4:47:49:845] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:47:49:845] Stop called!
+[4:47:55:275] Starting the bot!
+[4:47:55:283] Object reference not set to an instance of an object.
+[4:47:55:283] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:47:55:283] Stop called!
+[4:47:58:571] Starting the bot!
+[4:47:58:580] Object reference not set to an instance of an object.
+[4:47:58:580] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:47:58:580] Stop called!
+[4:47:59:625] Starting the bot!
+[4:47:59:630] Object reference not set to an instance of an object.
+[4:47:59:631] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:47:59:631] Stop called!
+[4:48:00:679] Starting the bot!
+[4:48:00:683] Object reference not set to an instance of an object.
+[4:48:00:684] System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bots.Gatherbuddy.Profile..ctor()
+   at Bots.Gatherbuddy.GatherbuddyBot.Start()
+   at Styx.Logic.BehaviorTree.TreeRoot.Start()
+   at Honorbuddy.MainWindow.Start()
+[4:48:00:684] Stop called!
+[4:48:21:905] Starting the bot!
+[4:48:21:940] Cleared POI - Reason Starting up
+[4:48:21:940] Cleared POI
+[4:48:21:942] Building spell book
+[4:48:21:944] Adding: Herb Gathering
+[4:48:21:944] Adding: Lifeblood
+[4:48:21:944] Adding: Smelting
+[4:48:21:945] Spell book built
+[4:48:21:965] Inserting Maxima Blastenheimer [Gossip, Questgiver] into the database!
+[4:48:21:987] Changed tilemap to Azeroth, Tiled: True
+[4:48:21:995] [Singular] ERROR: Could not add combat log event filter! - Performance may be horrible, and things may not work properly!
+[4:48:21:995] [Singular-DEBUG] Attached combat log
+[4:48:21:995] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[4:48:21:995] [Singular-DEBUG] Creating Combat behavior.
+[4:48:21:996] [Singular-DEBUG] CreateRestoShamanCombatBehavior is a match!
+[4:48:21:996] [Singular]  Using CreateRestoShamanCombatBehavior for Restoration Shaman - Combat (Priority: 0)
+[4:48:21:998] [Singular-DEBUG] Creating Pull behavior.
+[4:48:22:000] [Singular] Singular currently does not support Pull for this class/spec combination, in this context! [Shaman, RestorationShaman, Normal]
+[4:48:22:000] Stop called!
+[4:48:23:003] [BotEvents] EventChecker smethod_0 threw exception Thread was being aborted. in check
+[4:48:23:004] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.BotEvents.PulseEvents()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:48:23:004] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:48:29:963] Starting the bot!
+[4:48:30:094] Cleared POI - Reason Starting up
+[4:48:30:094] Cleared POI
+[4:48:30:194] Activity: Downloading Mesh...
+[4:48:30:435] Downloaded Azeroth_31_49
+[4:48:30:437] Activity: Honorbuddy Stopped
+[4:48:30:437] Activity: Loading Tile/s
+[4:48:30:437] Loading Azeroth_31_49
+[4:48:30:527] Activity: Downloading Mesh...
+[4:48:30:731] Downloaded Azeroth_32_49
+[4:48:30:733] Activity: Loading Tile/s
+[4:48:30:734] Loading Azeroth_32_49
+[4:48:30:811] Activity: Downloading Mesh...
+[4:48:31:008] Downloaded Azeroth_32_50
+[4:48:31:011] Activity: Loading Tile/s
+[4:48:31:011] Loading Azeroth_32_50
+[4:48:31:072] Activity: Downloading Mesh...
+[4:48:31:247] Downloaded Azeroth_31_50
+[4:48:31:249] Activity: Loading Tile/s
+[4:48:31:250] Loading Azeroth_31_50
+[4:48:31:328] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:48:31:424] [Singular-DEBUG] [Talents] Best Tree: 34
+[4:48:35:205] [Instancebuddy]: Reseting saved instances.
+[4:48:35:215] [Instancebuddy]: Queueing at dungeon finder
+[4:48:37:309] [Instancebuddy]: Waiting for 5 seconds before accepting dungeon invite
+[4:48:42:470] [Instancebuddy]: Accepting dungeon invite
+[4:49:31:782] Not in game
+[4:49:32:481] Downloaded tilemap SkywallDungeon
+[4:49:32:482] Changed tilemap to SkywallDungeon, Tiled: True
+[4:49:32:486] [Singular] Context changed. New context: Instances. Rebuilding behaviors.
+[4:49:32:486] [Singular-DEBUG] Creating Combat behavior.
+[4:49:32:487] [Singular-DEBUG] CreateRestoShamanCombatBehavior is a match!
+[4:49:32:487] [Singular]  Using CreateRestoShamanCombatBehavior for Restoration Shaman - Combat (Priority: 0)
+[4:49:32:490] [Singular-DEBUG] Creating Pull behavior.
+[4:49:32:493] [Singular] Singular currently does not support Pull for this class/spec combination, in this context! [Shaman, RestorationShaman, Instances]
+[4:49:32:493] Stop called!
+[4:49:32:629] Activity: Honorbuddy Stopped
+[4:49:33:629] [BotEvents] EventChecker smethod_0 threw exception Thread was being aborted. in check
+[4:49:33:631] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.BotEvents.PulseEvents()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:49:33:632] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:49:55:787] Starting the bot!
+[4:49:55:894] Cleared POI - Reason Starting up
+[4:49:55:894] Cleared POI
+[4:49:55:956] [Singular-DEBUG] Switched targets!
+[4:49:55:956] [Singular-DEBUG] Melee Distance: 3.5
+[4:49:55:956] [Singular-DEBUG] Health: 157763
+[4:49:55:956] [Singular-DEBUG] Level: 85
+[4:49:55:969] [Instancebuddy]: Loading dungeon script for 'The Vortex Pinnacle'
+[4:49:56:006] [Instancebuddy]: Tank is set to: DeathKnight with MaxHP: 157763
+[4:49:56:066] Activity: Loading Tile/s
+[4:49:56:066] Loading SkywallDungeon_31_32
+[4:49:56:276] Loading SkywallDungeon_32_32
+[4:50:27:858] Activity: Combat
+[4:50:34:501] InteractDebug:685354808
+[4:50:34:504] Interact Done:685354808
+[4:51:06:915] Stopping the bot!
+[4:51:06:915] Stop called!
+[4:51:06:932] Activity: Honorbuddy Stopped
+[4:51:08:787] Starting the bot!
+[4:51:08:792] Changed tilemap to SkywallDungeon, Tiled: True
+[4:51:08:887] Cleared POI - Reason Starting up
+[4:51:08:887] Cleared POI
+[4:51:09:940] [Instancebuddy]: Tank is set to: DeathKnight with MaxHP: 157763
+[4:51:09:951] Activity: Combat
+[4:51:20:436] Activity: Loading Tile/s
+[4:51:20:436] Loading SkywallDungeon_32_32
+[4:51:28:332] Stopping the bot!
+[4:51:28:332] Stop called!
+[4:51:28:346] Activity: Honorbuddy Stopped

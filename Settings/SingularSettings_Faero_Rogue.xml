@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RogueSettings>
+  <MHPoison>Instant</MHPoison>
+  <OHPoison>Deadly</OHPoison>
+  <ThrownPoison>Wound</ThrownPoison>
+  <InterruptSpells>True</InterruptSpells>
+  <UseTricksOfTheTrade>True</UseTricksOfTheTrade>
+  <CombatUseRuptureFinisher>True</CombatUseRuptureFinisher>
+  <UseExposeArmor>True</UseExposeArmor>
+</RogueSettings>

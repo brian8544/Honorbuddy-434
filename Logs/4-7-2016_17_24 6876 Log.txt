@@ -1,0 +1,164 @@
+[17:24:28:316] Logging in...
+[17:24:28:398] Logged into CodeDeception local server
+[17:24:28:878] Attached to WoW with ID 3040
+[17:24:28:924] Honorbuddy v2.0.0.5883 started!
+[17:24:28:924] Using WoW with process ID 3040
+[17:24:28:924] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[17:24:28:924] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[17:24:28:926] Character is a level 85 Draenei Shaman
+[17:24:28:927] Current zone is Stormwind City
+[17:24:28:939] New bot added!: ArchaeologyBuddy
+[17:24:29:031] [Instancebuddy]: ----------------------------------------------------------------------
+[17:24:29:033] [Instancebuddy]: Currently supported tanking dungeons :
+[17:24:29:033] [Instancebuddy]: (This list will update itself automatically)
+[17:24:29:033] [Instancebuddy]: 
+[17:24:29:033] [Instancebuddy]:  (Level 15 - 21) Deadmines
+[17:24:29:033] [Instancebuddy]:  (Level 15 - 21) Ragefire Chasm
+[17:24:29:033] [Instancebuddy]:  (Level 16 - 26) Shadowfang Keep
+[17:24:29:033] [Instancebuddy]:  (Level 20 - 30) The Stockade
+[17:24:29:033] [Instancebuddy]:  (Level 26 - 36) Scarlet Monastery - Graveyard
+[17:24:29:033] [Instancebuddy]:  (Level 29 - 39) Scarlet Monastery - Library
+[17:24:29:033] [Instancebuddy]:  (Level 32 - 42) Scarlet Monastery - Armory
+[17:24:29:033] [Instancebuddy]:  (Level 35 - 45) Scarlet Monastery - Cathedral
+[17:24:29:033] [Instancebuddy]:  (Level 38 - 48) Scholomance
+[17:24:29:033] [Instancebuddy]:  (Level 42 - 52) Stratholme - Main Gate
+[17:24:29:033] [Instancebuddy]:  (Level 46 - 56) Stratholme - Service Entrance
+[17:24:29:033] [Instancebuddy]:  (Level 57 - 67) Hellfire Ramparts
+[17:24:29:033] [Instancebuddy]:  (Level 59 - 68) The Blood Furnace
+[17:24:29:033] [Instancebuddy]:  (Level 62 - 71) Mana Tombs
+[17:24:29:033] [Instancebuddy]:  (Level 65 - 73) Sethekk Halls
+[17:24:29:033] [Instancebuddy]: ----------------------------------------------------------------------
+[17:24:29:162] New bot added!: Instancebuddy
+[17:24:29:164] New bot added!: BGBuddy
+[17:24:29:186] New bot added!: Gatherbuddy2
+[17:24:29:188] New bot added!: Grind Bot
+[17:24:29:191] New bot added!: Questing
+[17:24:29:194] New bot added!: Mixed Mode
+[17:24:29:196] New bot added!: PartyBot
+[17:24:30:381] New bot added!: Combat Bot
+[17:24:30:381] New bot added!: ProfessionBuddy
+[17:24:30:392] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[17:24:30:392] KillBetweenHotspots: True
+[17:24:30:392] AdvancedSettingsMode: False
+[17:24:30:392] LogoutForInactivity: True
+[17:24:30:392] LogoutInactivityTimer: 10
+[17:24:30:392] LogoutInactivityUseForceQuit: False
+[17:24:30:392] ProfileDebuggingMode: False
+[17:24:30:392] FoodAmount: 0
+[17:24:30:392] DrinkAmount: 0
+[17:24:30:392] FormLocationX: 2193
+[17:24:30:392] FormLocationY: 590
+[17:24:30:392] FormWidth: 396
+[17:24:30:392] FormHeight: 302
+[17:24:30:392] SelectedBotIndex: 1
+[17:24:30:392] UseFlightPaths: False
+[17:24:30:392] FindMountAutomatically: True
+[17:24:30:392] UseRandomMount: True
+[17:24:30:392] FoodName: 58260
+[17:24:30:392] DrinkName: 58257
+[17:24:30:392] MountName: swift palomino
+[17:24:30:392] FlyingMountName has no value yet!
+[17:24:30:392] LootMobs: True
+[17:24:30:392] SkinMobs: False
+[17:24:30:392] NinjaSkin: False
+[17:24:30:392] LootChests: True
+[17:24:30:392] HarvestMinerals: False
+[17:24:30:392] HarvestHerbs: False
+[17:24:30:392] UseMount: False
+[17:24:30:392] PullDistance: 45
+[17:24:30:392] LootRadius: 45
+[17:24:30:392] FindVendorsAutomatically: False
+[17:24:30:392] TrainNewSkills: False
+[17:24:30:392] LearnFlightPaths: True
+[17:24:30:392] LastUsedPath has no value yet!
+[17:24:30:392] MountDistance: 75
+[17:24:30:392] RessAtSpiritHealers: False
+[17:24:30:392] GroundMountFarmingMode: False
+[17:24:30:392] FoodAmount: 0
+[17:24:30:392] DrinkAmount: 0
+[17:24:30:392] FormLocationX: 2193
+[17:24:30:392] FormLocationY: 590
+[17:24:30:392] SelectedBotIndex: 1
+[17:24:30:392] UseFlightPaths: False
+[17:24:30:392] FindMountAutomatically: True
+[17:24:30:392] UseRandomMount: True
+[17:24:30:392] FoodName: 58260
+[17:24:30:392] DrinkName: 58257
+[17:24:30:392] MountName: swift palomino
+[17:24:30:392] LootMobs: True
+[17:24:30:392] SkinMobs: False
+[17:24:30:392] NinjaSkin: False
+[17:24:30:392] LootChests: True
+[17:24:30:392] HarvestMinerals: False
+[17:24:30:392] HarvestHerbs: False
+[17:24:30:392] UseMount: False
+[17:24:30:392] PullDistance: 45
+[17:24:30:392] LootRadius: 45
+[17:24:30:392] FindVendorsAutomatically: False
+[17:24:30:392] TrainNewSkills: False
+[17:24:30:392] LearnFlightPaths: True
+[17:24:30:392] LastUsedPath has no value yet!
+[17:24:30:392] MountDistance: 75
+[17:24:30:392] RessAtSpiritHealers: False
+[17:24:30:393] Please wait a few seconds while Honorbuddy initializes.
+[17:24:30:393] Activity: Initializing.
+[17:24:30:394] Activity: Loading memory management & tables
+[17:24:30:404] Activity: Loading Spells
+[17:24:30:449] Activity: Initializing Spell Manager
+[17:24:30:449] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[17:24:30:450] V: 2.0.0.5883
+[17:24:30:462] Activity: Initializing Plugins
+[17:24:30:476] 
+[17:24:31:500] [WeigtSet] Selected weight set: Shaman-Restoration
+[17:24:32:260] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[17:24:32:262] Root element is missing.
+[17:24:32:262] ItemForAura: Continuing with Default Config Values
+[17:24:32:263] ItemForAura - Questhelper - Version 2.0 Loaded.
+[17:24:32:263] Root element is missing.
+[17:24:32:263] ItemForAura: Continuing with Default Config Values
+[17:24:32:604] Activity: Initializing Navigator
+[17:24:32:653] Activity: Initializing Blackspot Manager
+[17:24:32:655] Activity: Initializing Battlegrounds
+[17:24:32:656] Activity: Initializing Flight Paths
+[17:24:32:671] Activity: Initializing Routines
+[17:24:32:673] Building spell book
+[17:24:32:676] Spell book built
+[17:24:32:677] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[17:24:33:255] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[17:24:34:202] Activity: Initialization complete
+[17:24:34:203] Initialization complete.
+[17:24:34:204] Activity: Honorbuddy Startup Complete
+[17:24:39:912] Activity: Loading Profile...
+[17:24:42:835] Starting the bot!
+[17:24:42:868] Downloaded tilemap Azeroth
+[17:24:42:872] Changed tilemap to Azeroth, Tiled: True
+[17:24:42:890] Changing current profile to Empty Profile
+[17:24:46:340] Chose Singular v2 $Revision: 605 $ as your combat class!
+[17:24:46:341] [Singular] Starting Singular v2.0.0.0
+[17:24:46:341] [Singular] Determining talent spec.
+[17:24:46:388] [Singular-DEBUG] [Talents] Best Tree: 34
+[17:24:46:389] [Singular] Current spec is  Restoration Shaman
+[17:24:46:390] [Singular-DEBUG] Creating Combat behavior.
+[17:24:46:394] [Singular] Building method list
+[17:24:46:397] [Singular] Added 377 methods
+[17:24:46:401] [Singular-DEBUG] CreateRestoShamanCombatBehavior is a match!
+[17:24:46:402] [Singular]  Using CreateRestoShamanCombatBehavior for Restoration Shaman - Combat (Priority: 0)
+[17:24:46:415] [Singular-DEBUG] Creating Pull behavior.
+[17:24:46:418] [Singular] Singular currently does not support Pull for this class/spec combination, in this context! [Shaman, RestorationShaman, Normal]
+[17:24:46:418] Stop called!
+[17:24:47:476] Cleared POI
+[17:24:47:476] Cleared POI - Reason Starting up
+[17:24:47:477] Cleared POI
+[17:24:47:636] Inserting Kyle Radue [SpellClick] into the database!
+[17:24:49:314] [Singular-DEBUG] Attached combat log
+[17:24:49:432] Activity: Loading Tile/s
+[17:24:49:432] Loading Azeroth_30_48
+[17:24:49:702] Activity: Downloading Mesh...
+[17:24:50:053] Downloaded Azeroth_31_48
+[17:24:50:056] Activity: Loading Tile/s
+[17:24:50:056] Loading Azeroth_31_48
+[17:24:50:231] Updating repair cost for current equipped items. New value: [4g37s98c]
+[17:24:54:503] [Instancebuddy]: Queueing at dungeon finder
+[17:26:06:231] Not in game
+[17:26:12:199] Stop called!
+[17:26:12:211] Activity: Honorbuddy Stopped

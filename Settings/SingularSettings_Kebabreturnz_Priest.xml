@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PriestSettings>
+  <ShadowFlashHealHealth>30</ShadowFlashHealHealth>
+  <MindFlayMana>50</MindFlayMana>
+  <ShieldHealthPercent>60</ShieldHealthPercent>
+  <MindBlastTimer>15</MindBlastTimer>
+  <MindBlastOrbs>2</MindBlastOrbs>
+  <DevouringPlagueFirst>False</DevouringPlagueFirst>
+  <AlwaysArchangel5>False</AlwaysArchangel5>
+  <DispersionMana>20</DispersionMana>
+  <DontHealPercent>40</DontHealPercent>
+  <DontShadowFormHealth>True</DontShadowFormHealth>
+  <UsePsychicHorrorAdds>True</UsePsychicHorrorAdds>
+  <UsePsychicHorrorInterrupt>True</UsePsychicHorrorInterrupt>
+  <UseShieldPrePull>True</UseShieldPrePull>
+  <UseShadowProtection>True</UseShadowProtection>
+  <UsePsychicScream>True</UsePsychicScream>
+  <PsychicScreamAddCount>2</PsychicScreamAddCount>
+  <UseFearWard>True</UseFearWard>
+  <UseInnerFire>True</UseInnerFire>
+  <ArchangelMana>75</ArchangelMana>
+  <ShadowfiendMana>50</ShadowfiendMana>
+  <HymnofHopeMana>40</HymnofHopeMana>
+  <UseWand>True</UseWand>
+  <Penance>30</Penance>
+  <FlashHeal>40</FlashHeal>
+  <GreaterHeal>50</GreaterHeal>
+  <Heal>70</Heal>
+  <Renew>70</Renew>
+  <PainSuppression>30</PainSuppression>
+  <BindingHealMe>70</BindingHealMe>
+  <BindingHealThem>70</BindingHealThem>
+  <PrayerOfHealing>50</PrayerOfHealing>
+  <PrayerOfHealingCount>3</PrayerOfHealingCount>
+  <DpsMana>70</DpsMana>
+  <HolyHeal>95</HolyHeal>
+  <HolyGreaterHeal>50</HolyGreaterHeal>
+  <HolyFlashHeal>25</HolyFlashHeal>
+  <DivineHymnHealth>40</DivineHymnHealth>
+  <DivineHymnCount>6</DivineHymnCount>
+  <PrayerOfHealingSerendipityHealth>80</PrayerOfHealingSerendipityHealth>
+  <PrayerOfHealingSerendipityCount>4</PrayerOfHealingSerendipityCount>
+  <CircleOfHealingHealth>95</CircleOfHealingHealth>
+  <CircleOfHealingCount>5</CircleOfHealingCount>
+</PriestSettings>

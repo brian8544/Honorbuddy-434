@@ -1,0 +1,2164 @@
+[17:56:18:868] Logging in...
+[17:56:18:986] Logged into CodeDeception local server
+[17:56:19:556] Attached to WoW with ID 7748
+[17:56:19:654] Honorbuddy v2.0.0.5883 started!
+[17:56:19:655] Using WoW with process ID 7748
+[17:56:19:655] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[17:56:19:655] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[17:56:19:658] Character is a level 85 Human Paladin
+[17:56:19:658] Current zone is Stormwind City
+[17:56:19:665] New bot added!: ArchaeologyBuddy
+[17:56:19:831] [Instancebuddy]: ----------------------------------------------------------------------
+[17:56:19:832] [Instancebuddy]: Currently supported tanking dungeons :
+[17:56:19:832] [Instancebuddy]: (This list will update itself automatically)
+[17:56:19:832] [Instancebuddy]: 
+[17:56:19:832] [Instancebuddy]:  (Level 15 - 21) Deadmines
+[17:56:19:832] [Instancebuddy]:  (Level 15 - 21) Ragefire Chasm
+[17:56:19:832] [Instancebuddy]:  (Level 16 - 26) Shadowfang Keep
+[17:56:19:832] [Instancebuddy]:  (Level 20 - 30) The Stockade
+[17:56:19:832] [Instancebuddy]:  (Level 26 - 36) Scarlet Monastery - Graveyard
+[17:56:19:832] [Instancebuddy]:  (Level 29 - 39) Scarlet Monastery - Library
+[17:56:19:832] [Instancebuddy]:  (Level 32 - 42) Scarlet Monastery - Armory
+[17:56:19:832] [Instancebuddy]:  (Level 35 - 45) Scarlet Monastery - Cathedral
+[17:56:19:832] [Instancebuddy]:  (Level 38 - 48) Scholomance
+[17:56:19:832] [Instancebuddy]:  (Level 42 - 52) Stratholme - Main Gate
+[17:56:19:832] [Instancebuddy]:  (Level 46 - 56) Stratholme - Service Entrance
+[17:56:19:832] [Instancebuddy]:  (Level 57 - 67) Hellfire Ramparts
+[17:56:19:832] [Instancebuddy]:  (Level 59 - 68) The Blood Furnace
+[17:56:19:832] [Instancebuddy]:  (Level 62 - 71) Mana Tombs
+[17:56:19:832] [Instancebuddy]:  (Level 65 - 73) Sethekk Halls
+[17:56:19:832] [Instancebuddy]: ----------------------------------------------------------------------
+[17:56:20:117] New bot added!: Instancebuddy
+[17:56:20:119] New bot added!: BGBuddy
+[17:56:20:141] New bot added!: Gatherbuddy2
+[17:56:20:144] New bot added!: Grind Bot
+[17:56:20:147] New bot added!: Questing
+[17:56:20:151] New bot added!: Mixed Mode
+[17:56:20:153] New bot added!: PartyBot
+[17:56:21:429] New bot added!: Combat Bot
+[17:56:21:429] New bot added!: ProfessionBuddy
+[17:56:21:439] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[17:56:21:439] KillBetweenHotspots: True
+[17:56:21:439] AdvancedSettingsMode: False
+[17:56:21:439] LogoutForInactivity: True
+[17:56:21:439] LogoutInactivityTimer: 10
+[17:56:21:439] LogoutInactivityUseForceQuit: False
+[17:56:21:439] ProfileDebuggingMode: False
+[17:56:21:439] FoodAmount: 0
+[17:56:21:439] DrinkAmount: 0
+[17:56:21:439] FormLocationX: 2154
+[17:56:21:439] FormLocationY: 528
+[17:56:21:439] FormWidth: 396
+[17:56:21:439] FormHeight: 302
+[17:56:21:439] SelectedBotIndex: 5
+[17:56:21:439] UseFlightPaths: False
+[17:56:21:439] FindMountAutomatically: True
+[17:56:21:439] UseRandomMount: True
+[17:56:21:439] FoodName: 58260
+[17:56:21:439] DrinkName: 58257
+[17:56:21:439] MountName: Raven Lord
+[17:56:21:439] FlyingMountName has no value yet!
+[17:56:21:439] LootMobs: True
+[17:56:21:439] SkinMobs: False
+[17:56:21:439] NinjaSkin: False
+[17:56:21:439] LootChests: True
+[17:56:21:439] HarvestMinerals: False
+[17:56:21:439] HarvestHerbs: False
+[17:56:21:439] UseMount: True
+[17:56:21:439] PullDistance: 45
+[17:56:21:439] LootRadius: 45
+[17:56:21:439] FindVendorsAutomatically: False
+[17:56:21:439] TrainNewSkills: False
+[17:56:21:439] LearnFlightPaths: True
+[17:56:21:439] LastUsedPath has no value yet!
+[17:56:21:439] MountDistance: 75
+[17:56:21:439] RessAtSpiritHealers: False
+[17:56:21:439] GroundMountFarmingMode: False
+[17:56:21:439] FoodAmount: 0
+[17:56:21:439] DrinkAmount: 0
+[17:56:21:439] FormLocationX: 2154
+[17:56:21:439] FormLocationY: 528
+[17:56:21:439] SelectedBotIndex: 5
+[17:56:21:439] UseFlightPaths: False
+[17:56:21:439] FindMountAutomatically: True
+[17:56:21:439] UseRandomMount: True
+[17:56:21:439] FoodName: 58260
+[17:56:21:439] DrinkName: 58257
+[17:56:21:439] MountName: Raven Lord
+[17:56:21:439] LootMobs: True
+[17:56:21:439] SkinMobs: False
+[17:56:21:439] NinjaSkin: False
+[17:56:21:439] LootChests: True
+[17:56:21:439] HarvestMinerals: False
+[17:56:21:439] HarvestHerbs: False
+[17:56:21:439] UseMount: True
+[17:56:21:439] PullDistance: 45
+[17:56:21:439] LootRadius: 45
+[17:56:21:439] FindVendorsAutomatically: False
+[17:56:21:439] TrainNewSkills: False
+[17:56:21:439] LearnFlightPaths: True
+[17:56:21:439] LastUsedPath has no value yet!
+[17:56:21:439] MountDistance: 75
+[17:56:21:439] RessAtSpiritHealers: False
+[17:56:21:439] Please wait a few seconds while Honorbuddy initializes.
+[17:56:21:440] Activity: Initializing.
+[17:56:21:440] Activity: Loading memory management & tables
+[17:56:21:453] Activity: Loading Spells
+[17:56:21:511] Activity: Initializing Spell Manager
+[17:56:21:524] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[17:56:21:524] Activity: Initializing Plugins
+[17:56:21:524] V: 2.0.0.5883
+[17:56:21:560] 
+[17:56:22:808] [WeigtSet] Selected weight set: Paladin-Holy
+[17:56:23:655] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[17:56:23:657] Root element is missing.
+[17:56:23:657] ItemForAura: Continuing with Default Config Values
+[17:56:23:658] ItemForAura - Questhelper - Version 2.0 Loaded.
+[17:56:23:659] Root element is missing.
+[17:56:23:659] ItemForAura: Continuing with Default Config Values
+[17:56:24:144] Activity: Initializing Navigator
+[17:56:24:191] Activity: Initializing Blackspot Manager
+[17:56:24:193] Activity: Initializing Battlegrounds
+[17:56:24:194] Activity: Initializing Flight Paths
+[17:56:24:219] Activity: Initializing Routines
+[17:56:24:222] Building spell book
+[17:56:24:225] Spell book built
+[17:56:24:225] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[17:56:24:904] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[17:56:26:086] Activity: Initialization complete
+[17:56:26:087] Initialization complete.
+[17:56:26:088] Activity: Honorbuddy Startup Complete
+[17:57:15:808] Starting the bot!
+[17:57:15:897] Downloaded tilemap Azeroth
+[17:57:15:901] Changed tilemap to Azeroth, Tiled: True
+[17:57:15:919] Changing current profile to Empty Profile
+[17:57:15:949] Chose Singular v2 $Revision: 605 $ as your combat class!
+[17:57:15:950] [Singular] Starting Singular v2.0.0.0
+[17:57:15:950] [Singular] Determining talent spec.
+[17:57:16:059] [Singular-DEBUG] [Talents] Best Tree: 31
+[17:57:16:060] [Singular] Current spec is  Holy Paladin
+[17:57:16:061] [Singular-DEBUG] Creating Combat behavior.
+[17:57:16:065] [Singular] Building method list
+[17:57:16:069] [Singular] Added 377 methods
+[17:57:16:073] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[17:57:16:073] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[17:57:16:086] [Singular-DEBUG] Creating Pull behavior.
+[17:57:16:087] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[17:57:16:087] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[17:57:16:089] [Singular-DEBUG] Creating Rest behavior.
+[17:57:16:091] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[17:57:16:091] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[17:57:16:100] [Singular-DEBUG] Creating CombatBuffs behavior.
+[17:57:16:101] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[17:57:16:101] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[17:57:16:103] [Singular-DEBUG] Creating Heal behavior.
+[17:57:16:105] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[17:57:16:105] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[17:57:16:107] [Singular-DEBUG] Creating PullBuffs behavior.
+[17:57:16:111] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[17:57:16:112] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[17:57:16:112] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[17:57:16:120] [Singular] Behaviors created!
+[17:57:16:141] [Singular-DEBUG] Attached combat log
+[17:57:16:214] Cleared POI
+[17:57:16:214] Cleared POI - Reason Starting up
+[17:57:16:215] Cleared POI
+[17:57:20:072] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[17:57:20:072] Cleared POI - Reason Exception in Root.Tick()
+[17:57:20:072] Cleared POI
+[17:57:20:290] Activity: Loading Tile/s
+[17:57:20:291] Loading Azeroth_30_48
+[17:57:20:579] Loading Azeroth_31_48
+[17:57:20:735] Activity: Downloading Mesh...
+[17:57:20:971] Downloaded Azeroth_30_49
+[17:57:20:973] Activity: Loading Tile/s
+[17:57:20:974] Loading Azeroth_30_49
+[17:57:21:052] Loading Azeroth_31_49
+[17:57:21:148] Activity: Downloading Mesh...
+[17:57:21:577] Downloaded Azeroth_30_47
+[17:57:21:595] Activity: Loading Tile/s
+[17:57:21:596] Loading Azeroth_30_47
+[17:57:21:765] Loading Azeroth_32_48
+[17:57:21:856] Activity: Downloading Mesh...
+[17:57:22:031] Downloaded Azeroth_30_50
+[17:57:22:033] Activity: Loading Tile/s
+[17:57:22:034] Loading Azeroth_30_50
+[17:57:22:121] Loading Azeroth_31_50
+[17:57:22:344] [Singular] Casting Concentration Aura on Myself
+[17:57:22:352] Spell_C::CastSpell(19746, 0, 0x5D596B, 0) [1]
+[17:57:22:809] [BGBuddy]: Queueing up for RandomBattleground
+[18:00:21:658] Inserting Craggle Wobbletop [Gossip, Vendor, SpellClick] into the database!
+[18:00:21:661] Inserting Farrah Facet [Vendor] into the database!
+[18:02:21:402] [Singular-DEBUG] Switched targets!
+[18:02:21:402] [Singular-DEBUG] Melee Distance: 3.5
+[18:02:21:402] [Singular-DEBUG] Health: 169865
+[18:02:21:402] [Singular-DEBUG] Level: 85
+[18:02:34:921] [BGBuddy]: Accepting battleground join in 9 seconds.
+[18:02:54:170] Downloaded tilemap IsleofConquest
+[18:02:54:175] Changed tilemap to IsleofConquest, Tiled: True
+[18:02:54:180] [Singular-DEBUG] Detached combat log
+[18:02:54:184] [Singular] Context changed. New context: Battlegrounds. Rebuilding behaviors.
+[18:02:54:184] [Singular-DEBUG] Creating Combat behavior.
+[18:02:54:185] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[18:02:54:185] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[18:02:54:188] [Singular-DEBUG] Creating Pull behavior.
+[18:02:54:190] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[18:02:54:190] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[18:02:54:191] [Singular-DEBUG] Creating Rest behavior.
+[18:02:54:193] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[18:02:54:193] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[18:02:54:197] [Singular-DEBUG] Creating CombatBuffs behavior.
+[18:02:54:198] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[18:02:54:198] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[18:02:54:200] [Singular-DEBUG] Creating Heal behavior.
+[18:02:54:202] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[18:02:54:202] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[18:02:54:203] [Singular-DEBUG] Creating PullBuffs behavior.
+[18:02:54:206] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[18:02:54:207] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[18:02:54:207] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[18:02:54:224] [BGBuddy]: Starting Isle of Conquest
+[18:02:54:270] Loading IsleofConquest_33_31
+[18:02:54:440] [BGBuddy-DEBUG]: Unloading all tiles. Reason(s): 
+New gate added [AllianceGateEast]
+New gate added [AllianceGateWest]
+New gate added [AllianceGateFront]
+New gate added [HordeGateFront]
+New gate added [HordeGateEast]
+New gate added [HordeGateWest]
+
+[18:02:54:479] [BGBuddy-DEBUG]: Unloading all tiles. Reason(s): Start of Game Timer Finished
+[18:02:54:479] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[18:02:54:479] Cleared POI - Reason Exception in Root.Tick()
+[18:02:54:479] Cleared POI
+[18:02:54:716] [Singular] Casting Holy Shock on Mage
+[18:02:54:718] Spell_C::CastSpell(20473, 0, 0x4D2EE8, 0) [2]
+[18:02:55:511] [Singular] Casting Lay on Hands on Druid
+[18:02:55:512] Spell_C::CastSpell(633, 0, 0x1EFD1B, 0) [3]
+[18:02:55:639] Spell_C::CastSpell(633, 0, 0x1EFD1B, 0) [4]
+[18:02:56:189] [Singular] Casting Flash of Light on Mage
+[18:02:56:191] Spell_C::CastSpell(19750, 0, 0x4D2EE8, 0) [5]
+[18:02:57:871] [Singular] Casting Divine Light on Mage
+[18:02:57:873] Spell_C::CastSpell(82326, 0, 0x4D2EE8, 0) [6]
+[18:03:00:459] [Singular] Casting Divine Light on Druid
+[18:03:00:461] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [7]
+[18:03:03:001] [Singular] Casting Holy Light on Druid
+[18:03:03:003] Spell_C::CastSpell(635, 0, 0x1EFD1B, 0) [8]
+[18:03:05:651] [Singular] Casting Divine Light on Druid
+[18:03:05:652] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [9]
+[18:03:08:237] [Singular] Casting Holy Light on Druid
+[18:03:08:239] Spell_C::CastSpell(635, 0, 0x1EFD1B, 0) [10]
+[18:03:10:857] [Singular] Casting Divine Light on Druid
+[18:03:10:859] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [11]
+[18:03:11:482] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [12]
+[18:03:14:047] [Singular] Casting Holy Light on Druid
+[18:03:14:048] Spell_C::CastSpell(635, 0, 0x1EFD1B, 0) [13]
+[18:03:16:684] [Singular] Casting Divine Light on Paladin
+[18:03:16:686] Spell_C::CastSpell(82326, 0, 0x614121, 0) [14]
+[18:03:19:011] [Singular] Casting Divine Light on Druid
+[18:03:19:012] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [15]
+[18:03:21:584] Spell_C::CastSpell(82326, 0, 0x1EFD1B, 0) [16]
+[18:03:24:266] [Singular] Casting Holy Light on Paladin
+[18:03:24:268] Spell_C::CastSpell(635, 0, 0x614121, 0) [17]
+[18:03:26:903] Spell_C::CastSpell(635, 0, 0x614121, 0) [18]
+[18:03:29:516] [Singular] Casting Holy Light on Druid
+[18:03:29:518] Spell_C::CastSpell(635, 0, 0x1EFD1B, 0) [19]
+[18:03:32:255] Disabled alliance front gate
+[18:03:32:255] Enabled horde teleport
+[18:03:32:256] Disabled alliance west gate
+[18:03:32:256] Enabled horde teleport
+[18:03:32:257] Disabled alliance east gate
+[18:03:32:257] Enabled horde teleport
+[18:03:32:263] Path randomized
+[18:03:32:734] Changed POI to:Type: Hotspot, Loc: <354.7391, -827.3604, 48.99747>
+[18:03:32:734] [BGBuddy]: Moving to biggest fight
+[18:03:35:141] [Singular-DEBUG] Switched targets!
+[18:03:35:141] [Singular-DEBUG] Melee Distance: 3.5
+[18:03:35:141] [Singular-DEBUG] Health: 111919
+[18:03:35:141] [Singular-DEBUG] Level: 85
+[18:03:39:652] [Singular] Casting Divine Light on Mage
+[18:03:39:655] Spell_C::CastSpell(82326, 0, 0x4D2EE8, 0) [20]
+[18:03:40:271] [Singular] Casting Holy Light on Mage
+[18:03:40:272] Spell_C::CastSpell(635, 0, 0x4D2EE8, 0) [21]
+[18:03:42:896] Spell_C::CastSpell(635, 0, 0x4D2EE8, 0) [22]
+[18:03:45:511] [Singular] Casting Holy Shock on Myself
+[18:03:45:512] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [23]
+[18:03:48:210] [Singular] Casting Flash of Light on Druid
+[18:03:48:212] Spell_C::CastSpell(19750, 0, 0x1EFD1B, 0) [24]
+[18:03:48:955] [Singular] Casting Holy Light on Myself
+[18:03:48:957] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [25]
+[18:03:51:627] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [26]
+[18:03:55:962] Loading IsleofConquest_33_30
+[18:03:56:054] Unloading tiles!
+[18:03:56:057] Loading IsleofConquest_33_31
+[18:03:56:166] Disabled alliance front gate
+[18:03:56:166] Enabled horde teleport
+[18:03:56:167] Disabled alliance west gate
+[18:03:56:167] Enabled horde teleport
+[18:03:56:167] Disabled alliance east gate
+[18:03:56:167] Enabled horde teleport
+[18:03:56:172] Loading IsleofConquest_33_30
+[18:03:59:122] Cleared POI - Reason Player Died
+[18:03:59:122] Cleared POI
+[18:04:01:210] Cleared POI - Reason Died
+[18:04:01:210] Cleared POI
+[18:04:02:538] Cleared POI - Reason Died
+[18:04:02:538] Cleared POI
+[18:04:27:712] Cleared POI - Reason Died
+[18:04:27:712] Cleared POI
+[18:04:27:877] [Singular] Casting Blessing of Kings on Myself
+[18:04:27:878] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [27]
+[18:04:28:212] Changed POI to:Type: Hotspot, Loc: <941.7382, -923.6311, 12.26989>
+[18:04:28:212] [BGBuddy]: Moving to biggest fight
+[18:04:28:237] Path randomized
+[18:04:29:548] Loading IsleofConquest_32_30
+[18:04:33:037] [Singular] Casting Seal of Insight on Myself
+[18:04:33:039] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [28]
+[18:04:33:202] Mounting: Swift White Steed
+[18:04:33:425] Spell_C::CastSpell(23228, 0, 0x0, 0) [29]
+[18:04:53:648] Stop and dismount... Reason: Casting spell
+[18:04:53:851] [Singular] Casting Holy Shock on Hunter
+[18:04:53:853] Spell_C::CastSpell(20473, 0, 0x43F2E5, 0) [30]
+[18:04:55:336] [Singular] Casting Holy Light on Hunter
+[18:04:55:338] Spell_C::CastSpell(635, 0, 0x43F2E5, 0) [31]
+[18:04:56:834] Spell_C::CastSpell(635, 0, 0x43F2E5, 0) [32]
+[18:05:01:335] [Singular] Casting Blessing of Might on Myself
+[18:05:01:337] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [33]
+[18:05:02:906] [Singular] Casting Blessing of Kings on Myself
+[18:05:02:908] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [34]
+[18:05:03:051] Changed POI to:Type: Hotspot, Loc: <951.5191, -932.3514, 13.84241>
+[18:05:03:051] [BGBuddy]: Moving to biggest friendly pack
+[18:05:03:051] Path randomized
+[18:05:04:001] Changed POI to:Type: Hotspot, Loc: <963.7577, -938.3188, 15.07889>
+[18:05:06:452] Changed POI to:Type: Hotspot, Loc: <979.9988, -952.6255, 16.86952>
+[18:05:07:545] Changed POI to:Type: Hotspot, Loc: <983.207, -956.4134, 17.5828>
+[18:05:09:729] Changed POI to:Type: Hotspot, Loc: <1002.224, -981.2799, 16.04375>
+[18:05:09:799] Mounting: Pinto
+[18:05:10:012] Spell_C::CastSpell(472, 0, 0x0, 0) [35]
+[18:05:11:992] Loading IsleofConquest_33_29
+[18:05:12:092] Disabled horde west gate
+[18:05:12:092] Disabled horde teleport
+[18:05:12:093] Disabled horde east gate
+[18:05:12:093] Disabled horde teleport
+[18:05:12:094] Disabled horde front gate
+[18:05:12:094] Disabled horde teleport
+[18:05:12:097] Path randomized
+[18:05:12:376] Loading IsleofConquest_34_30
+[18:05:14:363] Changed POI to:Type: Hotspot, Loc: <930.7584, -677.5172, 2.734155>
+[18:05:14:363] [BGBuddy]: Moving to biggest fight
+[18:05:14:368] Path randomized
+[18:05:29:070] [BGBuddy-DEBUG]: Unloading all tiles. Reason(s): 
+State of AllianceGateWest changed. Old Value: AllianceControlled New Value: Destroyed
+
+[18:05:29:196] Loading IsleofConquest_33_30
+[18:05:29:274] Loading IsleofConquest_33_29
+[18:05:29:355] Disabled horde west gate
+[18:05:29:355] Disabled horde teleport
+[18:05:29:356] Disabled horde east gate
+[18:05:29:356] Disabled horde teleport
+[18:05:29:358] Disabled horde front gate
+[18:05:29:358] Disabled horde teleport
+[18:05:29:362] Path randomized
+[18:05:32:180] Loading IsleofConquest_32_30
+[18:05:32:574] Loading IsleofConquest_32_29
+[18:05:32:673] Loading IsleofConquest_34_29
+[18:05:32:745] Loading IsleofConquest_34_30
+[18:05:32:827] Loading IsleofConquest_33_31
+[18:05:32:907] Disabled alliance front gate
+[18:05:32:907] Enabled horde teleport
+[18:05:32:909] Enabled alliance west gate
+[18:05:32:909] Enabled horde teleport
+[18:05:32:910] Disabled alliance east gate
+[18:05:32:910] Enabled horde teleport
+[18:05:32:918] Loading IsleofConquest_32_31
+[18:05:33:009] Loading IsleofConquest_33_28
+[18:05:33:057] Loading IsleofConquest_34_31
+[18:05:33:193] Loading IsleofConquest_31_29
+[18:05:33:229] Loading IsleofConquest_31_30
+[18:05:33:266] Loading IsleofConquest_32_28
+[18:05:33:298] Loading IsleofConquest_34_28
+[18:05:33:354] Loading IsleofConquest_35_29
+[18:05:33:423] Loading IsleofConquest_35_30
+[18:05:33:469] Loading IsleofConquest_33_32
+[18:05:33:506] Loading IsleofConquest_34_32
+[18:05:33:559] Loading IsleofConquest_32_32
+[18:05:33:584] Loading IsleofConquest_31_28
+[18:05:33:587] Loading IsleofConquest_31_31
+[18:05:33:612] Loading IsleofConquest_35_31
+[18:05:33:663] Loading IsleofConquest_35_28
+[18:05:33:706] Loading IsleofConquest_33_27
+[18:05:33:726] Loading IsleofConquest_31_32
+[18:05:33:733] Loading IsleofConquest_32_27
+[18:05:33:741] Loading IsleofConquest_30_29
+[18:05:33:779] Loading IsleofConquest_30_30
+[18:05:33:808] Loading IsleofConquest_34_27
+[18:05:33:832] Loading IsleofConquest_36_30
+[18:05:33:943] Loading IsleofConquest_30_31
+[18:05:33:985] Loading IsleofConquest_31_27
+[18:05:33:989] Loading IsleofConquest_30_28
+[18:05:33:999] Loading IsleofConquest_36_29
+[18:05:34:101] Loading IsleofConquest_36_28
+[18:05:34:119] Loading IsleofConquest_35_27
+[18:05:35:143] Changed POI to:Type: Hotspot, Loc: <1177.387, -659.2362, 49.25974>
+[18:05:35:143] [BGBuddy]: Moving to biggest friendly pack
+[18:05:35:146] Path randomized
+[18:05:55:035] Changed POI to:Type: Hotspot, Loc: <1189.03, -657.9763, 49.15084>
+[18:05:55:712] Changed POI to:Type: Hotspot, Loc: <1176.773, -641.1533, 48.77767>
+[18:05:57:181] Changed POI to:Type: Hotspot, Loc: <1186.711, -640.0972, 49.74606>
+[18:05:58:663] Stop and dismount... Reason: Casting spell
+[18:05:58:889] [Singular] Casting Holy Light on Hunter
+[18:05:58:890] Spell_C::CastSpell(635, 0, 0x58E6A8, 0) [36]
+[18:05:59:389] [Singular] Casting Blessing of Kings on Myself
+[18:05:59:391] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [37]
+[18:06:01:061] [Singular] Casting Holy Light on Hunter
+[18:06:01:063] Spell_C::CastSpell(635, 0, 0x58E6A8, 0) [38]
+[18:06:05:413] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [39]
+[18:06:08:050] [Singular] Casting Divine Light on Hunter
+[18:06:08:051] Spell_C::CastSpell(82326, 0, 0x4E69DA, 0) [40]
+[18:06:10:723] [Singular] Casting Holy Light on Hunter
+[18:06:10:725] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [41]
+[18:06:13:335] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [42]
+[18:06:15:898] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [43]
+[18:06:18:728] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [44]
+[18:06:21:314] Spell_C::CastSpell(635, 0, 0x4E69DA, 0) [45]
+[18:06:23:852] Changed POI to:Type: Kill, Name: Negranu
+[18:06:24:038] [Singular-DEBUG] Switched targets!
+[18:06:24:038] [Singular-DEBUG] Melee Distance: 3.5
+[18:06:24:038] [Singular-DEBUG] Health: 158191
+[18:06:24:038] [Singular-DEBUG] Level: 85
+[18:06:26:167] [Singular] Casting Blessing of Kings on Myself
+[18:06:26:168] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [46]
+[18:06:27:662] [Singular] Casting Holy Light on DeathKnight
+[18:06:27:664] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [47]
+[18:06:28:889] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [48]
+[18:06:31:576] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [49]
+[18:06:32:332] [Singular] Casting Judgement on Rogue
+[18:06:32:334] Spell_C::CastSpell(20271, 0, 0x346C89, 0) [50]
+[18:06:34:657] [BGBuddy]: We've gotten to far away from the original target spot. Blacklisting target for 5s and clearing.
+[18:06:34:660] Cleared POI - Reason Target being cleared.
+[18:06:34:660] Cleared POI
+[18:06:35:002] Changed POI to:Type: Hotspot, Loc: <1121.761, -751.4258, 48.35205>
+[18:06:35:002] [BGBuddy]: Moving to biggest fight
+[18:06:37:596] [Singular] Casting Blessing of Kings on Myself
+[18:06:37:597] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [51]
+[18:06:42:961] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [52]
+[18:06:49:279] Mounting: Warhorse
+[18:06:49:494] Spell_C::CastSpell(13819, 0, 0x0, 0) [53]
+[18:06:53:852] Changed POI to:Type: Hotspot, Loc: <1135.067, -779.8188, 48.98471>
+[18:06:53:852] [BGBuddy]: Moving to biggest fight
+[18:06:56:212] Changed POI to:Type: Hotspot, Loc: <1092.198, -760.8279, 42.93996>
+[18:06:57:987] Changed POI to:Type: Hotspot, Loc: <1140.392, -771.5657, 48.6962>
+[18:07:06:246] Changed POI to:Type: Hotspot, Loc: <1200.393, -638.8297, 48.37978>
+[18:07:06:246] [BGBuddy]: Moving to biggest friendly pack
+[18:07:14:649] [BGBuddy]: Battleground ended. We lost :(
+[18:07:17:697] [BGBuddy]: Leaving battleground.
+[18:07:27:983] Changed tilemap to Azeroth, Tiled: True
+[18:07:27:994] [Singular] ERROR: Could not add combat log event filter! - Performance may be horrible, and things may not work properly!
+[18:07:27:994] [Singular-DEBUG] Attached combat log
+[18:07:27:994] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[18:07:27:994] [Singular-DEBUG] Creating Combat behavior.
+[18:07:27:996] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[18:07:27:996] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[18:07:27:999] [Singular-DEBUG] Creating Pull behavior.
+[18:07:28:001] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[18:07:28:001] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[18:07:28:002] [Singular-DEBUG] Creating Rest behavior.
+[18:07:28:004] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[18:07:28:004] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[18:07:28:005] [Singular-DEBUG] Creating CombatBuffs behavior.
+[18:07:28:007] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[18:07:28:007] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[18:07:28:008] [Singular-DEBUG] Creating Heal behavior.
+[18:07:28:009] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[18:07:28:009] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[18:07:28:010] [Singular-DEBUG] Creating PullBuffs behavior.
+[18:07:28:013] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[18:07:28:014] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[18:07:28:014] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[18:07:28:059] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[18:07:28:059] Cleared POI - Reason Exception in Root.Tick()
+[18:07:28:059] Cleared POI
+[18:07:30:282] [BGBuddy]: Queueing up for RandomBattleground
+[18:08:17:608] [BGBuddy]: Accepting battleground join in 5 seconds.
+[18:08:32:722] Downloaded tilemap PVPZone04
+[18:08:32:728] Changed tilemap to PVPZone04, Tiled: True
+[18:08:32:732] [Singular-DEBUG] Detached combat log
+[18:08:32:734] [Singular] Context changed. New context: Battlegrounds. Rebuilding behaviors.
+[18:08:32:734] [Singular-DEBUG] Creating Combat behavior.
+[18:08:32:736] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[18:08:32:736] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[18:08:32:738] [Singular-DEBUG] Creating Pull behavior.
+[18:08:32:739] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[18:08:32:739] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[18:08:32:741] [Singular-DEBUG] Creating Rest behavior.
+[18:08:32:743] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[18:08:32:743] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[18:08:32:744] [Singular-DEBUG] Creating CombatBuffs behavior.
+[18:08:32:746] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[18:08:32:746] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[18:08:32:747] [Singular-DEBUG] Creating Heal behavior.
+[18:08:32:749] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[18:08:32:749] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[18:08:32:751] [Singular-DEBUG] Creating PullBuffs behavior.
+[18:08:32:754] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[18:08:32:757] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[18:08:32:757] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[18:08:32:762] [BGBuddy]: Starting Arathi Basin
+[18:08:32:787] Loading PVPZone04_29_29
+[18:08:32:911] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[18:08:32:911] Cleared POI - Reason Exception in Root.Tick()
+[18:08:32:911] Cleared POI
+[18:08:33:004] [Singular] Casting Blessing of Kings on Myself
+[18:08:33:005] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [54]
+[18:08:33:118] Path randomized
+[18:08:34:394] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [55]
+[18:08:34:493] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [56]
+[18:08:34:715] Mounting: Raven Lord
+[18:08:34:916] Spell_C::CastSpell(41252, 0, 0x0, 0) [57]
+[18:10:17:521] Changed POI to:Type: Hotspot, Loc: <1157.517, 1198.139, -56.16043>
+[18:10:17:522] [BGBuddy]: Moving to Stables [Reason: Start of game]
+[18:10:25:949] [BGBuddy]: Moving to interact with flag
+[18:10:27:247] InteractDebug:816721160
+[18:10:27:252] Interact Done:816721160
+[18:10:36:459] InteractDebug:816725880
+[18:10:36:462] Interact Done:816725880
+[18:10:44:600] InteractDebug:816725880
+[18:10:44:605] Interact Done:816725880
+[18:10:46:857] InteractDebug:816725880
+[18:10:46:864] Interact Done:816725880
+[18:10:49:144] InteractDebug:816725880
+[18:10:49:150] Interact Done:816725880
+[18:10:51:435] InteractDebug:816725880
+[18:10:51:440] Interact Done:816725880
+[18:10:53:736] InteractDebug:816725880
+[18:10:53:741] Interact Done:816725880
+[18:10:56:041] InteractDebug:816725880
+[18:10:56:047] Interact Done:816725880
+[18:10:58:363] InteractDebug:816725880
+[18:10:58:369] Interact Done:816725880
+[18:11:00:709] InteractDebug:816725880
+[18:11:00:715] Interact Done:816725880
+[18:11:03:090] InteractDebug:816725880
+[18:11:03:096] Interact Done:816725880
+[18:11:05:500] InteractDebug:816725880
+[18:11:05:507] Interact Done:816725880
+[18:11:07:800] InteractDebug:816725880
+[18:11:07:807] Interact Done:816725880
+[18:11:10:054] InteractDebug:816725880
+[18:11:10:060] Interact Done:816725880
+[18:11:12:330] InteractDebug:816725880
+[18:11:12:338] Interact Done:816725880
+[18:11:14:757] InteractDebug:816725880
+[18:11:14:765] Interact Done:816725880
+[18:11:17:126] InteractDebug:816725880
+[18:11:17:136] Interact Done:816725880
+[18:11:19:481] InteractDebug:816725880
+[18:11:19:496] Interact Done:816725880
+[18:11:21:839] InteractDebug:816725880
+[18:11:21:847] Interact Done:816725880
+[18:11:24:259] InteractDebug:816725880
+[18:11:24:273] Interact Done:816725880
+[18:11:26:661] InteractDebug:816725880
+[18:11:26:669] Interact Done:816725880
+[18:11:29:036] InteractDebug:816725880
+[18:11:29:047] Interact Done:816725880
+[18:11:31:412] InteractDebug:816725880
+[18:11:31:422] Interact Done:816725880
+[18:11:33:817] InteractDebug:816725880
+[18:11:33:825] Interact Done:816725880
+[18:11:35:025] Loading PVPZone04_30_30
+[18:11:35:886] Loading PVPZone04_29_30
+[18:11:36:004] Loading PVPZone04_30_29
+[18:11:36:148] Unloading tiles!
+[18:11:36:155] Loading PVPZone04_29_29
+[18:11:36:330] Loading PVPZone04_30_30
+[18:11:36:452] Loading PVPZone04_29_30
+[18:11:36:540] Loading PVPZone04_30_29
+[18:11:36:656] Changed POI to:Type: Hotspot, Loc: <973.835, 1053.907, -44.20308>
+[18:11:36:656] [BGBuddy]: Moving to biggest fight
+[18:11:36:725] Mounting: Golden Gryphon
+[18:11:36:934] Spell_C::CastSpell(32235, 0, 0x0, 0) [58]
+[18:11:38:953] Path randomized
+[18:11:47:377] Stop and dismount... Reason: Casting spell
+[18:11:47:580] [Singular] Casting Holy Shock on DeathKnight
+[18:11:47:582] Spell_C::CastSpell(20473, 0, 0x6045CD, 0) [59]
+[18:11:47:843] Changed POI to:Type: Kill, Name: Elfollanoobs
+[18:11:47:998] [Singular-DEBUG] Switched targets!
+[18:11:47:998] [Singular-DEBUG] Melee Distance: 3.5
+[18:11:47:998] [Singular-DEBUG] Health: 154059
+[18:11:47:998] [Singular-DEBUG] Level: 85
+[18:11:49:095] [Singular] Casting Judgement on Paladin
+[18:11:49:096] Spell_C::CastSpell(20271, 0, 0x47FA6C, 0) [60]
+[18:11:55:665] [Singular] Casting Holy Light on DeathKnight
+[18:11:55:667] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [61]
+[18:11:56:079] [Singular-DEBUG] Switched targets!
+[18:11:56:079] [Singular-DEBUG] Melee Distance: 3.5
+[18:11:56:079] [Singular-DEBUG] Health: 154059
+[18:11:56:079] [Singular-DEBUG] Level: 85
+[18:11:56:859] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [62]
+[18:12:02:862] Mounting: Ebon Gryphon
+[18:12:03:064] Spell_C::CastSpell(32239, 0, 0x0, 0) [63]
+[18:12:08:663] Stop and dismount... Reason: Casting spell
+[18:12:08:889] [Singular] Casting Holy Light on DeathKnight
+[18:12:08:890] Spell_C::CastSpell(635, 0, 0x6045CD, 0) [64]
+[18:12:16:032] Cleared POI - Reason Target being cleared.
+[18:12:16:032] Cleared POI
+[18:12:16:035] Cleared POI - Reason BGBuddy Sanity Check #4 [No Target+Type=Kill]
+[18:12:16:035] Cleared POI
+[18:12:16:166] Changed POI to:Type: Hotspot, Loc: <963.0083, 1041.304, -44.31734>
+[18:12:16:166] [BGBuddy]: Moving to biggest fight
+[18:12:16:213] Mounting: Swift White Steed
+[18:12:16:418] Spell_C::CastSpell(23228, 0, 0x0, 0) [65]
+[18:12:40:595] Stop and dismount... Reason: Casting spell
+[18:12:40:812] [Singular] Casting Holy Shock on Paladin
+[18:12:40:814] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [66]
+[18:12:41:243] Changed POI to:Type: Kill, Name: Oxsario
+[18:12:41:422] [Singular-DEBUG] Switched targets!
+[18:12:41:422] [Singular-DEBUG] Melee Distance: 3.5
+[18:12:41:422] [Singular-DEBUG] Health: 172146
+[18:12:41:422] [Singular-DEBUG] Level: 85
+[18:12:42:097] [Singular] Casting Holy Light on Paladin
+[18:12:42:099] Spell_C::CastSpell(635, 0, 0x53295F, 0) [67]
+[18:12:44:527] Spell_C::CastSpell(635, 0, 0x53295F, 0) [68]
+[18:12:48:482] [Singular] Casting Holy Light on Druid
+[18:12:48:484] Spell_C::CastSpell(635, 0, 0x472EB0, 0) [69]
+[18:12:55:785] Mounting: Snowy Gryphon
+[18:12:55:990] Spell_C::CastSpell(32240, 0, 0x0, 0) [70]
+[18:12:59:251] Stop and dismount... Reason: Casting spell
+[18:12:59:456] [Singular] Casting Holy Shock on Druid
+[18:12:59:458] Spell_C::CastSpell(20473, 0, 0x256483, 0) [71]
+[18:13:00:268] Cleared POI - Reason Target being cleared.
+[18:13:00:268] Cleared POI
+[18:13:00:849] [Singular] Casting Holy Light on Druid
+[18:13:00:850] Spell_C::CastSpell(635, 0, 0x256483, 0) [72]
+[18:13:03:343] Spell_C::CastSpell(635, 0, 0x256483, 0) [73]
+[18:13:07:640] [BGBuddy]: Moving to interact with flag
+[18:13:08:240] [Singular] Casting Blessing of Kings on Myself
+[18:13:08:242] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [74]
+[18:13:08:367] [BGBuddy]: Moving to interact with flag
+[18:13:10:500] InteractDebug:816723048
+[18:13:10:504] Interact Done:816723048
+[18:13:18:635] [Singular] Casting Holy Shock on Rogue
+[18:13:18:636] Spell_C::CastSpell(20473, 0, 0x5157C4, 0) [75]
+[18:13:18:779] InteractDebug:816704168
+[18:13:18:787] Interact Done:816704168
+[18:13:26:970] InteractDebug:816704168
+[18:13:26:977] Interact Done:816704168
+[18:13:29:209] InteractDebug:816704168
+[18:13:29:215] Interact Done:816704168
+[18:13:31:496] InteractDebug:816704168
+[18:13:31:506] Interact Done:816704168
+[18:13:33:753] InteractDebug:816704168
+[18:13:33:760] Interact Done:816704168
+[18:13:36:109] InteractDebug:816704168
+[18:13:36:117] Interact Done:816704168
+[18:13:38:354] InteractDebug:816704168
+[18:13:38:361] Interact Done:816704168
+[18:13:40:652] InteractDebug:816704168
+[18:13:40:660] Interact Done:816704168
+[18:13:42:986] InteractDebug:816704168
+[18:13:42:993] Interact Done:816704168
+[18:13:45:276] InteractDebug:816704168
+[18:13:45:285] Interact Done:816704168
+[18:13:47:574] InteractDebug:816704168
+[18:13:47:585] Interact Done:816704168
+[18:13:49:889] InteractDebug:816704168
+[18:13:49:903] Interact Done:816704168
+[18:13:52:175] InteractDebug:816704168
+[18:13:52:186] Interact Done:816704168
+[18:13:54:463] InteractDebug:816704168
+[18:13:54:472] Interact Done:816704168
+[18:13:56:764] InteractDebug:816704168
+[18:13:56:772] Interact Done:816704168
+[18:13:59:064] InteractDebug:816704168
+[18:13:59:075] Interact Done:816704168
+[18:14:01:417] InteractDebug:816704168
+[18:14:01:426] Interact Done:816704168
+[18:14:03:761] InteractDebug:816704168
+[18:14:03:771] Interact Done:816704168
+[18:14:06:069] InteractDebug:816704168
+[18:14:06:081] Interact Done:816704168
+[18:14:08:364] InteractDebug:816704168
+[18:14:08:373] Interact Done:816704168
+[18:14:10:619] InteractDebug:816704168
+[18:14:10:628] Interact Done:816704168
+[18:14:11:813] Changed POI to:Type: Hotspot, Loc: <803.3953, 873.8045, -55.4823>
+[18:14:11:813] [BGBuddy]: Moving to Farm [Reason: Battle]
+[18:14:11:879] Mounting: Swift Green Gryphon
+[18:14:12:085] Spell_C::CastSpell(32290, 0, 0x0, 0) [76]
+[18:14:14:021] InteractDebug:816690952
+[18:14:14:030] Interact Done:816690952
+[18:14:22:142] InteractDebug:816690952
+[18:14:22:149] Interact Done:816690952
+[18:14:23:313] [Singular] Casting Blessing of Kings on Myself
+[18:14:23:315] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [77]
+[18:14:24:640] InteractDebug:816690952
+[18:14:24:651] Interact Done:816690952
+[18:14:26:977] InteractDebug:816690952
+[18:14:26:988] Interact Done:816690952
+[18:14:29:351] InteractDebug:816690952
+[18:14:29:361] Interact Done:816690952
+[18:14:31:709] InteractDebug:816690952
+[18:14:31:719] Interact Done:816690952
+[18:14:34:042] InteractDebug:816690952
+[18:14:34:051] Interact Done:816690952
+[18:14:36:377] InteractDebug:816690952
+[18:14:36:383] Interact Done:816690952
+[18:14:38:670] InteractDebug:816690952
+[18:14:38:676] Interact Done:816690952
+[18:14:40:938] InteractDebug:816690952
+[18:14:40:945] Interact Done:816690952
+[18:14:43:220] InteractDebug:816690952
+[18:14:43:228] Interact Done:816690952
+[18:14:45:551] InteractDebug:816690952
+[18:14:45:558] Interact Done:816690952
+[18:14:47:831] InteractDebug:816690952
+[18:14:47:838] Interact Done:816690952
+[18:14:50:103] InteractDebug:816690952
+[18:14:50:110] Interact Done:816690952
+[18:14:52:379] InteractDebug:816690952
+[18:14:52:386] Interact Done:816690952
+[18:14:54:733] InteractDebug:816690952
+[18:14:54:741] Interact Done:816690952
+[18:14:57:072] InteractDebug:816690952
+[18:14:57:079] Interact Done:816690952
+[18:14:59:410] InteractDebug:816690952
+[18:14:59:419] Interact Done:816690952
+[18:15:01:739] InteractDebug:816690952
+[18:15:01:749] Interact Done:816690952
+[18:15:04:338] InteractDebug:816690952
+[18:15:04:360] Interact Done:816690952
+[18:15:07:651] InteractDebug:816690952
+[18:15:07:666] Interact Done:816690952
+[18:15:10:347] InteractDebug:816690952
+[18:15:10:347] Interact Done:816690952
+[18:15:12:905] InteractDebug:816690952
+[18:15:12:917] Interact Done:816690952
+[18:15:15:206] InteractDebug:816690952
+[18:15:15:218] Interact Done:816690952
+[18:15:17:619] InteractDebug:816690952
+[18:15:17:636] Interact Done:816690952
+[18:15:20:017] InteractDebug:816690952
+[18:15:20:031] Interact Done:816690952
+[18:15:22:431] InteractDebug:816690952
+[18:15:22:445] Interact Done:816690952
+[18:15:24:772] InteractDebug:816690952
+[18:15:24:784] Interact Done:816690952
+[18:15:27:187] InteractDebug:816690952
+[18:15:27:201] Interact Done:816690952
+[18:15:29:582] InteractDebug:816690952
+[18:15:29:593] Interact Done:816690952
+[18:15:31:929] InteractDebug:816690952
+[18:15:31:939] Interact Done:816690952
+[18:15:34:391] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [78]
+[18:15:34:541] InteractDebug:816690952
+[18:15:34:554] Interact Done:816690952
+[18:15:36:916] InteractDebug:816690952
+[18:15:36:927] Interact Done:816690952
+[18:15:39:304] InteractDebug:816690952
+[18:15:39:316] Interact Done:816690952
+[18:15:41:634] InteractDebug:816690952
+[18:15:41:644] Interact Done:816690952
+[18:15:43:990] InteractDebug:816690952
+[18:15:43:997] Interact Done:816690952
+[18:15:46:264] InteractDebug:816690952
+[18:15:46:274] Interact Done:816690952
+[18:15:48:566] InteractDebug:816690952
+[18:15:48:574] Interact Done:816690952
+[18:15:50:895] InteractDebug:816690952
+[18:15:50:903] Interact Done:816690952
+[18:15:53:249] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [79]
+[18:15:53:402] InteractDebug:816690952
+[18:15:53:414] Interact Done:816690952
+[18:15:55:716] InteractDebug:816690952
+[18:15:55:726] Interact Done:816690952
+[18:15:58:055] InteractDebug:816690952
+[18:15:58:066] Interact Done:816690952
+[18:16:00:435] Mounting: Swift White Steed
+[18:16:00:646] Spell_C::CastSpell(23228, 0, 0x0, 0) [80]
+[18:16:12:582] [Singular-DEBUG] Switched targets!
+[18:16:12:582] [Singular-DEBUG] Melee Distance: 3.5
+[18:16:12:582] [Singular-DEBUG] Health: 147535
+[18:16:12:582] [Singular-DEBUG] Level: 85
+[18:16:12:587] Changed POI to:Type: Kill, Name: Brokencore
+[18:16:14:158] Stop and dismount... Reason: Casting spell
+[18:16:14:369] [Singular] Casting Judgement on Warrior
+[18:16:14:370] Spell_C::CastSpell(20271, 0, 0x2F4A78, 0) [81]
+[18:16:17:256] [Singular] Casting Holy Shock on Myself
+[18:16:17:259] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [82]
+[18:16:18:733] [Singular] Casting Holy Light on Myself
+[18:16:18:734] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [83]
+[18:16:23:268] [Singular] Casting Divine Light on Myself
+[18:16:23:269] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [84]
+[18:16:25:425] [Singular] Casting Holy Shock on Myself
+[18:16:25:426] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [85]
+[18:16:26:710] [Singular] Casting Holy Light on Myself
+[18:16:26:712] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [86]
+[18:16:27:956] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [87]
+[18:16:29:074] [Singular] Casting Divine Light on Myself
+[18:16:29:075] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [88]
+[18:16:30:218] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [89]
+[18:16:32:471] [Singular] Casting Holy Shock on Myself
+[18:16:32:473] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [90]
+[18:16:33:724] [Singular] Casting Word of Glory on Myself
+[18:16:33:725] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [91]
+[18:16:34:949] [Singular] Casting Holy Light on Myself
+[18:16:34:950] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [92]
+[18:16:36:119] [Singular] Casting Word of Glory on Myself
+[18:16:36:121] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [93]
+[18:16:36:228] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [94]
+[18:16:36:332] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [95]
+[18:16:36:443] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [96]
+[18:16:36:551] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [97]
+[18:16:36:657] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [98]
+[18:16:36:759] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [99]
+[18:16:36:867] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [100]
+[18:16:37:003] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [101]
+[18:16:37:109] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [102]
+[18:16:37:216] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [103]
+[18:16:37:329] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [104]
+[18:16:37:440] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [105]
+[18:16:37:578] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [106]
+[18:16:37:680] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [107]
+[18:16:37:784] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [108]
+[18:16:37:903] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [109]
+[18:16:38:008] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [110]
+[18:16:38:114] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [111]
+[18:16:38:220] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [112]
+[18:16:38:326] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [113]
+[18:16:38:449] [Singular] Casting Lay on Hands on Myself
+[18:16:38:450] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [114]
+[18:16:38:563] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [115]
+[18:16:38:671] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [116]
+[18:16:38:780] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [117]
+[18:16:38:891] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [118]
+[18:16:39:006] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [119]
+[18:16:39:113] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [120]
+[18:16:39:192] [Singular-DEBUG] Switched targets!
+[18:16:39:192] [Singular-DEBUG] Melee Distance: 3.5
+[18:16:39:192] [Singular-DEBUG] Health: 147535
+[18:16:39:192] [Singular-DEBUG] Level: 85
+[18:16:39:225] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [121]
+[18:16:39:333] [Singular] Casting Word of Glory on Myself
+[18:16:39:335] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [122]
+[18:16:39:714] Unloading tiles!
+[18:16:39:718] Loading PVPZone04_30_30
+[18:16:39:848] Path randomized
+[18:16:41:064] [Singular] Casting Holy Shock on Shaman
+[18:16:41:065] Spell_C::CastSpell(20473, 0, 0x61A7DD, 0) [123]
+[18:16:42:388] [Singular] Casting Flash of Light on Shaman
+[18:16:42:390] Spell_C::CastSpell(19750, 0, 0x61A7DD, 0) [124]
+[18:16:47:346] Cleared POI - Reason Player Died
+[18:16:47:346] Cleared POI
+[18:16:48:456] Cleared POI - Reason Died
+[18:16:48:456] Cleared POI
+[18:16:49:678] Cleared POI - Reason Died
+[18:16:49:678] Cleared POI
+[18:17:18:542] [Singular] Casting Blessing of Kings on Myself
+[18:17:18:544] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [125]
+[18:17:18:747] Loading PVPZone04_30_29
+[18:17:18:843] Loading PVPZone04_29_30
+[18:17:18:930] Changed POI to:Type: Hotspot, Loc: <976.5145, 1040.461, -44.13667>
+[18:17:18:930] [BGBuddy]: Moving to Blacksmith [Reason: Nothing else to do. Defending]
+[18:17:18:975] Mounting: Swift Brown Steed
+[18:17:19:181] Spell_C::CastSpell(23229, 0, 0x0, 0) [126]
+[18:17:21:214] Path randomized
+[18:17:27:766] Loading PVPZone04_29_29
+[18:17:27:888] Changed POI to:Type: Hotspot, Loc: <1161.516, 1190.487, -56.25136>
+[18:17:27:888] [BGBuddy]: Moving to Stables [Reason: Nothing else to do. Defending]
+[18:17:27:889] Path randomized
+[18:17:28:733] [Singular-DEBUG] Switched targets!
+[18:17:28:733] [Singular-DEBUG] Melee Distance: 3.5
+[18:17:28:733] [Singular-DEBUG] Health: 159603
+[18:17:28:733] [Singular-DEBUG] Level: 85
+[18:17:30:009] Changed POI to:Type: Kill, Name: Brokencore
+[18:17:30:161] [Singular-DEBUG] Switched targets!
+[18:17:30:161] [Singular-DEBUG] Melee Distance: 3.5
+[18:17:30:161] [Singular-DEBUG] Health: 147535
+[18:17:30:161] [Singular-DEBUG] Level: 85
+[18:17:32:896] Stop and dismount... Reason: Casting spell
+[18:17:33:108] [Singular] Casting Holy Shock on Myself
+[18:17:33:110] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [127]
+[18:17:33:218] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [128]
+[18:17:33:328] Changed POI to:Type: Kill, Name: Elfollanoobs
+[18:17:33:480] [Singular-DEBUG] Switched targets!
+[18:17:33:480] [Singular-DEBUG] Melee Distance: 3.5
+[18:17:33:480] [Singular-DEBUG] Health: 159603
+[18:17:33:480] [Singular-DEBUG] Level: 85
+[18:17:33:592] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [129]
+[18:17:33:717] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [130]
+[18:17:33:825] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [131]
+[18:17:33:935] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [132]
+[18:17:34:044] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [133]
+[18:17:34:154] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [134]
+[18:17:34:266] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [135]
+[18:17:34:375] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [136]
+[18:17:34:482] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [137]
+[18:17:34:590] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [138]
+[18:17:34:701] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [139]
+[18:17:34:813] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [140]
+[18:17:34:924] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [141]
+[18:17:35:038] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [142]
+[18:17:35:146] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [143]
+[18:17:35:249] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [144]
+[18:17:35:362] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [145]
+[18:17:35:479] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [146]
+[18:17:35:589] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [147]
+[18:17:35:698] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [148]
+[18:17:35:818] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [149]
+[18:17:35:941] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [150]
+[18:17:36:055] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [151]
+[18:17:36:168] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [152]
+[18:17:36:283] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [153]
+[18:17:36:393] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [154]
+[18:17:36:504] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [155]
+[18:17:36:621] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [156]
+[18:17:36:735] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [157]
+[18:17:36:855] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [158]
+[18:17:36:984] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [159]
+[18:17:37:127] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [160]
+[18:17:37:240] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [161]
+[18:17:37:358] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [162]
+[18:17:37:488] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [163]
+[18:17:37:596] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [164]
+[18:17:37:713] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [165]
+[18:17:37:849] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [166]
+[18:17:37:966] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [167]
+[18:17:38:088] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [168]
+[18:17:38:211] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [169]
+[18:17:38:338] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [170]
+[18:17:38:460] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [171]
+[18:17:38:579] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [172]
+[18:17:38:709] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [173]
+[18:17:38:841] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [174]
+[18:17:38:970] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [175]
+[18:17:39:097] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [176]
+[18:17:39:222] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [177]
+[18:17:39:522] Cleared POI - Reason Player Died
+[18:17:39:522] Cleared POI
+[18:17:40:203] [Singular-DEBUG] Switched targets!
+[18:17:40:203] [Singular-DEBUG] Melee Distance: 3.5
+[18:17:40:203] [Singular-DEBUG] Health: 84845
+[18:17:40:203] [Singular-DEBUG] Level: 85
+[18:17:41:558] Cleared POI - Reason Died
+[18:17:41:558] Cleared POI
+[18:17:43:787] Cleared POI - Reason Died
+[18:17:43:787] Cleared POI
+[18:17:50:420] Cleared POI - Reason Died
+[18:17:50:420] Cleared POI
+[18:17:50:538] [Singular] Casting Blessing of Kings on Myself
+[18:17:50:539] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [178]
+[18:17:50:693] Changed POI to:Type: Hotspot, Loc: <797.1602, 855.4227, -55.47412>
+[18:17:50:693] [BGBuddy]: Moving to biggest fight
+[18:17:50:726] Mounting: Swift Brown Steed
+[18:17:50:935] Spell_C::CastSpell(23229, 0, 0x0, 0) [179]
+[18:18:27:395] Stop and dismount... Reason: Casting spell
+[18:18:27:605] [Singular] Casting Holy Shock on Paladin
+[18:18:27:607] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [180]
+[18:18:27:758] Changed POI to:Type: Kill, Name: Herpaderp
+[18:18:27:958] [Singular-DEBUG] Switched targets!
+[18:18:27:958] [Singular-DEBUG] Melee Distance: 3.5
+[18:18:27:958] [Singular-DEBUG] Health: 146032
+[18:18:27:958] [Singular-DEBUG] Level: 85
+[18:18:29:045] [Singular] Casting Flash of Light on Warrior
+[18:18:29:047] Spell_C::CastSpell(19750, 0, 0x61AFB2, 0) [181]
+[18:18:30:527] [Singular] Casting Divine Light on Paladin
+[18:18:30:529] Spell_C::CastSpell(82326, 0, 0x53295F, 0) [182]
+[18:18:33:127] Spell_C::CastSpell(82326, 0, 0x53295F, 0) [183]
+[18:18:35:980] Changed POI to:Type: Kill, Name: Oxsario
+[18:18:36:141] [Singular-DEBUG] Switched targets!
+[18:18:36:141] [Singular-DEBUG] Melee Distance: 3.5
+[18:18:36:141] [Singular-DEBUG] Health: 163536
+[18:18:36:141] [Singular-DEBUG] Level: 85
+[18:18:38:348] Cleared POI - Reason Target being cleared.
+[18:18:38:348] Cleared POI
+[18:18:38:633] Changed POI to:Type: Kill, Name: Herpaderp
+[18:18:38:791] [Singular-DEBUG] Switched targets!
+[18:18:38:791] [Singular-DEBUG] Melee Distance: 3.5
+[18:18:38:791] [Singular-DEBUG] Health: 146032
+[18:18:38:791] [Singular-DEBUG] Level: 85
+[18:18:39:625] Mounting: Swift Purple Gryphon
+[18:18:39:830] Spell_C::CastSpell(32292, 0, 0x0, 0) [184]
+[18:18:46:495] [Singular] Casting Blessing of Might on Myself
+[18:18:46:496] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [185]
+[18:18:51:625] [Singular] Casting Seal of Insight on Myself
+[18:18:51:626] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [186]
+[18:18:51:755] Mounting: Swift Green Gryphon
+[18:18:51:960] Spell_C::CastSpell(32290, 0, 0x0, 0) [187]
+[18:18:54:021] Cleared POI - Reason Target being cleared.
+[18:18:54:021] Cleared POI
+[18:18:54:289] Changed POI to:Type: Hotspot, Loc: <797.5822, 875.3233, -54.80637>
+[18:18:54:289] [BGBuddy]: Moving to Farm [Reason: Conflicted]
+[18:19:00:802] Stop and dismount... Reason: Casting spell
+[18:19:01:003] [Singular] Casting Holy Shock on Paladin
+[18:19:01:005] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [188]
+[18:19:01:180] Mounting: Pinto
+[18:19:01:380] Spell_C::CastSpell(472, 0, 0x0, 0) [189]
+[18:19:03:285] Stop and dismount... Reason: Casting spell
+[18:19:03:492] [Singular] Casting Holy Light on Paladin
+[18:19:03:493] Spell_C::CastSpell(635, 0, 0x53295F, 0) [190]
+[18:19:05:952] Spell_C::CastSpell(635, 0, 0x53295F, 0) [191]
+[18:19:08:528] Mounting: Swift Green Gryphon
+[18:19:08:731] Spell_C::CastSpell(32290, 0, 0x0, 0) [192]
+[18:19:17:180] [BGBuddy]: Moving to interact with flag
+[18:19:18:750] InteractDebug:816693784
+[18:19:18:756] Interact Done:816693784
+[18:19:26:925] InteractDebug:816693784
+[18:19:26:931] Interact Done:816693784
+[18:19:29:234] InteractDebug:816693784
+[18:19:29:239] Interact Done:816693784
+[18:19:30:389] [Singular] Casting Blessing of Kings on Myself
+[18:19:30:391] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [193]
+[18:19:31:018] [Singular-DEBUG] Switched targets!
+[18:19:31:018] [Singular-DEBUG] Melee Distance: 3.5
+[18:19:31:018] [Singular-DEBUG] Health: 168044
+[18:19:31:018] [Singular-DEBUG] Level: 85
+[18:19:31:636] Changed POI to:Type: Kill, Name: Knighkillii
+[18:19:32:636] [Singular] Casting Holy Shock on Myself
+[18:19:32:638] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [194]
+[18:19:34:086] [Singular] Casting Holy Light on Myself
+[18:19:34:087] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [195]
+[18:19:36:596] [Singular] Casting Divine Light on Myself
+[18:19:36:598] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [196]
+[18:19:41:634] [Singular] Casting Holy Shock on Myself
+[18:19:41:635] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [197]
+[18:19:43:086] [Singular] Casting Flash of Light on Myself
+[18:19:43:087] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [198]
+[18:19:43:607] Cleared POI - Reason Player Died
+[18:19:43:607] Cleared POI
+[18:19:45:676] Cleared POI - Reason Died
+[18:19:45:676] Cleared POI
+[18:19:47:799] Cleared POI - Reason Died
+[18:19:47:799] Cleared POI
+[18:19:50:653] Cleared POI - Reason Died
+[18:19:50:653] Cleared POI
+[18:19:50:768] [Singular] Casting Blessing of Kings on Myself
+[18:19:50:769] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [199]
+[18:19:50:897] Changed POI to:Type: Hotspot, Loc: <789.8289, 882.0157, -55.69893>
+[18:19:50:897] [BGBuddy]: Moving to Farm [Reason: Battle]
+[18:19:50:939] Mounting: Swift Green Gryphon
+[18:19:51:139] Spell_C::CastSpell(32290, 0, 0x0, 0) [200]
+[18:19:58:444] Changed POI to:Type: Kill, Name: Cuvic
+[18:19:58:514] [Singular-DEBUG] Switched targets!
+[18:19:58:514] [Singular-DEBUG] Melee Distance: 3.5
+[18:19:58:514] [Singular-DEBUG] Health: 157461
+[18:19:58:514] [Singular-DEBUG] Level: 85
+[18:20:00:254] Stop and dismount... Reason: Casting spell
+[18:20:00:466] [Singular] Casting Holy Shock on Myself
+[18:20:00:467] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [201]
+[18:20:00:566] Stop and dismount... Reason: Casting spell
+[18:20:00:781] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [202]
+[18:20:00:887] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [203]
+[18:20:00:987] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [204]
+[18:20:01:089] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [205]
+[18:20:01:192] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [206]
+[18:20:01:297] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [207]
+[18:20:01:403] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [208]
+[18:20:01:498] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [209]
+[18:20:01:599] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [210]
+[18:20:01:693] Changed POI to:Type: Kill, Name: Sykkess
+[18:20:01:837] [Singular-DEBUG] Switched targets!
+[18:20:01:837] [Singular-DEBUG] Melee Distance: 3.5
+[18:20:01:837] [Singular-DEBUG] Health: 130357
+[18:20:01:837] [Singular-DEBUG] Level: 85
+[18:20:01:863] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [211]
+[18:20:01:963] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [212]
+[18:20:02:067] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [213]
+[18:20:02:163] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [214]
+[18:20:02:263] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [215]
+[18:20:02:358] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [216]
+[18:20:03:774] [Singular] Casting Holy Light on Myself
+[18:20:03:776] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [217]
+[18:20:04:935] [Singular] Casting Flash of Light on Myself
+[18:20:04:937] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [218]
+[18:20:06:130] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [219]
+[18:20:06:397] Cleared POI - Reason Player Died
+[18:20:06:397] Cleared POI
+[18:20:09:244] Cleared POI - Reason Died
+[18:20:09:244] Cleared POI
+[18:20:11:485] Cleared POI - Reason Died
+[18:20:11:485] Cleared POI
+[18:20:18:690] [Singular] Casting Blessing of Kings on Myself
+[18:20:18:692] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [220]
+[18:20:18:833] Changed POI to:Type: Hotspot, Loc: <850.373, 1154.169, 11.40173>
+[18:20:18:833] [BGBuddy]: Moving to LumberMill [Reason: Conflicted]
+[18:20:18:868] Mounting: Swift White Steed
+[18:20:19:073] Spell_C::CastSpell(23228, 0, 0x0, 0) [221]
+[18:20:24:594] [BGBuddy]: Moving to interact with flag
+[18:20:26:179] InteractDebug:816725880
+[18:20:26:182] Interact Done:816725880
+[18:20:34:423] [Singular] Casting Seal of Insight on Myself
+[18:20:34:425] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [222]
+[18:20:34:535] InteractDebug:816725880
+[18:20:34:542] Interact Done:816725880
+[18:20:36:818] InteractDebug:816725880
+[18:20:36:823] Interact Done:816725880
+[18:20:39:093] InteractDebug:816725880
+[18:20:39:099] Interact Done:816725880
+[18:20:41:377] InteractDebug:816725880
+[18:20:41:383] Interact Done:816725880
+[18:20:43:641] InteractDebug:816725880
+[18:20:43:646] Interact Done:816725880
+[18:20:45:934] InteractDebug:816725880
+[18:20:45:939] Interact Done:816725880
+[18:20:48:243] InteractDebug:816725880
+[18:20:48:248] Interact Done:816725880
+[18:20:50:528] InteractDebug:816725880
+[18:20:50:536] Interact Done:816725880
+[18:20:52:741] InteractDebug:816725880
+[18:20:52:746] Interact Done:816725880
+[18:20:55:007] InteractDebug:816725880
+[18:20:55:013] Interact Done:816725880
+[18:20:57:240] InteractDebug:816725880
+[18:20:57:246] Interact Done:816725880
+[18:20:59:460] InteractDebug:816725880
+[18:20:59:466] Interact Done:816725880
+[18:21:01:763] InteractDebug:816725880
+[18:21:01:769] Interact Done:816725880
+[18:21:03:966] InteractDebug:816725880
+[18:21:03:972] Interact Done:816725880
+[18:21:06:159] InteractDebug:816725880
+[18:21:06:165] Interact Done:816725880
+[18:21:08:367] InteractDebug:816725880
+[18:21:08:373] Interact Done:816725880
+[18:21:10:670] InteractDebug:816725880
+[18:21:10:677] Interact Done:816725880
+[18:21:12:950] InteractDebug:816725880
+[18:21:12:956] Interact Done:816725880
+[18:21:15:185] InteractDebug:816725880
+[18:21:15:193] Interact Done:816725880
+[18:21:17:441] InteractDebug:816725880
+[18:21:17:449] Interact Done:816725880
+[18:21:19:672] InteractDebug:816725880
+[18:21:19:679] Interact Done:816725880
+[18:21:21:921] InteractDebug:816725880
+[18:21:21:928] Interact Done:816725880
+[18:21:24:194] InteractDebug:816725880
+[18:21:24:199] Interact Done:816725880
+[18:21:26:439] InteractDebug:816725880
+[18:21:26:445] Interact Done:816725880
+[18:21:28:666] InteractDebug:816725880
+[18:21:28:672] Interact Done:816725880
+[18:21:30:886] InteractDebug:816725880
+[18:21:30:891] Interact Done:816725880
+[18:21:33:104] InteractDebug:816725880
+[18:21:33:111] Interact Done:816725880
+[18:21:35:324] InteractDebug:816725880
+[18:21:35:329] Interact Done:816725880
+[18:21:37:538] InteractDebug:816725880
+[18:21:37:545] Interact Done:816725880
+[18:21:39:750] InteractDebug:816725880
+[18:21:39:755] Interact Done:816725880
+[18:21:42:026] InteractDebug:816725880
+[18:21:42:033] Interact Done:816725880
+[18:21:44:230] InteractDebug:816725880
+[18:21:44:236] Interact Done:816725880
+[18:21:46:501] InteractDebug:816725880
+[18:21:46:509] Interact Done:816725880
+[18:21:48:798] InteractDebug:816725880
+[18:21:48:804] Interact Done:816725880
+[18:21:51:014] InteractDebug:816725880
+[18:21:51:021] Interact Done:816725880
+[18:21:53:232] InteractDebug:816725880
+[18:21:53:238] Interact Done:816725880
+[18:21:55:431] InteractDebug:816725880
+[18:21:55:440] Interact Done:816725880
+[18:21:57:707] InteractDebug:816725880
+[18:21:57:712] Interact Done:816725880
+[18:21:59:979] InteractDebug:816725880
+[18:21:59:985] Interact Done:816725880
+[18:22:02:187] InteractDebug:816725880
+[18:22:02:193] Interact Done:816725880
+[18:22:04:386] InteractDebug:816725880
+[18:22:04:392] Interact Done:816725880
+[18:22:06:659] InteractDebug:816725880
+[18:22:06:668] Interact Done:816725880
+[18:22:08:940] InteractDebug:816725880
+[18:22:08:946] Interact Done:816725880
+[18:22:11:160] InteractDebug:816725880
+[18:22:11:167] Interact Done:816725880
+[18:22:13:451] InteractDebug:816725880
+[18:22:13:457] Interact Done:816725880
+[18:22:15:737] InteractDebug:816725880
+[18:22:15:745] Interact Done:816725880
+[18:22:17:988] InteractDebug:816725880
+[18:22:17:994] Interact Done:816725880
+[18:22:20:261] InteractDebug:816725880
+[18:22:20:270] Interact Done:816725880
+[18:22:22:603] InteractDebug:816725880
+[18:22:22:613] Interact Done:816725880
+[18:22:24:936] InteractDebug:816725880
+[18:22:24:946] Interact Done:816725880
+[18:22:27:200] InteractDebug:816725880
+[18:22:27:209] Interact Done:816725880
+[18:22:29:558] InteractDebug:816725880
+[18:22:29:568] Interact Done:816725880
+[18:22:31:866] InteractDebug:816725880
+[18:22:31:874] Interact Done:816725880
+[18:22:34:134] InteractDebug:816725880
+[18:22:34:149] Interact Done:816725880
+[18:22:36:421] InteractDebug:816725880
+[18:22:36:432] Interact Done:816725880
+[18:22:38:730] InteractDebug:816725880
+[18:22:38:738] Interact Done:816725880
+[18:22:41:015] InteractDebug:816725880
+[18:22:41:023] Interact Done:816725880
+[18:22:43:298] InteractDebug:816725880
+[18:22:43:304] Interact Done:816725880
+[18:22:45:550] InteractDebug:816725880
+[18:22:45:559] Interact Done:816725880
+[18:22:47:894] InteractDebug:816725880
+[18:22:47:904] Interact Done:816725880
+[18:22:50:197] InteractDebug:816725880
+[18:22:50:203] Interact Done:816725880
+[18:22:52:483] InteractDebug:816725880
+[18:22:52:489] Interact Done:816725880
+[18:22:54:702] InteractDebug:816725880
+[18:22:54:712] Interact Done:816725880
+[18:22:57:055] InteractDebug:816725880
+[18:22:57:055] Interact Done:816725880
+[18:22:59:263] InteractDebug:816725880
+[18:22:59:269] Interact Done:816725880
+[18:23:01:536] InteractDebug:816725880
+[18:23:01:542] Interact Done:816725880
+[18:23:03:845] [Singular] Casting Blessing of Kings on Myself
+[18:23:03:846] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [223]
+[18:23:03:975] InteractDebug:816725880
+[18:23:03:981] Interact Done:816725880
+[18:23:06:294] InteractDebug:816725880
+[18:23:06:302] Interact Done:816725880
+[18:23:08:619] InteractDebug:816725880
+[18:23:08:628] Interact Done:816725880
+[18:23:10:914] InteractDebug:816725880
+[18:23:10:921] Interact Done:816725880
+[18:23:13:215] InteractDebug:816725880
+[18:23:13:221] Interact Done:816725880
+[18:23:15:548] InteractDebug:816725880
+[18:23:15:555] Interact Done:816725880
+[18:23:17:835] InteractDebug:816725880
+[18:23:17:846] Interact Done:816725880
+[18:23:20:127] InteractDebug:816725880
+[18:23:20:134] Interact Done:816725880
+[18:23:22:484] InteractDebug:816725880
+[18:23:22:492] Interact Done:816725880
+[18:23:24:701] InteractDebug:816725880
+[18:23:24:709] Interact Done:816725880
+[18:23:26:984] InteractDebug:816725880
+[18:23:26:993] Interact Done:816725880
+[18:23:29:310] InteractDebug:816725880
+[18:23:29:316] Interact Done:816725880
+[18:23:31:586] InteractDebug:816725880
+[18:23:31:594] Interact Done:816725880
+[18:23:33:941] InteractDebug:816725880
+[18:23:33:947] Interact Done:816725880
+[18:23:36:214] InteractDebug:816725880
+[18:23:36:221] Interact Done:816725880
+[18:23:38:473] InteractDebug:816725880
+[18:23:38:480] Interact Done:816725880
+[18:23:40:811] InteractDebug:816725880
+[18:23:40:819] Interact Done:816725880
+[18:23:43:106] InteractDebug:816725880
+[18:23:43:112] Interact Done:816725880
+[18:23:45:353] InteractDebug:816725880
+[18:23:45:362] Interact Done:816725880
+[18:23:47:688] InteractDebug:816725880
+[18:23:47:696] Interact Done:816725880
+[18:23:49:964] InteractDebug:816725880
+[18:23:49:977] Interact Done:816725880
+[18:23:52:265] InteractDebug:816725880
+[18:23:52:273] Interact Done:816725880
+[18:23:54:584] InteractDebug:816725880
+[18:23:54:593] Interact Done:816725880
+[18:23:56:851] InteractDebug:816725880
+[18:23:56:858] Interact Done:816725880
+[18:23:59:226] InteractDebug:816725880
+[18:23:59:235] Interact Done:816725880
+[18:24:01:532] InteractDebug:816725880
+[18:24:01:538] Interact Done:816725880
+[18:24:03:823] InteractDebug:816725880
+[18:24:03:831] Interact Done:816725880
+[18:24:06:110] InteractDebug:816725880
+[18:24:06:118] Interact Done:816725880
+[18:24:08:439] InteractDebug:816725880
+[18:24:08:450] Interact Done:816725880
+[18:24:10:717] InteractDebug:816725880
+[18:24:10:736] Interact Done:816725880
+[18:24:13:040] InteractDebug:816725880
+[18:24:13:046] Interact Done:816725880
+[18:24:15:324] InteractDebug:816725880
+[18:24:15:332] Interact Done:816725880
+[18:24:17:578] InteractDebug:816725880
+[18:24:17:584] Interact Done:816725880
+[18:24:19:863] Mounting: Swift Red Gryphon
+[18:24:20:067] Spell_C::CastSpell(32289, 0, 0x0, 0) [224]
+[18:24:22:018] Unloading tiles!
+[18:24:22:023] Loading PVPZone04_29_29
+[18:24:22:156] Loading PVPZone04_29_30
+[18:24:22:281] Path randomized
+[18:24:22:396] Loading PVPZone04_30_30
+[18:24:22:533] Successfully generated path from {1165.833, 1195.991, -56.47746} to {850.373, 1154.169, 11.40173} in 139 milliseconds
+[18:24:22:533] Path randomized
+[18:24:22:641] Loading PVPZone04_30_29
+[18:24:22:752] Successfully generated path from {1165.833, 1195.991, -56.47746} to {850.373, 1154.169, 11.40173} in 117 milliseconds
+[18:24:22:752] Path randomized
+[18:24:24:402] [BGBuddy]: Moving to interact with flag
+[18:24:35:920] Stop and dismount... Reason: Casting spell
+[18:24:36:132] [Singular] Casting Holy Shock on Paladin
+[18:24:36:134] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [225]
+[18:24:36:316] Changed POI to:Type: Kill, Name: Knighkillii
+[18:24:36:562] [Singular-DEBUG] Switched targets!
+[18:24:36:562] [Singular-DEBUG] Melee Distance: 3.5
+[18:24:36:562] [Singular-DEBUG] Health: 193251
+[18:24:36:562] [Singular-DEBUG] Level: 85
+[18:24:37:530] [Singular] Casting Flash of Light on Paladin
+[18:24:37:531] Spell_C::CastSpell(19750, 0, 0x53295F, 0) [226]
+[18:24:38:750] Cleared POI - Reason Target being cleared.
+[18:24:38:750] Cleared POI
+[18:24:38:762] Cleared POI - Reason BGBuddy Sanity Check #4 [No Target+Type=Kill]
+[18:24:38:762] Cleared POI
+[18:24:38:955] Spell_C::CastSpell(19750, 0, 0x53295F, 0) [227]
+[18:24:40:623] [Singular] Casting Holy Light on Paladin
+[18:24:40:625] Spell_C::CastSpell(635, 0, 0x53295F, 0) [228]
+[18:24:43:193] [Singular] Casting Holy Shock on Paladin
+[18:24:43:195] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [229]
+[18:24:44:618] [Singular] Casting Holy Light on Paladin
+[18:24:44:619] Spell_C::CastSpell(635, 0, 0x614121, 0) [230]
+[18:24:47:293] [Singular] Casting Holy Light on Shaman
+[18:24:47:294] Spell_C::CastSpell(635, 0, 0x61A7DD, 0) [231]
+[18:24:49:855] [Singular] Casting Holy Shock on Paladin
+[18:24:49:856] Spell_C::CastSpell(20473, 0, 0x53295F, 0) [232]
+[18:24:50:041] Changed POI to:Type: Hotspot, Loc: <1151.879, 845.3846, -110.2719>
+[18:24:50:041] [BGBuddy]: Moving to GoldMine [Reason: Conflicted]
+[18:24:50:081] Mounting: Swift Purple Gryphon
+[18:24:50:282] Spell_C::CastSpell(32292, 0, 0x0, 0) [233]
+[18:24:52:211] Stop and dismount... Reason: Casting spell
+[18:24:52:406] [Singular] Casting Holy Shock on Shaman
+[18:24:52:408] Spell_C::CastSpell(20473, 0, 0x61A7DD, 0) [234]
+[18:24:53:896] [Singular] Casting Blessing of Kings on Myself
+[18:24:53:898] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [235]
+[18:24:57:164] Mounting: Swift Green Gryphon
+[18:24:57:366] Spell_C::CastSpell(32290, 0, 0x0, 0) [236]
+[18:25:23:403] Changed POI to:Type: Kill, Name: Spoke
+[18:25:23:475] [Singular-DEBUG] Switched targets!
+[18:25:23:475] [Singular-DEBUG] Melee Distance: 3.5
+[18:25:23:475] [Singular-DEBUG] Health: 165483
+[18:25:23:475] [Singular-DEBUG] Level: 85
+[18:25:24:988] Stop and dismount... Reason: Casting spell
+[18:25:25:194] [Singular] Casting Holy Shock on Myself
+[18:25:25:196] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [237]
+[18:25:26:624] [Singular] Casting Holy Light on Myself
+[18:25:26:625] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [238]
+[18:25:32:164] Changed POI to:Type: Kill, Name: Brokencore
+[18:25:32:348] [Singular-DEBUG] Switched targets!
+[18:25:32:348] [Singular-DEBUG] Melee Distance: 3.5
+[18:25:32:348] [Singular-DEBUG] Health: 152771
+[18:25:32:348] [Singular-DEBUG] Level: 85
+[18:25:32:463] [Singular] Casting Holy Shock on Myself
+[18:25:32:464] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [239]
+[18:25:33:923] [Singular] Casting Flash of Light on Myself
+[18:25:33:924] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [240]
+[18:25:35:544] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [241]
+[18:25:37:108] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [242]
+[18:25:38:717] [Singular] Casting Holy Shock on Myself
+[18:25:38:720] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [243]
+[18:25:38:851] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [244]
+[18:25:38:978] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [245]
+[18:25:39:100] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [246]
+[18:25:39:216] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [247]
+[18:25:39:338] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [248]
+[18:25:39:470] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [249]
+[18:25:39:610] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [250]
+[18:25:39:745] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [251]
+[18:25:39:879] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [252]
+[18:25:40:006] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [253]
+[18:25:40:161] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [254]
+[18:25:40:290] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [255]
+[18:25:41:682] [Singular] Casting Word of Glory on Myself
+[18:25:41:683] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [256]
+[18:25:41:807] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [257]
+[18:25:43:259] [Singular] Casting Holy Shock on Myself
+[18:25:43:260] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [258]
+[18:25:44:713] [Singular] Casting Flash of Light on Myself
+[18:25:44:715] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [259]
+[18:25:46:215] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [260]
+[18:25:47:427] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [261]
+[18:25:49:021] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [262]
+[18:25:50:691] [Singular] Casting Holy Shock on Myself
+[18:25:50:692] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [263]
+[18:25:52:086] [Singular] Casting Flash of Light on Warlock
+[18:25:52:087] Spell_C::CastSpell(19750, 0, 0x4D557B, 0) [264]
+[18:25:53:399] [Singular] Casting Holy Shock on Myself
+[18:25:53:401] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [265]
+[18:25:54:830] [Singular] Casting Word of Glory on Myself
+[18:25:54:832] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [266]
+[18:25:56:247] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [267]
+[18:25:57:674] [Singular] Casting Flash of Light on Myself
+[18:25:57:676] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [268]
+[18:25:58:877] Changed POI to:Type: Kill, Name: Spoke
+[18:25:58:952] [Singular-DEBUG] Switched targets!
+[18:25:58:952] [Singular-DEBUG] Melee Distance: 3.5
+[18:25:58:952] [Singular-DEBUG] Health: 165483
+[18:25:58:952] [Singular-DEBUG] Level: 85
+[18:25:59:098] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [269]
+[18:25:59:590] Cleared POI - Reason Player Died
+[18:25:59:590] Cleared POI
+[18:26:02:358] Cleared POI - Reason Died
+[18:26:02:358] Cleared POI
+[18:26:04:496] Cleared POI - Reason Died
+[18:26:04:496] Cleared POI
+[18:26:20:928] Cleared POI - Reason Died
+[18:26:20:928] Cleared POI
+[18:26:21:079] [Singular] Casting Blessing of Kings on Myself
+[18:26:21:082] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [270]
+[18:26:21:280] Changed POI to:Type: Hotspot, Loc: <1143.806, 844.4227, -110.207>
+[18:26:21:280] [BGBuddy]: Moving to GoldMine [Reason: Battle]
+[18:26:21:334] Mounting: Swift Purple Gryphon
+[18:26:21:542] Spell_C::CastSpell(32292, 0, 0x0, 0) [271]
+[18:26:43:573] Stop and dismount... Reason: Casting spell
+[18:26:43:767] [Singular] Casting Holy Shock on Rogue
+[18:26:43:769] Spell_C::CastSpell(20473, 0, 0x5157C4, 0) [272]
+[18:26:44:011] Changed POI to:Type: Kill, Name: Cereza
+[18:26:44:183] [Singular-DEBUG] Switched targets!
+[18:26:44:183] [Singular-DEBUG] Melee Distance: 3.5
+[18:26:44:183] [Singular-DEBUG] Health: 154018
+[18:26:44:183] [Singular-DEBUG] Level: 85
+[18:26:45:156] [Singular] Casting Holy Light on Rogue
+[18:26:45:158] Spell_C::CastSpell(635, 0, 0x5157C4, 0) [273]
+[18:26:46:278] Spell_C::CastSpell(635, 0, 0x5157C4, 0) [274]
+[18:26:53:095] [Singular] Casting Holy Shock on Rogue
+[18:26:53:100] Spell_C::CastSpell(20473, 0, 0x5157C4, 0) [275]
+[18:26:55:201] [Singular] Casting Holy Light on Paladin
+[18:26:55:202] Spell_C::CastSpell(635, 0, 0x614121, 0) [276]
+[18:26:58:195] Cleared POI - Reason Target being cleared.
+[18:26:58:195] Cleared POI
+[18:26:58:406] Changed POI to:Type: Kill, Name: Spoke
+[18:26:58:587] [Singular-DEBUG] Switched targets!
+[18:26:58:587] [Singular-DEBUG] Melee Distance: 3.5
+[18:26:58:587] [Singular-DEBUG] Health: 165483
+[18:26:58:587] [Singular-DEBUG] Level: 85
+[18:26:58:637] Spell_C::CastSpell(635, 0, 0x614121, 0) [277]
+[18:26:59:689] [Singular] Casting Holy Shock on Paladin
+[18:26:59:691] Spell_C::CastSpell(20473, 0, 0x614121, 0) [278]
+[18:27:01:176] [Singular] Casting Word of Glory on Paladin
+[18:27:01:178] Spell_C::CastSpell(85673, 0, 0x614121, 0) [279]
+[18:27:02:594] [Singular] Casting Holy Light on Paladin
+[18:27:02:596] Spell_C::CastSpell(635, 0, 0x614121, 0) [280]
+[18:27:05:808] [Singular] Casting Holy Shock on Paladin
+[18:27:05:810] Spell_C::CastSpell(20473, 0, 0x614121, 0) [281]
+[18:27:07:283] [Singular] Casting Holy Light on Paladin
+[18:27:07:286] Spell_C::CastSpell(635, 0, 0x614121, 0) [282]
+[18:27:08:790] Spell_C::CastSpell(635, 0, 0x614121, 0) [283]
+[18:27:11:274] Spell_C::CastSpell(635, 0, 0x614121, 0) [284]
+[18:27:13:393] [Singular] Casting Blessing of Might on Myself
+[18:27:13:396] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [285]
+[18:27:18:026] [BGBuddy]: We've gotten to far away from the original target spot. Blacklisting target for 5s and clearing.
+[18:27:18:026] Cleared POI - Reason Target being cleared.
+[18:27:18:026] Cleared POI
+[18:27:18:290] Changed POI to:Type: Hotspot, Loc: <1161.767, 1200.302, -56.38658>
+[18:27:18:290] [BGBuddy]: Moving to Stables [Reason: Conflicted]
+[18:27:18:620] [Singular] Casting Seal of Insight on Myself
+[18:27:18:622] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [286]
+[18:27:19:941] Mounting: Rivendare's Deathcharger
+[18:27:20:142] Spell_C::CastSpell(17481, 0, 0x0, 0) [287]
+[18:27:37:608] Changed POI to:Type: Kill, Name: Herpaderp
+[18:27:37:687] [Singular-DEBUG] Switched targets!
+[18:27:37:687] [Singular-DEBUG] Melee Distance: 3.5
+[18:27:37:687] [Singular-DEBUG] Health: 140880
+[18:27:37:687] [Singular-DEBUG] Level: 85
+[18:27:37:806] Stop and dismount... Reason: Casting spell
+[18:27:37:984] [Singular] Casting Judgement on Warlock
+[18:27:37:986] Spell_C::CastSpell(20271, 0, 0x611863, 0) [288]
+[18:27:39:937] [Singular] Casting Holy Shock on Myself
+[18:27:39:939] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [289]
+[18:27:40:056] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [290]
+[18:27:40:171] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [291]
+[18:27:40:292] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [292]
+[18:27:40:443] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [293]
+[18:27:40:555] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [294]
+[18:27:40:673] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [295]
+[18:27:40:802] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [296]
+[18:27:40:924] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [297]
+[18:27:41:039] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [298]
+[18:27:41:156] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [299]
+[18:27:41:275] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [300]
+[18:27:41:394] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [301]
+[18:27:41:509] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [302]
+[18:27:41:622] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [303]
+[18:27:41:738] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [304]
+[18:27:41:849] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [305]
+[18:27:41:979] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [306]
+[18:27:42:111] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [307]
+[18:27:42:229] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [308]
+[18:27:42:343] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [309]
+[18:27:42:510] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [310]
+[18:27:42:642] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [311]
+[18:27:42:726] [Singular-DEBUG] Switched targets!
+[18:27:42:726] [Singular-DEBUG] Melee Distance: 3.5
+[18:27:42:726] [Singular-DEBUG] Health: 140880
+[18:27:42:726] [Singular-DEBUG] Level: 85
+[18:27:42:770] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [312]
+[18:27:42:883] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [313]
+[18:27:43:000] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [314]
+[18:27:43:117] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [315]
+[18:27:43:236] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [316]
+[18:27:43:350] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [317]
+[18:27:43:473] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [318]
+[18:27:43:598] [Singular] Casting Lay on Hands on Myself
+[18:27:43:600] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [319]
+[18:27:43:718] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [320]
+[18:27:43:834] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [321]
+[18:27:43:949] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [322]
+[18:27:44:064] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [323]
+[18:27:44:168] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [324]
+[18:27:44:300] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [325]
+[18:27:44:414] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [326]
+[18:27:44:565] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [327]
+[18:27:44:684] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [328]
+[18:27:44:805] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [329]
+[18:27:44:945] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [330]
+[18:27:45:031] Cleared POI - Reason Player Died
+[18:27:45:031] Cleared POI
+[18:27:46:108] Cleared POI - Reason Died
+[18:27:46:108] Cleared POI
+[18:27:47:284] Cleared POI - Reason Died
+[18:27:47:284] Cleared POI
+[18:27:49:008] [Singular] Casting Blessing of Kings on Myself
+[18:27:49:009] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [331]
+[18:27:49:177] Changed POI to:Type: Hotspot, Loc: <1107.589, 820.2589, -98.22681>
+[18:27:49:177] [BGBuddy]: Moving to biggest fight
+[18:27:49:215] Mounting: Golden Gryphon
+[18:27:49:430] Spell_C::CastSpell(32235, 0, 0x0, 0) [332]
+[18:28:12:320] Changed POI to:Type: Kill, Name: Spoke
+[18:28:12:391] [Singular-DEBUG] Switched targets!
+[18:28:12:391] [Singular-DEBUG] Melee Distance: 3.5
+[18:28:12:392] [Singular-DEBUG] Health: 156887
+[18:28:12:392] [Singular-DEBUG] Level: 85
+[18:28:15:721] Stop and dismount... Reason: Casting spell
+[18:28:15:910] [Singular] Casting Holy Shock on Myself
+[18:28:15:912] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [333]
+[18:28:17:738] [Singular] Casting Holy Light on Myself
+[18:28:17:739] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [334]
+[18:28:22:588] [Singular] Casting Holy Shock on Myself
+[18:28:22:589] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [335]
+[18:28:24:038] [Singular] Casting Holy Light on Myself
+[18:28:24:040] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [336]
+[18:28:25:182] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [337]
+[18:28:26:857] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [338]
+[18:28:27:992] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [339]
+[18:28:29:104] [Singular] Casting Holy Shock on Myself
+[18:28:29:106] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [340]
+[18:28:29:226] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [341]
+[18:28:29:332] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [342]
+[18:28:29:440] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [343]
+[18:28:29:553] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [344]
+[18:28:29:669] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [345]
+[18:28:29:785] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [346]
+[18:28:29:900] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [347]
+[18:28:30:015] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [348]
+[18:28:30:118] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [349]
+[18:28:30:236] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [350]
+[18:28:30:336] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [351]
+[18:28:30:442] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [352]
+[18:28:30:556] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [353]
+[18:28:30:666] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [354]
+[18:28:30:770] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [355]
+[18:28:30:891] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [356]
+[18:28:31:000] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [357]
+[18:28:31:104] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [358]
+[18:28:31:209] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [359]
+[18:28:31:319] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [360]
+[18:28:31:427] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [361]
+[18:28:31:526] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [362]
+[18:28:31:633] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [363]
+[18:28:31:736] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [364]
+[18:28:31:849] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [365]
+[18:28:31:965] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [366]
+[18:28:32:083] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [367]
+[18:28:32:199] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [368]
+[18:28:32:330] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [369]
+[18:28:32:436] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [370]
+[18:28:32:553] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [371]
+[18:28:32:666] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [372]
+[18:28:32:784] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [373]
+[18:28:32:882] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [374]
+[18:28:32:989] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [375]
+[18:28:33:099] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [376]
+[18:28:34:573] [Singular] Casting Word of Glory on Myself
+[18:28:34:575] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [377]
+[18:28:35:969] [Singular] Casting Holy Light on Myself
+[18:28:35:971] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [378]
+[18:28:37:098] [Singular] Casting Lay on Hands on Myself
+[18:28:37:099] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [379]
+[18:28:40:230] [Singular] Casting Holy Shock on Myself
+[18:28:40:231] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [380]
+[18:28:41:704] [Singular] Casting Holy Light on Myself
+[18:28:41:706] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [381]
+[18:28:42:918] [Singular] Casting Divine Light on Myself
+[18:28:42:920] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [382]
+[18:28:46:603] Cleared POI - Reason Player Died
+[18:28:46:603] Cleared POI
+[18:28:48:616] Cleared POI - Reason Died
+[18:28:48:616] Cleared POI
+[18:28:49:899] Cleared POI - Reason Died
+[18:28:49:899] Cleared POI
+[18:29:20:046] Cleared POI - Reason Died
+[18:29:20:046] Cleared POI
+[18:29:20:165] [Singular] Casting Blessing of Kings on Myself
+[18:29:20:166] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [383]
+[18:29:20:318] Changed POI to:Type: Hotspot, Loc: <1137.044, 841.827, -110.09>
+[18:29:20:318] [BGBuddy]: Moving to biggest fight
+[18:29:22:032] Unloading tiles!
+[18:29:22:036] Loading PVPZone04_30_29
+[18:29:22:141] Loading PVPZone04_30_30
+[18:29:22:287] Loading PVPZone04_29_29
+[18:29:24:567] Loading PVPZone04_29_30
+[18:29:25:121] Changed POI to:Type: Kill, Name: Fibios
+[18:29:25:269] [Singular-DEBUG] Switched targets!
+[18:29:25:269] [Singular-DEBUG] Melee Distance: 3.5
+[18:29:25:269] [Singular-DEBUG] Health: 87029
+[18:29:25:269] [Singular-DEBUG] Level: 85
+[18:29:25:303] [Singular] Casting Seal of Insight on Myself
+[18:29:25:305] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [384]
+[18:29:25:409] Path randomized
+[18:29:26:350] Mounting: Raven Lord
+[18:29:26:554] Spell_C::CastSpell(41252, 0, 0x0, 0) [385]
+[18:29:28:414] Cleared POI - Reason Target being cleared.
+[18:29:28:414] Cleared POI
+[18:29:28:595] Changed POI to:Type: Hotspot, Loc: <1002.048, 927.2418, -63.66953>
+[18:29:28:595] [BGBuddy]: Moving to biggest fight
+[18:29:35:953] [BGBuddy]: Battleground ended. We lost :(
+[18:29:39:002] [BGBuddy]: Leaving battleground.
+[18:29:49:270] Changed tilemap to Azeroth, Tiled: True
+[18:29:49:281] [Singular] ERROR: Could not add combat log event filter! - Performance may be horrible, and things may not work properly!
+[18:29:49:281] [Singular-DEBUG] Attached combat log
+[18:29:49:281] [Singular] Context changed. New context: Normal. Rebuilding behaviors.
+[18:29:49:281] [Singular-DEBUG] Creating Combat behavior.
+[18:29:49:283] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[18:29:49:283] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[18:29:49:284] [Singular-DEBUG] Creating Pull behavior.
+[18:29:49:288] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[18:29:49:288] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[18:29:49:289] [Singular-DEBUG] Creating Rest behavior.
+[18:29:49:291] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[18:29:49:291] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[18:29:49:293] [Singular-DEBUG] Creating CombatBuffs behavior.
+[18:29:49:294] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[18:29:49:294] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[18:29:49:296] [Singular-DEBUG] Creating Heal behavior.
+[18:29:49:297] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[18:29:49:297] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[18:29:49:299] [Singular-DEBUG] Creating PullBuffs behavior.
+[18:29:49:302] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[18:29:49:304] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[18:29:49:304] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[18:29:49:361] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[18:29:49:361] Cleared POI - Reason Exception in Root.Tick()
+[18:29:49:361] Cleared POI
+[18:29:52:455] [BGBuddy]: Queueing up for RandomBattleground
+[18:30:52:363] [BGBuddy]: Accepting battleground join in 4 seconds.
+[18:31:06:449] Not in game
+[18:31:07:452] Cleared POI - Reason Player Died
+[18:31:07:452] Cleared POI
+[18:31:07:452] Plugin Refreshment Detection threw an exception in 'Pulse'! Exception:
+[18:31:07:459] System.NullReferenceException: Object reference not set to an instance of an object.
+   at BlueMagic.Memory.ReadStruct[T](UInt32 dwAddress)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_Inventory()
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_BagItemGuids()
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_BagItems()
+   at Styx.Logic.Inventory.Consumable.GetDrinks()
+   at Styx.Logic.Inventory.Consumable.GetBestDrink(Boolean includeSpecialtyItems)
+   at QuickPlugins.RefreshmentDetector.Pulse() in c:\Users\Shadow\Desktop\HonorBuddy\Plugins\Apoc Refreshment.cs:line 17
+   at Styx.Plugins.PluginWrapper.Pulse()
+[18:31:07:463] System.InvalidOperationException: Cannot run injection routines while not in game! (Crash Prevention)
+   at Styx.StyxWoW.Call[T](UInt32 address, CallingConvention callingConvention, Object[] args)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember.smethod_1(UInt64 guid)
+   at Styx.WoWInternals.WoWObjects.WoWPartyMember..ctor(UInt64 guid, Boolean isPartyMember)
+   at Styx.WoWInternals.WoWObjects.LocalPlayer.get_RaidMemberInfos()
+   at Singular.Helpers.Group.get_Tanks() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Helpers\Group.cs:line 40
+   at Singular.Helpers.Group.get_MeIsTank() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\Helpers\Group.cs:line 18
+   at Singular.SingularRoutine.Pulse() in c:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular\SingularRoutine.cs:line 147
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[18:31:08:554] Downloaded tilemap CataclysmCTF
+[18:31:08:560] Changed tilemap to CataclysmCTF, Tiled: True
+[18:31:08:564] [Singular-DEBUG] Detached combat log
+[18:31:08:593] [Singular] Context changed. New context: Battlegrounds. Rebuilding behaviors.
+[18:31:08:594] [Singular-DEBUG] Creating Combat behavior.
+[18:31:08:596] [Singular-DEBUG] CreateHolyPaladinCombatBehavior is a match!
+[18:31:08:596] [Singular]  Using CreateHolyPaladinCombatBehavior for Holy Paladin - Combat (Priority: 0)
+[18:31:08:597] [Singular-DEBUG] Creating Pull behavior.
+[18:31:08:599] [Singular-DEBUG] CreateHolyPaladinPullBehavior is a match!
+[18:31:08:599] [Singular]  Using CreateHolyPaladinPullBehavior for Holy Paladin - Pull (Priority: 0)
+[18:31:08:601] [Singular-DEBUG] Creating Rest behavior.
+[18:31:08:603] [Singular-DEBUG] CreateHolyPaladinRest is a match!
+[18:31:08:603] [Singular]  Using CreateHolyPaladinRest for Holy Paladin - Rest (Priority: 0)
+[18:31:08:605] [Singular-DEBUG] Creating CombatBuffs behavior.
+[18:31:08:608] [Singular-DEBUG] CreateHolyPaladinCombatBuffsBehavior is a match!
+[18:31:08:608] [Singular]  Using CreateHolyPaladinCombatBuffsBehavior for Holy Paladin - CombatBuffs (Priority: 0)
+[18:31:08:611] [Singular-DEBUG] Creating Heal behavior.
+[18:31:08:613] [Singular-DEBUG] CreateHolyPaladinHealBehavior is a match!
+[18:31:08:613] [Singular]  Using CreateHolyPaladinHealBehavior for Holy Paladin - Heal (Priority: 0)
+[18:31:08:615] [Singular-DEBUG] Creating PullBuffs behavior.
+[18:31:08:619] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[18:31:08:622] [Singular-DEBUG] CreatePaladinPreCombatBuffs is a match!
+[18:31:08:622] [Singular]  Using CreatePaladinPreCombatBuffs for Holy Paladin - PreCombatBuffs (Priority: 0)
+[18:31:08:629] [BGBuddy]: Starting Twin Peaks
+[18:31:08:632] Loading CataclysmCTF_31_27
+[18:31:08:758] Loading CataclysmCTF_31_28
+[18:31:08:940] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[18:31:08:940] Cleared POI - Reason Exception in Root.Tick()
+[18:31:08:940] Cleared POI
+[18:31:09:035] [Singular] Casting Blessing of Kings on Myself
+[18:31:09:037] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [386]
+[18:31:09:169] Path randomized
+[18:31:13:834] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [387]
+[18:31:51:889] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [388]
+[18:32:16:779] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [389]
+[18:32:42:226] [Singular] Casting Blessing of Might on Myself
+[18:32:42:228] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [390]
+[18:32:45:593] [Singular] Casting Blessing of Kings on Myself
+[18:32:45:594] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [391]
+[18:32:52:821] Changed POI to:Type: Hotspot, Loc: <2132.261, 186.1616, 43.6499>
+[18:32:52:821] [BGBuddy]: Moving to biggest friendly pack
+[18:32:54:335] Changed POI to:Type: Hotspot, Loc: <2120.208, 157.8902, 43.64453>
+[18:32:58:628] Changed POI to:Type: Hotspot, Loc: <2084.072, 150.7064, 28.53005>
+[18:33:04:869] Changed POI to:Type: Hotspot, Loc: <2037.105, 171.2657, 10.31486>
+[18:33:04:895] Mounting: Ebon Gryphon
+[18:33:05:102] Spell_C::CastSpell(32239, 0, 0x0, 0) [392]
+[18:33:11:067] Changed POI to:Type: Hotspot, Loc: <1965.024, 222.8275, -5.075558>
+[18:33:11:067] [BGBuddy]: Moving to biggest friendly pack
+[18:33:17:234] Changed POI to:Type: Hotspot, Loc: <1909.902, 279.6429, -18.42921>
+[18:33:23:232] Changed POI to:Type: Hotspot, Loc: <1843.102, 305.3843, -29.19265>
+[18:33:27:392] Changed POI to:Type: Hotspot, Loc: <1872.231, 244.7138, -30.38044>
+[18:33:27:392] [BGBuddy]: Moving to biggest fight
+[18:33:30:960] Changed POI to:Type: Hotspot, Loc: <1864.754, 275.3939, -27.24962>
+[18:33:30:960] [BGBuddy]: Moving to biggest friendly pack
+[18:33:32:329] Changed POI to:Type: Hotspot, Loc: <1890.776, 244.9535, -26.15203>
+[18:33:32:329] [BGBuddy]: Moving to biggest fight
+[18:33:37:776] Changed POI to:Type: Kill, Name: Kemur
+[18:33:37:927] [Singular-DEBUG] Switched targets!
+[18:33:37:927] [Singular-DEBUG] Melee Distance: 3.5
+[18:33:37:927] [Singular-DEBUG] Health: 161257
+[18:33:37:927] [Singular-DEBUG] Level: 85
+[18:33:38:045] Stop and dismount... Reason: Casting spell
+[18:33:38:245] [Singular] Casting Judgement on Mage
+[18:33:38:254] Spell_C::CastSpell(20271, 0, 0x36DB3F, 0) [393]
+[18:33:46:360] Changed POI to:Type: Kill, Name: Knighkillii
+[18:33:46:511] [Singular-DEBUG] Switched targets!
+[18:33:46:511] [Singular-DEBUG] Melee Distance: 3.5
+[18:33:46:511] [Singular-DEBUG] Health: 170285
+[18:33:46:511] [Singular-DEBUG] Level: 85
+[18:33:47:473] [Singular] Casting Blessing of Might on Myself
+[18:33:47:474] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [394]
+[18:33:48:999] [Singular] Casting Holy Shock on Paladin
+[18:33:49:001] Spell_C::CastSpell(20473, 0, 0x91BC8, 0) [395]
+[18:33:51:050] [Singular] Casting Holy Light on Paladin
+[18:33:51:052] Spell_C::CastSpell(635, 0, 0x91BC8, 0) [396]
+[18:33:53:953] [Singular] Casting Holy Light on Myself
+[18:33:53:954] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [397]
+[18:33:55:664] [Singular] Casting Holy Shock on Myself
+[18:33:55:666] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [398]
+[18:33:57:033] [Singular] Casting Holy Light on Paladin
+[18:33:57:036] Spell_C::CastSpell(635, 0, 0x91BC8, 0) [399]
+[18:33:59:411] Spell_C::CastSpell(635, 0, 0x91BC8, 0) [400]
+[18:34:04:304] [Singular] Casting Blessing of Kings on Myself
+[18:34:04:305] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [401]
+[18:34:05:735] Cleared POI - Reason Target being cleared.
+[18:34:05:735] Cleared POI
+[18:34:05:740] Cleared POI - Reason BGBuddy Sanity Check #4 [No Target+Type=Kill]
+[18:34:05:740] Cleared POI
+[18:34:05:828] Changed POI to:Type: Hotspot, Loc: <1760.055, 324.8141, -15.54043>
+[18:34:05:828] [BGBuddy]: Moving to biggest fight
+[18:34:10:582] Mounting: Brown Horse
+[18:34:10:786] Spell_C::CastSpell(458, 0, 0x0, 0) [402]
+[18:34:22:144] Unloading tiles!
+[18:34:22:149] Loading CataclysmCTF_31_28
+[18:34:23:123] Stop and dismount... Reason: Casting spell
+[18:34:23:321] [Singular] Casting Holy Shock on DeathKnight
+[18:34:23:323] Spell_C::CastSpell(20473, 0, 0x5FAEDE, 0) [403]
+[18:34:23:459] Changed POI to:Type: Kill, Name: Valentiinoo
+[18:34:23:639] [Singular-DEBUG] Switched targets!
+[18:34:23:639] [Singular-DEBUG] Melee Distance: 3.5
+[18:34:23:639] [Singular-DEBUG] Health: 151723
+[18:34:23:639] [Singular-DEBUG] Level: 85
+[18:34:23:791] Changed POI to:Type: Kill, Name: Kayleigh
+[18:34:23:987] [Singular-DEBUG] Switched targets!
+[18:34:23:987] [Singular-DEBUG] Melee Distance: 3.5
+[18:34:23:987] [Singular-DEBUG] Health: 161835
+[18:34:23:987] [Singular-DEBUG] Level: 85
+[18:34:24:705] [Singular] Casting Flash of Light on DeathKnight
+[18:34:24:706] Spell_C::CastSpell(19750, 0, 0x5FAEDE, 0) [404]
+[18:34:26:219] [Singular] Casting Divine Light on DeathKnight
+[18:34:26:221] Spell_C::CastSpell(82326, 0, 0x5FAEDE, 0) [405]
+[18:34:27:864] [Singular] Casting Holy Light on DeathKnight
+[18:34:27:866] Spell_C::CastSpell(635, 0, 0x5FAEDE, 0) [406]
+[18:34:30:294] [Singular] Casting Divine Light on DeathKnight
+[18:34:30:296] Spell_C::CastSpell(82326, 0, 0x5FAEDE, 0) [407]
+[18:34:30:714] [Singular] Casting Holy Light on DeathKnight
+[18:34:30:717] Spell_C::CastSpell(635, 0, 0x5FAEDE, 0) [408]
+[18:34:31:926] [Singular] Casting Holy Shock on Mage
+[18:34:31:927] Spell_C::CastSpell(20473, 0, 0x3FC97B, 0) [409]
+[18:34:33:262] Spell_C::CastSpell(20473, 0, 0x3FC97B, 0) [410]
+[18:34:35:501] [Singular] Casting Holy Light on Paladin
+[18:34:35:503] Spell_C::CastSpell(635, 0, 0x4F2674, 0) [411]
+[18:34:36:106] [Singular] Casting Holy Light on Druid
+[18:34:36:107] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [412]
+[18:34:37:481] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [413]
+[18:34:39:768] [Singular] Casting Holy Shock on Paladin
+[18:34:39:769] Spell_C::CastSpell(20473, 0, 0x4F2674, 0) [414]
+[18:34:41:536] [Singular] Casting Judgement on Shaman
+[18:34:41:537] Spell_C::CastSpell(20271, 0, 0x5CF24A, 0) [415]
+[18:34:45:337] Changed POI to:Type: Kill, Name: Dashrogue
+[18:34:45:487] [Singular-DEBUG] Switched targets!
+[18:34:45:487] [Singular-DEBUG] Melee Distance: 3.5
+[18:34:45:487] [Singular-DEBUG] Health: 146164
+[18:34:45:487] [Singular-DEBUG] Level: 85
+[18:34:46:748] [Singular] Casting Blessing of Kings on Myself
+[18:34:46:749] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [416]
+[18:34:51:910] [Singular] Casting Holy Shock on Hunter
+[18:34:51:912] Spell_C::CastSpell(20473, 0, 0x3ABA55, 0) [417]
+[18:34:57:056] Path randomized
+[18:35:00:718] Cleared POI - Reason Target being cleared.
+[18:35:00:718] Cleared POI
+[18:35:00:943] Changed POI to:Type: Kill, Name: Kemur
+[18:35:01:108] [Singular-DEBUG] Switched targets!
+[18:35:01:108] [Singular-DEBUG] Melee Distance: 3.5
+[18:35:01:108] [Singular-DEBUG] Health: 152647
+[18:35:01:108] [Singular-DEBUG] Level: 85
+[18:35:05:299] [Singular] Casting Blessing of Might on Myself
+[18:35:05:300] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [418]
+[18:35:10:447] [Singular] Casting Blessing of Kings on Myself
+[18:35:10:451] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [419]
+[18:35:11:327] Cleared POI - Reason Target being cleared.
+[18:35:11:327] Cleared POI
+[18:35:16:732] Loading CataclysmCTF_31_29
+[18:35:16:903] Changed POI to:Type: Hotspot, Loc: <1571.707, 332.0847, 1.584315>
+[18:35:16:903] [BGBuddy]: Moving to defend friendly flag carrier
+[18:35:16:949] Mounting: Golden Gryphon
+[18:35:17:158] Spell_C::CastSpell(32235, 0, 0x0, 0) [420]
+[18:35:19:043] Path randomized
+[18:35:35:388] Changed POI to:Type: Hotspot, Loc: <1725.662, 323.481, -9.682782>
+[18:35:35:388] [BGBuddy]: Moving to defend friendly flag carrier
+[18:35:42:003] Mounting: Pinto
+[18:35:42:209] Spell_C::CastSpell(472, 0, 0x0, 0) [421]
+[18:35:50:261] Changed POI to:Type: Hotspot, Loc: <1889.684, 291.2592, -23.43552>
+[18:35:50:261] [BGBuddy]: Moving to defend friendly flag carrier
+[18:35:56:294] [STUCK] Got stuck at <1760.695, 340.356, -12.39788> on map 726
+[18:35:56:298] [STUCK][HITTEST] LD/LU: False
+[18:35:56:298] [STUCK][HITTEST] Left: False
+[18:35:56:298] [STUCK][HITTEST] RD/RU: True
+[18:35:56:298] [STUCK][HITTEST] Right: True
+[18:35:56:298] [STUCK][HITTEST] Behind: False
+[18:35:56:298] [STUCK][HITTEST] Behind Left: False
+[18:35:56:298] [STUCK][HITTEST] Behind Right: False
+[18:35:56:298] Stop and dismount... Reason: [STUCK] Dismounting
+[18:35:56:703] [STUCK] Moving Forward for 750ms.
+[18:35:57:461] [STUCK][DISMOUNT] Moved 0. Need: 2.25. Result: False
+[18:36:00:694] [STUCK] Couldn't get unstuck.. Adding blackspot.
+[18:36:00:724] [STUCK] Moving backwards for 3 seconds.
+[18:36:03:731] [STUCK] Clearing current path to regenerate it around our stuck location.
+[18:36:03:811] [Singular-DEBUG] Switched targets!
+[18:36:03:811] [Singular-DEBUG] Melee Distance: 3.5
+[18:36:03:811] [Singular-DEBUG] Health: 138367
+[18:36:03:811] [Singular-DEBUG] Level: 85
+[18:36:03:821] Changed POI to:Type: Kill, Name: Dashrogue
+[18:36:03:911] [Singular] Casting Holy Shock on Myself
+[18:36:03:913] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [422]
+[18:36:05:313] [Singular] Casting Holy Light on Myself
+[18:36:05:315] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [423]
+[18:36:07:815] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [424]
+[18:36:10:304] [Singular] Casting Holy Shock on Myself
+[18:36:10:306] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [425]
+[18:36:11:749] [Singular] Casting Holy Light on Myself
+[18:36:11:751] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [426]
+[18:36:12:709] Changed POI to:Type: Kill, Name: Kemur
+[18:36:12:886] [Singular-DEBUG] Switched targets!
+[18:36:12:886] [Singular-DEBUG] Melee Distance: 3.5
+[18:36:12:886] [Singular-DEBUG] Health: 147131
+[18:36:12:886] [Singular-DEBUG] Level: 85
+[18:36:13:051] [Singular] Casting Divine Light on Myself
+[18:36:13:053] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [427]
+[18:36:14:255] [Singular] Casting Flash of Light on Myself
+[18:36:14:258] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [428]
+[18:36:15:443] Spell_C::CastSpell(19750, 0, 0x5D596B, 0) [429]
+[18:36:16:555] [Singular] Casting Holy Shock on Myself
+[18:36:16:558] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [430]
+[18:36:17:509] Changed POI to:Type: Kill, Name: Elementar
+[18:36:17:673] [Singular-DEBUG] Switched targets!
+[18:36:17:673] [Singular-DEBUG] Melee Distance: 3.5
+[18:36:17:673] [Singular-DEBUG] Health: 128291
+[18:36:17:674] [Singular-DEBUG] Level: 85
+[18:36:17:949] [Singular] Casting Word of Glory on Myself
+[18:36:17:951] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [431]
+[18:36:18:064] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [432]
+[18:36:19:526] [Singular] Casting Divine Light on Myself
+[18:36:19:528] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [433]
+[18:36:22:149] [Singular] Casting Holy Light on Myself
+[18:36:22:151] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [434]
+[18:36:24:439] [Singular] Casting Holy Shock on Myself
+[18:36:24:441] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [435]
+[18:36:24:571] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [436]
+[18:36:24:699] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [437]
+[18:36:24:823] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [438]
+[18:36:24:943] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [439]
+[18:36:25:074] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [440]
+[18:36:25:204] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [441]
+[18:36:25:317] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [442]
+[18:36:25:435] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [443]
+[18:36:25:562] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [444]
+[18:36:25:678] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [445]
+[18:36:25:823] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [446]
+[18:36:27:329] [Singular] Casting Divine Light on Myself
+[18:36:27:331] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [447]
+[18:36:28:727] [Singular] Casting Holy Light on Mage
+[18:36:28:729] Spell_C::CastSpell(635, 0, 0x4DB08A, 0) [448]
+[18:36:29:887] [Singular] Casting Holy Light on Myself
+[18:36:29:888] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [449]
+[18:36:32:416] [Singular] Casting Holy Shock on Myself
+[18:36:32:418] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [450]
+[18:36:37:011] [Singular] Casting Holy Light on Myself
+[18:36:37:014] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [451]
+[18:36:39:563] Changed POI to:Type: Kill, Name: Kayleigh
+[18:36:39:715] [Singular-DEBUG] Switched targets!
+[18:36:39:715] [Singular-DEBUG] Melee Distance: 3.5
+[18:36:39:715] [Singular-DEBUG] Health: 147541
+[18:36:39:715] [Singular-DEBUG] Level: 85
+[18:36:39:837] [Singular] Casting Holy Shock on Myself
+[18:36:39:838] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [452]
+[18:36:41:263] [Singular] Casting Word of Glory on Myself
+[18:36:41:264] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [453]
+[18:36:41:381] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [454]
+[18:36:41:511] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [455]
+[18:36:41:633] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [456]
+[18:36:41:740] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [457]
+[18:36:41:857] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [458]
+[18:36:41:977] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [459]
+[18:36:42:100] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [460]
+[18:36:42:219] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [461]
+[18:36:42:333] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [462]
+[18:36:42:438] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [463]
+[18:36:42:552] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [464]
+[18:36:42:660] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [465]
+[18:36:42:781] [Singular] Casting Lay on Hands on Myself
+[18:36:42:782] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [466]
+[18:36:42:896] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [467]
+[18:36:43:017] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [468]
+[18:36:43:137] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [469]
+[18:36:43:264] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [470]
+[18:36:43:393] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [471]
+[18:36:43:517] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [472]
+[18:36:43:631] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [473]
+[18:36:43:744] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [474]
+[18:36:43:861] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [475]
+[18:36:43:977] Spell_C::CastSpell(633, 0, 0x5D596B, 0) [476]
+[18:36:44:069] Cleared POI - Reason Player Died
+[18:36:44:069] Cleared POI
+[18:36:46:100] Cleared POI - Reason Died
+[18:36:46:100] Cleared POI
+[18:36:47:348] Cleared POI - Reason Died
+[18:36:47:348] Cleared POI
+[18:36:55:628] Cleared POI - Reason Died
+[18:36:55:628] Cleared POI
+[18:36:55:749] [Singular] Casting Blessing of Kings on Myself
+[18:36:55:750] Spell_C::CastSpell(20217, 0, 0x5D596B, 0) [477]
+[18:36:55:848] Changed POI to:Type: Hotspot, Loc: <1881.329, 324.7844, -24.42469>
+[18:36:55:848] [BGBuddy]: Moving to biggest friendly pack
+[18:36:55:896] Mounting: Swift Green Gryphon
+[18:36:56:098] Spell_C::CastSpell(32290, 0, 0x0, 0) [478]
+[18:37:06:811] Stop and dismount... Reason: Casting spell
+[18:37:07:012] [Singular] Casting Flash of Light on Mage
+[18:37:07:014] Spell_C::CastSpell(19750, 0, 0x4DB08A, 0) [479]
+[18:37:08:600] Changed POI to:Type: Kill, Name: Kayleigh
+[18:37:08:752] [Singular-DEBUG] Switched targets!
+[18:37:08:752] [Singular-DEBUG] Melee Distance: 3.5
+[18:37:08:752] [Singular-DEBUG] Health: 148155
+[18:37:08:752] [Singular-DEBUG] Level: 85
+[18:37:08:879] [Singular] Casting Divine Light on Mage
+[18:37:08:880] Spell_C::CastSpell(82326, 0, 0x4DB08A, 0) [480]
+[18:37:09:765] [Singular] Casting Holy Shock on Mage
+[18:37:09:766] Spell_C::CastSpell(20473, 0, 0x4DB08A, 0) [481]
+[18:37:11:269] [Singular] Casting Holy Light on Mage
+[18:37:11:271] Spell_C::CastSpell(635, 0, 0x4DB08A, 0) [482]
+[18:37:13:100] [Singular] Casting Holy Light on Druid
+[18:37:13:102] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [483]
+[18:37:15:562] [Singular] Casting Holy Shock on Druid
+[18:37:15:564] Spell_C::CastSpell(20473, 0, 0x5B2360, 0) [484]
+[18:37:17:057] [Singular] Casting Holy Light on Druid
+[18:37:17:061] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [485]
+[18:37:19:512] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [486]
+[18:37:20:979] Changed POI to:Type: Kill, Name: Kemur
+[18:37:21:123] [Singular-DEBUG] Switched targets!
+[18:37:21:123] [Singular-DEBUG] Melee Distance: 3.5
+[18:37:21:123] [Singular-DEBUG] Health: 151628
+[18:37:21:123] [Singular-DEBUG] Level: 85
+[18:37:21:502] [Singular] Casting Holy Light on Myself
+[18:37:21:503] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [487]
+[18:37:26:342] [Singular] Casting Seal of Insight on Myself
+[18:37:26:345] Spell_C::CastSpell(20165, 0, 0x5D596B, 0) [488]
+[18:37:26:543] [STUCK] Got stuck at <1880.806, 328.1567, -23.96789> on map 726
+[18:37:26:550] [STUCK][HITTEST] LD/LU: True
+[18:37:26:550] [STUCK][HITTEST] Left: False
+[18:37:26:550] [STUCK][HITTEST] RD/RU: False
+[18:37:26:550] [STUCK][HITTEST] Right: False
+[18:37:26:550] [STUCK][HITTEST] Behind: False
+[18:37:26:550] [STUCK][HITTEST] Behind Left: False
+[18:37:26:550] [STUCK][HITTEST] Behind Right: False
+[18:37:29:645] [STUCK] Strafing worked!
+[18:37:29:714] Flushing timed movement. Direction: AllAllowed
+[18:37:30:669] [Singular] Casting Judgement on Mage
+[18:37:30:671] Spell_C::CastSpell(20271, 0, 0x36DB3F, 0) [489]
+[18:37:34:056] [Singular] Casting Holy Shock on Myself
+[18:37:34:058] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [490]
+[18:37:34:500] Changed POI to:Type: Kill, Name: Knighkillii
+[18:37:34:570] [Singular-DEBUG] Switched targets!
+[18:37:34:570] [Singular-DEBUG] Melee Distance: 3.5
+[18:37:34:570] [Singular-DEBUG] Health: 162095
+[18:37:34:570] [Singular-DEBUG] Level: 85
+[18:37:37:894] [Singular] Casting Holy Light on Myself
+[18:37:37:896] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [491]
+[18:37:39:221] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [492]
+[18:37:41:523] [Singular] Casting Holy Shock on Myself
+[18:37:41:524] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [493]
+[18:37:42:867] [Singular] Casting Word of Glory on Myself
+[18:37:42:869] Spell_C::CastSpell(85673, 0, 0x5D596B, 0) [494]
+[18:37:44:177] [Singular] Casting Divine Light on Myself
+[18:37:44:179] Spell_C::CastSpell(82326, 0, 0x5D596B, 0) [495]
+[18:37:45:227] [Singular] Casting Holy Light on Myself
+[18:37:45:228] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [496]
+[18:37:47:535] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [497]
+[18:37:49:791] [Singular] Casting Holy Shock on DeathKnight
+[18:37:49:792] Spell_C::CastSpell(20473, 0, 0x46F219, 0) [498]
+[18:37:52:836] [Singular] Casting Holy Light on Myself
+[18:37:52:838] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [499]
+[18:37:56:002] [Singular] Casting Holy Shock on Myself
+[18:37:56:004] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [500]
+[18:37:56:346] Cleared POI - Reason Target being cleared.
+[18:37:56:346] Cleared POI
+[18:37:56:637] Changed POI to:Type: Kill, Name: Preciosidad
+[18:37:56:791] [Singular-DEBUG] Switched targets!
+[18:37:56:791] [Singular-DEBUG] Melee Distance: 3.5
+[18:37:56:791] [Singular-DEBUG] Health: 119887
+[18:37:56:791] [Singular-DEBUG] Level: 85
+[18:37:57:287] [Singular] Casting Holy Shock on Druid
+[18:37:57:289] Spell_C::CastSpell(20473, 0, 0x5B2360, 0) [501]
+[18:37:57:409] Spell_C::CastSpell(20473, 0, 0x5B2360, 0) [502]
+[18:38:07:891] Cleared POI - Reason Target being cleared.
+[18:38:07:891] Cleared POI
+[18:38:08:053] Loading CataclysmCTF_31_27
+[18:38:08:144] Changed POI to:Type: Hotspot, Loc: <1575.069, 344.9708, 2.172416>
+[18:38:08:144] [BGBuddy]: Moving to defend friendly flag carrier
+[18:38:08:176] Mounting: Rivendare's Deathcharger
+[18:38:08:381] Spell_C::CastSpell(17481, 0, 0x0, 0) [503]
+[18:38:10:225] Path randomized
+[18:38:35:472] Changed POI to:Type: Hotspot, Loc: <1793.818, 320.1217, -21.04401>
+[18:38:35:472] [BGBuddy]: Moving to defend friendly flag carrier
+[18:38:36:701] [STUCK] Got stuck at <1577.66, 323.0901, 2.355706> on map 726
+[18:38:36:703] [STUCK][HITTEST] LD/LU: False
+[18:38:36:703] [STUCK][HITTEST] Left: True
+[18:38:36:703] [STUCK][HITTEST] RD/RU: False
+[18:38:36:703] [STUCK][HITTEST] Right: False
+[18:38:36:703] [STUCK][HITTEST] Behind: False
+[18:38:36:703] [STUCK][HITTEST] Behind Left: True
+[18:38:36:703] [STUCK][HITTEST] Behind Right: False
+[18:38:39:756] [STUCK] Strafing worked!
+[18:38:39:823] Flushing timed movement. Direction: AllAllowed
+[18:38:47:894] Mounting: Ebon Gryphon
+[18:38:48:100] Spell_C::CastSpell(32239, 0, 0x0, 0) [504]
+[18:39:02:216] Changed POI to:Type: Hotspot, Loc: <1861.126, 317.32, -27.56041>
+[18:39:02:216] [BGBuddy]: Moving to biggest fight
+[18:39:05:980] Stop and dismount... Reason: Casting spell
+[18:39:06:209] [Singular] Casting Holy Shock on Mage
+[18:39:06:211] Spell_C::CastSpell(20473, 0, 0x4DB08A, 0) [505]
+[18:39:06:411] Spell_C::CastSpell(20473, 0, 0x4DB08A, 0) [506]
+[18:39:06:590] Spell_C::CastSpell(20473, 0, 0x4DB08A, 0) [507]
+[18:39:07:267] Changed POI to:Type: Hotspot, Loc: <2127.386, 193.6525, 44.01854>
+[18:39:07:267] [BGBuddy]: Moving to defend friendly flag carrier
+[18:39:07:337] Mounting: Golden Gryphon
+[18:39:07:543] Spell_C::CastSpell(32235, 0, 0x0, 0) [508]
+[18:39:09:505] Stop and dismount... Reason: Casting spell
+[18:39:09:709] [Singular] Casting Holy Light on Mage
+[18:39:09:711] Spell_C::CastSpell(635, 0, 0x4DB08A, 0) [509]
+[18:39:12:259] Changed POI to:Type: Kill, Name: Dashrogue
+[18:39:12:434] [Singular-DEBUG] Switched targets!
+[18:39:12:434] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:12:434] [Singular-DEBUG] Health: 138367
+[18:39:12:434] [Singular-DEBUG] Level: 85
+[18:39:12:592] Changed POI to:Type: Kill, Name: Kemur
+[18:39:12:766] [Singular-DEBUG] Switched targets!
+[18:39:12:766] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:12:766] [Singular-DEBUG] Health: 150120
+[18:39:12:766] [Singular-DEBUG] Level: 85
+[18:39:12:861] Spell_C::CastSpell(635, 0, 0x4DB08A, 0) [510]
+[18:39:15:431] [Singular] Casting Holy Light on DeathKnight
+[18:39:15:432] Spell_C::CastSpell(635, 0, 0x46F219, 0) [511]
+[18:39:17:855] [Singular] Casting Holy Shock on Mage
+[18:39:17:858] Spell_C::CastSpell(20473, 0, 0x4DB08A, 0) [512]
+[18:39:19:751] Changed POI to:Type: Kill, Name: Valentiinoo
+[18:39:19:910] [Singular-DEBUG] Switched targets!
+[18:39:19:910] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:19:910] [Singular-DEBUG] Health: 138578
+[18:39:19:910] [Singular-DEBUG] Level: 85
+[18:39:22:436] [Singular] Casting Holy Light on Mage
+[18:39:22:438] Spell_C::CastSpell(635, 0, 0x4DB08A, 0) [513]
+[18:39:26:024] Unloading tiles!
+[18:39:26:028] Loading CataclysmCTF_31_28
+[18:39:26:418] Path randomized
+[18:39:26:594] Changed POI to:Type: Kill, Name: Kemur
+[18:39:26:857] [Singular-DEBUG] Switched targets!
+[18:39:26:857] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:26:857] [Singular-DEBUG] Health: 153114
+[18:39:26:857] [Singular-DEBUG] Level: 85
+[18:39:29:898] [Singular] Casting Holy Shock on DeathKnight
+[18:39:29:900] Spell_C::CastSpell(20473, 0, 0x5FAEDE, 0) [514]
+[18:39:31:382] [Singular] Casting Holy Light on Myself
+[18:39:31:383] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [515]
+[18:39:32:643] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [516]
+[18:39:33:809] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [517]
+[18:39:35:241] [Singular] Casting Holy Light on DeathKnight
+[18:39:35:243] Spell_C::CastSpell(635, 0, 0x46F219, 0) [518]
+[18:39:38:026] Spell_C::CastSpell(635, 0, 0x46F219, 0) [519]
+[18:39:39:530] Spell_C::CastSpell(635, 0, 0x46F219, 0) [520]
+[18:39:39:969] [Singular] Casting Holy Shock on Myself
+[18:39:39:972] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [521]
+[18:39:41:469] Spell_C::CastSpell(20473, 0, 0x5D596B, 0) [522]
+[18:39:42:921] [Singular] Casting Holy Light on Myself
+[18:39:42:922] Spell_C::CastSpell(635, 0, 0x5D596B, 0) [523]
+[18:39:44:284] Changed POI to:Type: Kill, Name: Preciosidad
+[18:39:44:502] [Singular-DEBUG] Switched targets!
+[18:39:44:502] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:44:502] [Singular-DEBUG] Health: 119887
+[18:39:44:502] [Singular-DEBUG] Level: 85
+[18:39:44:730] [Singular] Casting Holy Light on DeathKnight
+[18:39:44:732] Spell_C::CastSpell(635, 0, 0x5FAEDE, 0) [524]
+[18:39:46:145] [Singular] Casting Blessing of Might on Myself
+[18:39:46:147] Spell_C::CastSpell(19740, 0, 0x5D596B, 0) [525]
+[18:39:47:596] [Singular] Casting Judgement on Rogue
+[18:39:47:598] Spell_C::CastSpell(20271, 0, 0x617B1F, 0) [526]
+[18:39:47:986] Changed POI to:Type: Kill, Name: Elementar
+[18:39:48:131] [Singular-DEBUG] Switched targets!
+[18:39:48:131] [Singular-DEBUG] Melee Distance: 3.5
+[18:39:48:131] [Singular-DEBUG] Health: 128291
+[18:39:48:131] [Singular-DEBUG] Level: 85
+[18:39:49:185] [Singular] Casting Holy Light on Druid
+[18:39:49:188] Spell_C::CastSpell(635, 0, 0x5B2360, 0) [527]
+[18:39:50:336] Stopping the bot!
+[18:39:50:337] Stop called!
+[18:39:50:343] Changed tilemap to CataclysmCTF, Tiled: True
+[18:39:50:348] [BGBuddy]: BGBuddy Session Report:
+[18:39:50:348] [BGBuddy]: -----------------------------------------
+[18:39:50:348] [BGBuddy]: Isle of Conquest: Wins - 0 Losses - 1
+[18:39:50:348] [BGBuddy]: Arathi Basin: Wins - 0 Losses - 1
+[18:39:50:349] Activity: Honorbuddy Stopped

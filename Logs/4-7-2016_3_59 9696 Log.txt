@@ -1,0 +1,111 @@
+[3:59:41:127] Logging in...
+[3:59:41:290] Logged into CodeDeception local server
+[3:59:41:794] Attached to WoW with ID 6164
+[3:59:41:849] Honorbuddy v2.0.0.5883 started!
+[3:59:41:849] Using WoW with process ID 6164
+[3:59:41:849] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[3:59:41:849] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[3:59:41:855] Character is a level 85 Human Paladin
+[3:59:41:856] Current zone is Darnassus
+[3:59:41:859] New bot added!: ArchaeologyBuddy
+[3:59:42:143] [Instancebuddy]: ----------------------------------------------------------------------
+[3:59:42:145] [Instancebuddy]: Currently supported tanking dungeons :
+[3:59:42:145] [Instancebuddy]: (This list will update itself automatically)
+[3:59:42:145] [Instancebuddy]: 
+[3:59:42:145] [Instancebuddy]:  (Level 15 - 21) Deadmines
+[3:59:42:145] [Instancebuddy]:  (Level 15 - 21) Ragefire Chasm
+[3:59:42:145] [Instancebuddy]:  (Level 16 - 26) Shadowfang Keep
+[3:59:42:145] [Instancebuddy]:  (Level 20 - 30) The Stockade
+[3:59:42:145] [Instancebuddy]:  (Level 26 - 36) Scarlet Monastery - Graveyard
+[3:59:42:145] [Instancebuddy]:  (Level 29 - 39) Scarlet Monastery - Library
+[3:59:42:145] [Instancebuddy]:  (Level 32 - 42) Scarlet Monastery - Armory
+[3:59:42:145] [Instancebuddy]:  (Level 35 - 45) Scarlet Monastery - Cathedral
+[3:59:42:145] [Instancebuddy]:  (Level 38 - 48) Scholomance
+[3:59:42:145] [Instancebuddy]:  (Level 42 - 52) Stratholme - Main Gate
+[3:59:42:145] [Instancebuddy]:  (Level 46 - 56) Stratholme - Service Entrance
+[3:59:42:145] [Instancebuddy]:  (Level 57 - 67) Hellfire Ramparts
+[3:59:42:145] [Instancebuddy]:  (Level 59 - 68) The Blood Furnace
+[3:59:42:145] [Instancebuddy]:  (Level 62 - 71) Mana Tombs
+[3:59:42:145] [Instancebuddy]:  (Level 65 - 73) Sethekk Halls
+[3:59:42:145] [Instancebuddy]: ----------------------------------------------------------------------
+[3:59:42:260] New bot added!: Instancebuddy
+[3:59:42:263] New bot added!: BGBuddy
+[3:59:42:285] New bot added!: Gatherbuddy2
+[3:59:42:287] New bot added!: Grind Bot
+[3:59:42:289] New bot added!: Questing
+[3:59:42:292] New bot added!: Mixed Mode
+[3:59:42:295] New bot added!: PartyBot
+[3:59:43:747] New bot added!: Combat Bot
+[3:59:43:747] New bot added!: ProfessionBuddy
+[3:59:43:758] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[3:59:43:758] KillBetweenHotspots: True
+[3:59:43:758] AdvancedSettingsMode: False
+[3:59:43:758] LogoutForInactivity: True
+[3:59:43:758] LogoutInactivityTimer: 10
+[3:59:43:758] LogoutInactivityUseForceQuit: False
+[3:59:43:758] ProfileDebuggingMode: False
+[3:59:43:758] FoodAmount: 0
+[3:59:43:758] DrinkAmount: 0
+[3:59:43:758] FormLocationX: 2154
+[3:59:43:758] FormLocationY: 528
+[3:59:43:758] FormWidth: 396
+[3:59:43:758] FormHeight: 302
+[3:59:43:758] SelectedBotIndex: 1
+[3:59:43:758] UseFlightPaths: False
+[3:59:43:758] FindMountAutomatically: True
+[3:59:43:758] UseRandomMount: True
+[3:59:43:758] FoodName has no value yet!
+[3:59:43:758] DrinkName has no value yet!
+[3:59:43:758] MountName: Raven Lord
+[3:59:43:758] FlyingMountName has no value yet!
+[3:59:43:758] LootMobs: True
+[3:59:43:758] SkinMobs: False
+[3:59:43:758] NinjaSkin: False
+[3:59:43:758] LootChests: True
+[3:59:43:758] HarvestMinerals: False
+[3:59:43:758] HarvestHerbs: False
+[3:59:43:758] UseMount: True
+[3:59:43:758] PullDistance: 45
+[3:59:43:758] LootRadius: 45
+[3:59:43:758] FindVendorsAutomatically: False
+[3:59:43:758] TrainNewSkills: False
+[3:59:43:758] LearnFlightPaths: True
+[3:59:43:758] LastUsedPath has no value yet!
+[3:59:43:758] MountDistance: 75
+[3:59:43:758] RessAtSpiritHealers: False
+[3:59:43:758] GroundMountFarmingMode: False
+[3:59:43:758] FoodAmount: 0
+[3:59:43:758] DrinkAmount: 0
+[3:59:43:758] FormLocationX: 2154
+[3:59:43:758] FormLocationY: 528
+[3:59:43:758] SelectedBotIndex: 1
+[3:59:43:758] UseFlightPaths: False
+[3:59:43:758] FindMountAutomatically: True
+[3:59:43:758] UseRandomMount: True
+[3:59:43:758] FoodName has no value yet!
+[3:59:43:758] DrinkName has no value yet!
+[3:59:43:758] MountName: Raven Lord
+[3:59:43:758] LootMobs: True
+[3:59:43:758] SkinMobs: False
+[3:59:43:758] NinjaSkin: False
+[3:59:43:758] LootChests: True
+[3:59:43:758] HarvestMinerals: False
+[3:59:43:758] HarvestHerbs: False
+[3:59:43:758] UseMount: True
+[3:59:43:758] PullDistance: 45
+[3:59:43:758] LootRadius: 45
+[3:59:43:758] FindVendorsAutomatically: False
+[3:59:43:758] TrainNewSkills: False
+[3:59:43:758] LearnFlightPaths: True
+[3:59:43:758] LastUsedPath has no value yet!
+[3:59:43:758] MountDistance: 75
+[3:59:43:758] RessAtSpiritHealers: False
+[3:59:43:759] Please wait a few seconds while Honorbuddy initializes.
+[3:59:43:759] Activity: Initializing.
+[3:59:43:760] Activity: Loading memory management & tables
+[3:59:43:771] Activity: Loading Spells
+[3:59:43:823] Activity: Initializing Spell Manager
+[3:59:43:825] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[3:59:43:826] V: 2.0.0.5883
+[3:59:43:837] Activity: Initializing Plugins
+[3:59:43:847] 

@@ -1,0 +1,557 @@
+[4:17:43:135] Logging in...
+[4:17:43:223] Logged into CodeDeception local server
+[4:17:43:629] Attached to WoW with ID 7324
+[4:17:43:681] Honorbuddy v2.0.0.5883 started!
+[4:17:43:681] Using WoW with process ID 7324
+[4:17:43:681] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[4:17:43:681] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[4:17:43:683] Character is a level 85 Draenei Shaman
+[4:17:43:684] Current zone is Stormwind City
+[4:17:43:691] New bot added!: ArchaeologyBuddy
+[4:17:43:876] New bot added!: Instancebuddy
+[4:17:43:878] New bot added!: BGBuddy
+[4:17:43:897] New bot added!: Gatherbuddy2
+[4:17:43:899] New bot added!: Grind Bot
+[4:17:43:900] New bot added!: Questing
+[4:17:43:904] New bot added!: Mixed Mode
+[4:17:43:906] New bot added!: PartyBot
+[4:17:45:089] New bot added!: Combat Bot
+[4:17:45:089] New bot added!: ProfessionBuddy
+[4:17:45:096] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[4:17:45:096] KillBetweenHotspots: True
+[4:17:45:096] AdvancedSettingsMode: False
+[4:17:45:096] LogoutForInactivity: True
+[4:17:45:096] LogoutInactivityTimer: 10
+[4:17:45:096] LogoutInactivityUseForceQuit: False
+[4:17:45:096] ProfileDebuggingMode: False
+[4:17:45:096] FoodAmount: 0
+[4:17:45:096] DrinkAmount: 0
+[4:17:45:096] FormLocationX: 2154
+[4:17:45:096] FormLocationY: 528
+[4:17:45:096] FormWidth: 396
+[4:17:45:096] FormHeight: 302
+[4:17:45:096] SelectedBotIndex: 2
+[4:17:45:096] UseFlightPaths: False
+[4:17:45:096] FindMountAutomatically: True
+[4:17:45:096] UseRandomMount: True
+[4:17:45:096] FoodName has no value yet!
+[4:17:45:096] DrinkName has no value yet!
+[4:17:45:096] MountName has no value yet!
+[4:17:45:096] FlyingMountName has no value yet!
+[4:17:45:096] LootMobs: True
+[4:17:45:096] SkinMobs: False
+[4:17:45:096] NinjaSkin: False
+[4:17:45:096] LootChests: True
+[4:17:45:096] HarvestMinerals: False
+[4:17:45:096] HarvestHerbs: False
+[4:17:45:096] UseMount: True
+[4:17:45:096] PullDistance: 45
+[4:17:45:096] LootRadius: 45
+[4:17:45:096] FindVendorsAutomatically: False
+[4:17:45:096] TrainNewSkills: False
+[4:17:45:096] LearnFlightPaths: True
+[4:17:45:096] LastUsedPath has no value yet!
+[4:17:45:096] MountDistance: 75
+[4:17:45:096] RessAtSpiritHealers: False
+[4:17:45:096] GroundMountFarmingMode: False
+[4:17:45:096] FoodAmount: 0
+[4:17:45:096] DrinkAmount: 0
+[4:17:45:096] FormLocationX: 2154
+[4:17:45:096] FormLocationY: 528
+[4:17:45:096] SelectedBotIndex: 2
+[4:17:45:096] UseFlightPaths: False
+[4:17:45:096] FindMountAutomatically: True
+[4:17:45:096] UseRandomMount: True
+[4:17:45:096] FoodName has no value yet!
+[4:17:45:096] DrinkName has no value yet!
+[4:17:45:096] MountName has no value yet!
+[4:17:45:096] LootMobs: True
+[4:17:45:096] SkinMobs: False
+[4:17:45:096] NinjaSkin: False
+[4:17:45:096] LootChests: True
+[4:17:45:096] HarvestMinerals: False
+[4:17:45:096] HarvestHerbs: False
+[4:17:45:096] UseMount: True
+[4:17:45:096] PullDistance: 45
+[4:17:45:096] LootRadius: 45
+[4:17:45:096] FindVendorsAutomatically: False
+[4:17:45:096] TrainNewSkills: False
+[4:17:45:096] LearnFlightPaths: True
+[4:17:45:096] LastUsedPath has no value yet!
+[4:17:45:096] MountDistance: 75
+[4:17:45:096] RessAtSpiritHealers: False
+[4:17:45:097] Please wait a few seconds while Honorbuddy initializes.
+[4:17:45:097] Activity: Initializing.
+[4:17:45:098] Activity: Loading memory management & tables
+[4:17:45:109] Activity: Loading Spells
+[4:17:45:150] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[4:17:45:150] V: 2.0.0.5883
+[4:17:45:188] Activity: Initializing Spell Manager
+[4:17:45:214] Activity: Initializing Plugins
+[4:17:45:238] 
+[4:17:46:287] [WeigtSet] Selected weight set: Shaman-Restoration
+[4:17:47:175] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[4:17:47:177] Root element is missing.
+[4:17:47:177] ItemForAura: Continuing with Default Config Values
+[4:17:47:177] ItemForAura - Questhelper - Version 2.0 Loaded.
+[4:17:47:178] Root element is missing.
+[4:17:47:178] ItemForAura: Continuing with Default Config Values
+[4:17:47:550] Activity: Initializing Navigator
+[4:17:47:594] Activity: Initializing Blackspot Manager
+[4:17:47:596] Activity: Initializing Battlegrounds
+[4:17:47:596] Activity: Initializing Flight Paths
+[4:17:47:603] Activity: Initializing Routines
+[4:17:47:606] Building spell book
+[4:17:47:609] Spell book built
+[4:17:47:609] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[4:17:48:202] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[4:17:49:137] Activity: Initialization complete
+[4:17:49:137] Initialization complete.
+[4:17:49:138] Activity: Honorbuddy Startup Complete
+[4:18:00:389] Could not find a routine fitting for your class. Please make sure you have a proper combat class routine in your folder, and restart Honorbuddy.
+[4:19:16:763] Starting the bot!
+[4:19:16:791] Downloaded tilemap Azeroth
+[4:19:16:794] Changed tilemap to Azeroth, Tiled: True
+[4:19:16:809] Changing current profile to Empty Profile
+[4:19:16:857] Cleared POI
+[4:19:16:857] Cleared POI - Reason Starting up
+[4:19:16:858] Cleared POI
+[4:19:16:867] WoW cannot be minimized while running Honorbuddy!
+[4:19:19:979] Activity: Loading Tile/s
+[4:19:19:979] Loading Azeroth_30_48
+[4:19:20:276] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:19:22:811] Stopping the bot!
+[4:19:22:811] Stop called!
+[4:19:22:827] Activity: Honorbuddy Stopped
+[4:19:23:844] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:19:23:845] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:19:25:369] Starting the bot!
+[4:19:25:386] Changed tilemap to Azeroth, Tiled: True
+[4:19:25:644] Cleared POI - Reason Starting up
+[4:19:25:644] Cleared POI
+[4:19:25:923] [Instancebuddy]: Queueing at dungeon finder
+[4:19:32:514] Stopping the bot!
+[4:19:32:514] Stop called!
+[4:19:32:594] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:19:32:594] Cleared POI - Reason Exception in Root.Tick()
+[4:19:32:594] Cleared POI
+[4:19:42:259] Starting the bot!
+[4:19:42:461] Cleared POI - Reason Starting up
+[4:19:42:461] Cleared POI
+[4:21:10:883] Stopping the bot!
+[4:21:10:883] Stop called!
+[4:21:10:940] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:21:10:940] Cleared POI - Reason Exception in Root.Tick()
+[4:21:10:940] Cleared POI
+[4:21:30:612] Starting the bot!
+[4:21:30:712] Remoting client started
+[4:21:31:307] Cleared POI - Reason Starting up
+[4:21:31:307] Cleared POI
+[4:21:34:823] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:21:41:426] Stopping the bot!
+[4:21:41:426] Stop called!
+[4:21:42:837] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:22:28:617] Starting the bot!
+[4:22:28:691] Cleared POI - Reason Starting up
+[4:22:28:691] Cleared POI
+[4:22:28:691] Building spell book
+[4:22:28:692] Adding: Diplomacy
+[4:22:28:692] Adding: Every Man for Himself
+[4:22:28:692] Adding: Mace Specialization
+[4:22:28:692] Adding: Master Riding
+[4:22:28:692] Adding: Plate Specialization
+[4:22:28:692] Adding: Sword Specialization
+[4:22:28:692] Adding: The Human Spirit
+[4:22:28:692] Adding: Aura Mastery
+[4:22:28:692] Adding: Beacon of Light
+[4:22:28:692] Adding: Cleanse
+[4:22:28:692] Adding: Concentration Aura
+[4:22:28:692] Adding: Consecration
+[4:22:28:692] Adding: Divine Favor
+[4:22:28:692] Adding: Divine Light
+[4:22:28:692] Adding: Divine Plea
+[4:22:28:692] Adding: Exorcism
+[4:22:28:692] Adding: Flash of Light
+[4:22:28:693] Adding: Holy Light
+[4:22:28:693] Adding: Holy Radiance
+[4:22:28:693] Adding: Holy Shock
+[4:22:28:693] Adding: Holy Wrath
+[4:22:28:693] Adding: Lay on Hands
+[4:22:28:693] Adding: Light of Dawn
+[4:22:28:693] Adding: Redemption
+[4:22:28:693] Adding: Seal of Insight
+[4:22:28:693] Adding: Turn Evil
+[4:22:28:693] Adding: Walk in the Light
+[4:22:28:694] Adding: Word of Glory
+[4:22:28:694] Adding: Blessing of Kings
+[4:22:28:694] Adding: Devotion Aura
+[4:22:28:694] Adding: Divine Protection
+[4:22:28:694] Adding: Divine Shield
+[4:22:28:694] Adding: Guardian of Ancient Kings
+[4:22:28:694] Adding: Hammer of Justice
+[4:22:28:694] Adding: Hand of Freedom
+[4:22:28:694] Adding: Hand of Protection
+[4:22:28:694] Adding: Hand of Reckoning
+[4:22:28:694] Adding: Hand of Sacrifice
+[4:22:28:694] Adding: Hand of Salvation
+[4:22:28:694] Adding: Parry
+[4:22:28:694] Adding: Resistance Aura
+[4:22:28:694] Adding: Righteous Defense
+[4:22:28:694] Adding: Righteous Fury
+[4:22:28:694] Adding: Seal of Justice
+[4:22:28:694] Adding: Seal of Righteousness
+[4:22:28:694] Adding: Avenging Wrath
+[4:22:28:694] Adding: Blessing of Might
+[4:22:28:694] Adding: Crusader Aura
+[4:22:28:694] Adding: Crusader Strike
+[4:22:28:694] Adding: Hammer of Wrath
+[4:22:28:694] Adding: Inquisition
+[4:22:28:694] Adding: Judgement
+[4:22:28:694] Adding: Rebuke
+[4:22:28:694] Adding: Retribution Aura
+[4:22:28:694] Adding: Seal of Truth
+[4:22:28:694] Adding: Archaeology
+[4:22:28:694] Adding: Survey
+[4:22:28:694] Adding: Blacksmithing
+[4:22:28:694] Adding: Fishing
+[4:22:28:695] Spell book built
+[4:22:28:861] [Instancebuddy]: Queueing at dungeon finder
+[4:22:29:650] Stopping the bot!
+[4:22:29:650] Stop called!
+[4:22:30:672] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:22:30:673] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:22:30:833] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:22:49:753] Activity: Loading Profile...
+[4:22:50:889] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:29:17:459] PB 1.463:Initializing ...
+[4:29:17:496] PB 1.463:No DataStore Addon found
+[4:29:17:509] ************* Change Log ****************
+[4:29:17:509] *****************************************
+[4:29:17:512] System.NullReferenceException: Object reference not set to an instance of an object.
+   at HighVoltz.Professionbuddy.<get_SupportedTradeSkills>b__9(SkillLine skill) in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 533
+   at System.Linq.Enumerable.WhereSelectListIterator`2.MoveNext()
+   at System.Linq.Buffer`1..ctor(IEnumerable`1 source)
+   at System.Linq.Enumerable.ToArray[TSource](IEnumerable`1 source)
+   at HighVoltz.Professionbuddy.get_SupportedTradeSkills() in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 535
+   at HighVoltz.Professionbuddy.<LoadTradeSkills>b__10(Object state) in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\ProfessionBuddy.cs:line 648
+[4:29:17:573] Err: System.ArgumentException: The directory name C:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\Profiles is invalid.
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at HighVoltz.MainForm..ctor() in c:\Users\Shadow\Desktop\HonorBuddy\Bots\ProfessionBuddy\MainForm.cs:line 504
+[4:29:17:653] PB 1.463: Checking for new version
+[4:29:17:668] PB 1.463: A new version was found.Downloading Update
+[4:29:17:680] PB 1.463: Download complete :P
+[4:29:20:189] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:31:45:891] Starting the bot!
+[4:31:46:116] Cleared POI - Reason Starting up
+[4:31:46:116] Cleared POI
+[4:31:46:117] Building spell book
+[4:31:46:118] Adding: Expert Riding
+[4:31:46:118] Adding: Gemcutting
+[4:31:46:118] Adding: Gift of the Naaru
+[4:31:46:118] Adding: Heroic Presence
+[4:31:46:118] Adding: Mail Specialization
+[4:31:46:118] Adding: Shadow Resistance
+[4:31:46:118] Adding: Bind Elemental
+[4:31:46:118] Adding: Call of the Ancestors
+[4:31:46:118] Adding: Call of the Elements
+[4:31:46:118] Adding: Call of the Spirits
+[4:31:46:118] Adding: Chain Lightning
+[4:31:46:118] Adding: Earth Shock
+[4:31:46:118] Adding: Earthbind Totem
+[4:31:46:118] Adding: Fire Elemental Totem
+[4:31:46:118] Adding: Fire Nova
+[4:31:46:118] Adding: Flame Shock
+[4:31:46:118] Adding: Frost Shock
+[4:31:46:118] Adding: Hex
+[4:31:46:118] Adding: Lava Burst
+[4:31:46:118] Adding: Lightning Bolt
+[4:31:46:118] Adding: Magma Totem
+[4:31:46:118] Adding: Purge
+[4:31:46:118] Adding: Searing Totem
+[4:31:46:118] Adding: Spiritwalker's Grace
+[4:31:46:118] Adding: Stoneclaw Totem
+[4:31:46:118] Adding: Wind Shear
+[4:31:46:118] Adding: Astral Recall
+[4:31:46:118] Adding: Earth Elemental Totem
+[4:31:46:118] Adding: Elemental Resistance Totem
+[4:31:46:118] Adding: Far Sight
+[4:31:46:118] Adding: Flametongue Totem
+[4:31:46:118] Adding: Flametongue Weapon
+[4:31:46:118] Adding: Frostbrand Weapon
+[4:31:46:118] Adding: Ghost Wolf
+[4:31:46:118] Adding: Grounding Totem
+[4:31:46:118] Adding: Heroism
+[4:31:46:118] Adding: Lightning Shield
+[4:31:46:118] Adding: Primal Strike
+[4:31:46:118] Adding: Rockbiter Weapon
+[4:31:46:118] Adding: Stoneskin Totem
+[4:31:46:118] Adding: Strength of Earth Totem
+[4:31:46:118] Adding: Unleash Elements
+[4:31:46:118] Adding: Water Breathing
+[4:31:46:118] Adding: Water Walking
+[4:31:46:118] Adding: Windfury Totem
+[4:31:46:118] Adding: Windfury Weapon
+[4:31:46:118] Adding: Wrath of Air Totem
+[4:31:46:118] Adding: Ancestral Spirit
+[4:31:46:118] Adding: Chain Heal
+[4:31:46:118] Adding: Cleanse Spirit
+[4:31:46:118] Adding: Earth Shield
+[4:31:46:118] Adding: Earthliving Weapon
+[4:31:46:118] Adding: Greater Healing Wave
+[4:31:46:118] Adding: Healing Rain
+[4:31:46:118] Adding: Healing Stream Totem
+[4:31:46:118] Adding: Healing Surge
+[4:31:46:118] Adding: Healing Wave
+[4:31:46:118] Adding: Mana Spring Totem
+[4:31:46:118] Adding: Mana Tide Totem
+[4:31:46:118] Adding: Nature's Swiftness
+[4:31:46:118] Adding: Purification
+[4:31:46:118] Adding: Reincarnation
+[4:31:46:118] Adding: Riptide
+[4:31:46:119] Adding: Spirit Link Totem
+[4:31:46:119] Adding: Totem of Tranquil Mind
+[4:31:46:119] Adding: Totemic Recall
+[4:31:46:119] Adding: Tremor Totem
+[4:31:46:119] Adding: Water Shield
+[4:31:46:119] Spell book built
+[4:31:48:520] Updating repair cost for current equipped items. New value: [4g12s91c]
+[4:31:48:859] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:31:50:812] Stopping the bot!
+[4:31:50:812] Stop called!
+[4:31:50:841] Activity: Honorbuddy Stopped
+[4:31:50:866] System.NullReferenceException: Object reference not set to an instance of an object.
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.Decorator.Class89.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at TreeSharp.PrioritySelector.Class192.MoveNext()
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:31:50:866] Cleared POI - Reason Exception in Root.Tick()
+[4:31:50:866] Cleared POI
+[4:31:52:861] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:31:59:227] Starting the bot!
+[4:31:59:434] Cleared POI - Reason Starting up
+[4:31:59:434] Cleared POI
+[4:31:59:710] [Instancebuddy]: Reseting saved instances.
+[4:31:59:723] [Instancebuddy]: Queueing at dungeon finder
+[4:32:00:860] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:32:07:843] Stopping the bot!
+[4:32:07:843] Stop called!
+[4:32:08:857] System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.RuntimeMethodHandle._InvokeMethodFast(Object target, Object[] arguments, SignatureStruct& sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.RuntimeMethodHandle.InvokeMethodFast(Object target, Object[] arguments, Signature sig, MethodAttributes methodAttributes, RuntimeTypeHandle typeOwner)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture, Boolean skipVisibilityChecks)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at Styx.Logic.Targeting.method_0(Delegate e, Object[] args)
+[4:32:08:858] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.method_0(Delegate e, Object[] args)
+   at Styx.Logic.Targeting.Pulse()
+[4:32:08:858] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.Targeting.Pulse()
+   at Styx.WoWPulsator.Pulse(PulseFlags flags)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:32:08:859] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[4:32:08:908] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:32:43:812] Starting the bot!
+[4:32:43:875] Cleared POI - Reason Starting up
+[4:32:43:876] Cleared POI
+[4:32:44:141] [BGBuddy]: Queueing up for RandomBattleground
+[4:32:44:912] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()
+[4:33:05:627] Stopping the bot!
+[4:33:05:627] Stop called!
+[4:33:05:653] System.ApplicationException: Cannot run Tick before running Start first!
+   at TreeSharp.Composite.Tick(Object context)
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+[4:33:05:653] Cleared POI - Reason Exception in Root.Tick()
+[4:33:05:653] Cleared POI
+[4:33:08:966] System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:1337
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.Connect(IPAddress[] addresses, Int32 port)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(AddressFamily family)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.RemoteConnection.GetSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.ProcessMessage(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream, ITransportHeaders& responseHeaders, Stream& responseStream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.SyncProcessMessage(IMessage msg)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at HBRemoting.BotMessage.GetMessage()
+   at PartyBot.IPC.RemotingClient.Update()

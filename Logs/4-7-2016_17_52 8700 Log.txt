@@ -1,0 +1,180 @@
+[17:52:26:333] Logging in...
+[17:52:26:458] Logged into CodeDeception local server
+[17:52:27:102] Attached to WoW with ID 7748
+[17:52:27:205] Honorbuddy v2.0.0.5883 started!
+[17:52:27:205] Using WoW with process ID 7748
+[17:52:27:205] Platform: Microsoft Windows NT 6.1.7601 Service Pack 1
+[17:52:27:205] Executable Path: C:\Users\Shadow\Desktop\HonorBuddy\Honorbuddy.exe
+[17:52:27:208] Character is a level 1 Human Mage
+[17:52:27:209] Current zone is Elwynn Forest
+[17:52:27:220] New bot added!: ArchaeologyBuddy
+[17:52:27:444] New bot added!: Instancebuddy
+[17:52:27:449] New bot added!: BGBuddy
+[17:52:27:480] New bot added!: Gatherbuddy2
+[17:52:27:483] New bot added!: Grind Bot
+[17:52:27:485] New bot added!: Questing
+[17:52:27:492] New bot added!: Mixed Mode
+[17:52:27:494] New bot added!: PartyBot
+[17:52:29:411] New bot added!: Combat Bot
+[17:52:29:411] New bot added!: ProfessionBuddy
+[17:52:29:419] MeshesFolderPath: C:\Users\Deathburn\AppData\Local\HonorbuddyMeshes
+[17:52:29:419] KillBetweenHotspots: True
+[17:52:29:419] AdvancedSettingsMode: False
+[17:52:29:419] LogoutForInactivity: True
+[17:52:29:419] LogoutInactivityTimer: 10
+[17:52:29:419] LogoutInactivityUseForceQuit: False
+[17:52:29:419] ProfileDebuggingMode: False
+[17:52:29:419] FoodAmount: 0
+[17:52:29:419] DrinkAmount: 0
+[17:52:29:419] FormLocationX: 2951
+[17:52:29:419] FormLocationY: 575
+[17:52:29:419] FormWidth: 396
+[17:52:29:419] FormHeight: 302
+[17:52:29:419] SelectedBotIndex: 2
+[17:52:29:419] UseFlightPaths: False
+[17:52:29:419] FindMountAutomatically: True
+[17:52:29:419] UseRandomMount: True
+[17:52:29:419] FoodName has no value yet!
+[17:52:29:419] DrinkName has no value yet!
+[17:52:29:419] MountName has no value yet!
+[17:52:29:419] FlyingMountName has no value yet!
+[17:52:29:419] LootMobs: True
+[17:52:29:419] SkinMobs: False
+[17:52:29:419] NinjaSkin: False
+[17:52:29:419] LootChests: True
+[17:52:29:419] HarvestMinerals: False
+[17:52:29:419] HarvestHerbs: False
+[17:52:29:419] UseMount: True
+[17:52:29:419] PullDistance: 45
+[17:52:29:419] LootRadius: 45
+[17:52:29:419] FindVendorsAutomatically: False
+[17:52:29:419] TrainNewSkills: False
+[17:52:29:419] LearnFlightPaths: True
+[17:52:29:419] LastUsedPath has no value yet!
+[17:52:29:419] MountDistance: 75
+[17:52:29:419] RessAtSpiritHealers: False
+[17:52:29:419] GroundMountFarmingMode: False
+[17:52:29:419] FoodAmount: 0
+[17:52:29:419] DrinkAmount: 0
+[17:52:29:419] FormLocationX: 2951
+[17:52:29:419] FormLocationY: 575
+[17:52:29:419] SelectedBotIndex: 2
+[17:52:29:419] UseFlightPaths: False
+[17:52:29:419] FindMountAutomatically: True
+[17:52:29:419] UseRandomMount: True
+[17:52:29:419] FoodName has no value yet!
+[17:52:29:419] DrinkName has no value yet!
+[17:52:29:419] MountName has no value yet!
+[17:52:29:419] LootMobs: True
+[17:52:29:419] SkinMobs: False
+[17:52:29:419] NinjaSkin: False
+[17:52:29:419] LootChests: True
+[17:52:29:419] HarvestMinerals: False
+[17:52:29:419] HarvestHerbs: False
+[17:52:29:419] UseMount: True
+[17:52:29:419] PullDistance: 45
+[17:52:29:419] LootRadius: 45
+[17:52:29:419] FindVendorsAutomatically: False
+[17:52:29:419] TrainNewSkills: False
+[17:52:29:419] LearnFlightPaths: True
+[17:52:29:419] LastUsedPath has no value yet!
+[17:52:29:419] MountDistance: 75
+[17:52:29:419] RessAtSpiritHealers: False
+[17:52:29:420] Please wait a few seconds while Honorbuddy initializes.
+[17:52:29:420] Activity: Initializing.
+[17:52:29:421] Activity: Loading memory management & tables
+[17:52:29:431] Activity: Loading Spells
+[17:52:29:497] Activity: Initializing Spell Manager
+[17:52:29:499] H: 7D-A2-9C-8C-85-23-D6-66-4E-16-1D-E8-A3-67-E1-55-26-6D-04-ED
+[17:52:29:499] V: 2.0.0.5883
+[17:52:29:509] Activity: Initializing Plugins
+[17:52:29:514] 
+[17:52:31:510] [WeigtSet] Selected weight set: Mage-Arcane
+[17:52:33:187] ItemForAura: Loading config file: C:\Users\Shadow\Desktop\HonorBuddy\Plugins\ItemForAuraQuesthelper\ItemForAura.config
+[17:52:33:191] Root element is missing.
+[17:52:33:191] ItemForAura: Continuing with Default Config Values
+[17:52:33:191] ItemForAura - Questhelper - Version 2.0 Loaded.
+[17:52:33:192] Root element is missing.
+[17:52:33:192] ItemForAura: Continuing with Default Config Values
+[17:52:34:082] Activity: Initializing Navigator
+[17:52:34:139] Activity: Initializing Blackspot Manager
+[17:52:34:141] Activity: Initializing Battlegrounds
+[17:52:34:143] Activity: Initializing Flight Paths
+[17:52:34:166] Activity: Initializing Routines
+[17:52:34:169] Building spell book
+[17:52:34:172] Spell book built
+[17:52:34:173] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\ShamWOW
+[17:52:35:203] Compiling C:\Users\Shadow\Desktop\HonorBuddy\CustomClasses\Singular
+[17:52:37:736] Activity: Initialization complete
+[17:52:37:737] Initialization complete.
+[17:52:37:738] Activity: Honorbuddy Startup Complete
+[17:52:55:850] Activity: Loading Profile...
+[17:53:05:399] Downloaded tilemap Azeroth
+[17:53:05:402] Changed tilemap to Azeroth, Tiled: True
+[17:53:05:544] Changing current profile to [A - Quest] Human 1-5 [Kick]
+[17:53:06:909] Starting the bot!
+[17:53:06:946] Changing current profile to [A - Quest] Human 1-5 [Kick]
+[17:53:07:024] Chose Singular v2 $Revision: 605 $ as your combat class!
+[17:53:07:025] [Singular] Starting Singular v2.0.0.0
+[17:53:07:025] [Singular] Determining talent spec.
+[17:53:07:038] [Singular] Current spec is  Lowbie
+[17:53:07:096] [Singular-DEBUG] Creating Combat behavior.
+[17:53:07:101] [Singular] Building method list
+[17:53:07:105] [Singular] Added 377 methods
+[17:53:07:114] [Singular-DEBUG] CreateLowbieMageCombat is a match!
+[17:53:07:114] [Singular]  Using CreateLowbieMageCombat for Lowbie - Combat (Priority: 0)
+[17:53:07:128] [Singular-DEBUG] Creating Pull behavior.
+[17:53:07:131] [Singular-DEBUG] CreateLowbieMageCombat is a match!
+[17:53:07:131] [Singular]  Using CreateLowbieMageCombat for Lowbie - Pull (Priority: 0)
+[17:53:07:132] [Singular-DEBUG] Creating Rest behavior.
+[17:53:07:135] [Singular] Using default rest behavior.
+[17:53:07:137] [Singular-DEBUG] Creating CombatBuffs behavior.
+[17:53:07:140] [Singular-DEBUG] Creating Heal behavior.
+[17:53:07:143] [Singular-DEBUG] Creating PullBuffs behavior.
+[17:53:07:146] [Singular-DEBUG] Creating PreCombatBuffs behavior.
+[17:53:07:148] [Singular-DEBUG] CreateMageBuffs is a match!
+[17:53:07:148] [Singular]  Using CreateMageBuffs for Lowbie - PreCombatBuffs (Priority: 0)
+[17:53:07:152] [Singular] Behaviors created!
+[17:53:07:171] [Singular-DEBUG] Attached combat log
+[17:53:07:218] Cleared POI
+[17:53:07:219] Cleared POI - Reason Starting up
+[17:53:07:219] Cleared POI
+[17:53:08:262] Activity: Loading Tile/s
+[17:53:08:262] Loading Azeroth_32_48
+[17:53:08:441] Loading Azeroth_31_48
+[17:53:08:591] Loading Azeroth_32_49
+[17:53:08:684] Loading Azeroth_31_49
+[17:53:08:824] Compiling expression 'Me.IsHorde' @ line 268
+[17:53:09:327] Compiling quest behavior from 'C:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\RunMacro.cs'
+[17:53:09:800] Goal: Running Macro
+[17:53:09:801] [RunMacro-v217(debug) @line 274]: Running macro 1 times
+[17:53:09:801] Activity: RunMacro 1/1 Times
+[17:53:10:806] Compiling quest behavior from 'C:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\UserDialog.cs'
+[17:53:11:530] Goal: User Attention Required...
+[17:53:11:530] Activity: Waiting for user dialog to close
+[17:53:15:596] Activity: Continuing profile due to User request
+[17:53:15:596] [UserDialog-v217(user response) @line 275]: Continuing profile due to User request
+[17:53:15:775] Compiling quest behavior from 'C:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\Message.cs'
+[17:53:16:369] [Profile Message]: Compiling Elwynn Forest Quests
+[17:53:16:369] [Profile Message]: Compiling Northshire Abbey Quests
+[17:53:16:369] Compiling expression '((Me.Race != WoWRace.Human) && (Me.Level < 5))' @ line 281
+[17:53:17:030] Compiling expression '((Me.Race == WoWRace.Human)  && (Me.Level < 5))' @ line 339
+[17:53:17:605] Compiling quest behavior from 'C:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\UserSettings.cs'
+[17:53:18:173] [UserSettings-v217(error)]: BEHAVIOR MAINTENANCE PROBLEM: Object reference not set to an instance of an object.
+FROM HERE:
+   at BuddyWiki.CustomBehavior.UserSettings.UserSettings.UtilBuildPresetChangeRequests(Dictionary`2 configurationSettings, ConfigSnapshot originalConfiguration) in c:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\UserSettings.cs:line 59
+   at BuddyWiki.CustomBehavior.UserSettings.UserSettings..ctor(Dictionary`2 args) in c:\Users\Shadow\Desktop\HonorBuddy\Quest Behaviors\UserSettings.cs:line 133
+
+[17:53:18:174] [UserSettings-v217(warning) @line 356]: Attribute 'LearnFlightPaths' is not recognized by this behavior--ignoring it.
+[17:53:18:174] [UserSettings-v217(warning) @line 356]: Attribute 'LootMobs' is not recognized by this behavior--ignoring it.
+[17:53:18:174] [UserSettings-v217(warning) @line 356]: Attribute 'PullDistance' is not recognized by this behavior--ignoring it.
+[17:53:18:174] [UserSettings-v217(warning) @line 356]: Attribute 'TrainNewSkills' is not recognized by this behavior--ignoring it.
+[17:53:18:174] [UserSettings-v217(warning) @line 356]: Attribute 'UseFlightPaths' is not recognized by this behavior--ignoring it.
+[17:53:18:174] [UserSettings-v217(error) @line 356]: Stopping Honorbuddy.  Please repair the profile!
+[17:53:18:174] Stop called!
+[17:53:18:183] Activity: Honorbuddy Stopped
+[17:53:19:189] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Tick()
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()
+[17:53:19:189] System.Threading.ThreadAbortException: Thread was being aborted.
+   at Styx.Logic.BehaviorTree.TreeRoot.Run()

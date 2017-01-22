@@ -1,0 +1,78 @@
+<HBProfile>
+	<Name>[N - Quest] Uldum Rep Dailies [Kick]</Name>
+	<MinLevel>82</MinLevel>
+	<MaxLevel>86</MaxLevel>
+	
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>2</MinFreeBagSlots>
+	
+	<SellGrey>True</SellGrey>
+	<SellWhite>True</SellWhite>
+	<SellGreen>True</SellGreen>
+	<SellBlue>False</SellBlue>
+	<SellPurple>False</SellPurple>
+	
+	<MailWhite>True</MailWhite>
+	<MailGreen>True</MailGreen>
+	<MailBlue>True</MailBlue>
+	<MailPurple>True</MailPurple>  
+		
+		
+	<Vendors>
+
+	</Vendors>
+	
+	<Mailboxes>
+
+	</Mailboxes>
+	
+	<Blackspots>
+
+	</Blackspots>
+	
+	<AvoidMobs>
+
+	</AvoidMobs>
+
+	<QuestOrder>
+
+			<If Condition="((!HasQuest(28250)) &amp;&amp; (!IsQuestCompleted(28250)))" >
+				<CustomBehavior File="FlyTo" X="-9608.542" Y="-1290.759" Z="101.9344" />
+				<CustomBehavior File="ForcedDismount" />
+		<PickUp QuestName="Thieving Little Pluckers" QuestId="28250" GiverName="Nomarch Teneth" GiverId="46603" />
+			</If>
+			<If Condition="((HasQuest(28250)) &amp;&amp; (!IsQuestCompleted(28250)))" >
+				<CustomBehavior File="SetPullDistance" Distance="10" />
+				<RunTo X="-9638.563" Y="-1264.505" Z="100.835" />
+				<CustomBehavior File="ForcedDismount" />
+			  <While Condition="((HasQuest(28250)) &amp;&amp; (!IsQuestCompleted(28250)))" >
+				<CustomBehavior File="CombatUseItemOn" QuestId="28250" MobId="48040" ItemId="63351" MaxRange="7" NpcState="Alive" WaitTime="1000" NpcHPLeft="100" CollectionDistance="500" X="-9647.443" Y="-1264.87" Z="101.2584" />
+			  </While>
+			</If>
+			<If Condition="((HasQuest(28250)) &amp;&amp; (IsQuestCompleted(28250)))" >
+				<CustomBehavior File="FlyTo" X="-9608.542" Y="-1290.759" Z="101.9344" />
+				<CustomBehavior File="ForcedDismount" />
+		<TurnIn QuestName="Thieving Little Pluckers" QuestId="28250" TurnInName="Nomarch Teneth" TurnInId="46603" />
+				<CustomBehavior File="SetPullDistance" Distance="25" />
+			</If>
+
+			<If Condition="((!HasQuest(28736)) &amp;&amp; (!IsQuestCompleted(28736)))" >
+				<CustomBehavior File="FlyTo" X="-8259.667" Y="-119.7054" Z="324.5576" />
+		<PickUp QuestName="Fire From the Sky" QuestId="28736" GiverName="Weathered Nomad" GiverId="49523" />
+			</If>
+			<If Condition="((HasQuest(28736)) &amp;&amp; (!IsQuestCompleted(28736)))" >
+	<CustomBehavior File="UserDialog" QuestId="28736" Title="title" AllowBotStop="True" SoundCue="Asterisk" SoundCueInterval="1" Text="Blow up 100 troops" />
+			</If>
+			<If Condition="((HasQuest(28736)) &amp;&amp; (IsQuestCompleted(28736)))" >
+				<CustomBehavior File="FlyTo" X="-8260.661" Y="-120.9111" Z="357.38" />
+				<CustomBehavior File="FlyTo" X="-8259.667" Y="-119.7054" Z="324.5576" />
+		<TurnIn QuestName="Fire From the Sky" QuestId="28736" TurnInName="Weathered Nomad" TurnInId="49523" />
+			</If>
+
+	
+	<CustomBehavior File="UserDialog"  Title="title" AllowBotStop="True" SoundCue="Asterisk" SoundCueInterval="1" Text="End of the Ramkahen Rep Dailies" />
+
+
+	</QuestOrder>
+
+</HBProfile>

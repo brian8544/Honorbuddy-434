@@ -1,0 +1,11 @@
+Additions
+--------------
+* Several profiles have been added to Default Profiles folder. (Rep farming to Questing)
+* Several quest behaviors and plugins have been added as default to support newly added default profiles. (Plugins are in Quest Helpers folder)
+
+Flightor (Flying Navigation)
+---------------
+* An issue with flightor getting stuck in indoor places is fixed.
+* Shivering and Jittering when taking off from ground is fixed.
+* Continent bound issues are fixed for the good. Flightor is a lot clever at staying out of fatigue zones
+* FPS lag during flying should no longer be noticable.
