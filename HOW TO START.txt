@@ -1,8 +1,8 @@
 Regular?
 
 1) Open Auth\HBCD_Auth.exe
-2) Launch HonorBuddy
-
+2) Open HBRelog\HBRelog.exe and configure it so it matches your server login credentials. (https://imgur.com/a/wSvZiCy image album for reference)
+3) Launch from HBRelog.
 
 --
 
