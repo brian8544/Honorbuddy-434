@@ -1,31 +1,31 @@
-# Honorbuddy-434
-Honorbuddy custom made for Cataclysm private servers.
+# Honorbuddy Cataclysm ![Cataclysm Expansion](https://www.warmane.com/images/cata.png)
 
-
-Here i release a working HonorBuddy for 4.3.4 Cataclysm, tested & working on the following servers:
+Hereby I release a working HonorBuddy for Cataclysm 4.3.4 (15595), tested & working on the following servers:
 
 - Atlantiss
 - Warmane
 - WoWCircle
-- Monster
+- Monster-WoW
+- Hades
 
---
+----
 
 Tutorial how to start:
-[CODE]Regular?
+
+Regular?
 
 1) Open Auth\HBCD_Auth.exe
 2) Launch HonorBuddy
 
 
---
+----
 
 New account?
 
 1) Open HBRelog and setup
 2) Read REGULAR.[/CODE]
 
---
+----
 
 Screenshots: 
 
