@@ -23,7 +23,7 @@ Regular?
 New account?
 
 1) Open HBRelog and setup
-2) Read REGULAR.[/CODE]
+2) Read REGULAR.
 
 ----
 
