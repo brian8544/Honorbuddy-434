@@ -1,0 +1,110 @@
+<HBProfile>
+    <Name>Hawker's 'Buy Alliance Tabards' Profile ($ShortHash$)</Name>
+    <MinLevel>1</MinLevel>
+    <MaxLevel>1001</MaxLevel>
+
+    <QuestOrder>
+
+        <If Condition="(Me.MapId == 0)">
+            <If Condition="Me.GetReputationLevelWith(72) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45574)" >
+                <MoveTo DestName="Captain Lancy Revshon in Stormwind" X="-8841.596" Y="548.8561" Z="96.64429" />
+                <CustomBehavior File="InteractWith" MobId="49877" InteractByBuyingItemId="45574"
+                                X="-8842.06" Y="545.7153" Z="96.91079" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(1353) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(83079)" >
+                <MoveTo DestName="Adherent Hanjun in Stormwind" X="-8841.596" Y="548.8561" Z="96.64429" />
+                <CustomBehavior File="InteractWith" MobId="69334" InteractByBuyingItemId="83079"
+                                X="-8193.158" Y="544.4063" Z="117.6481" />
+            </If>
+
+
+            <If Condition="Me.GetReputationLevelWith(47) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45577)" >
+                <MoveTo DestName="Captain Stonehelm by Ironforge Flightmaster" X="-4821.78" Y="-1155.44" Z="502.21" />
+                <CustomBehavior File="InteractWith" MobId="50309" InteractByBuyingItemId="45577"
+                                X="-4818.422" Y="-1152.415" Z="502.2119" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(54) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45578)" >
+                <MoveTo DestName="Master Tinker Trini by Ironforge Flightmaster" X="-4821.78" Y="-1155.44" Z="502.21" />
+                <CustomBehavior File="InteractWith" MobId="50308" InteractByBuyingItemId="45578"
+                                X="-4823.12" Y="-1150.523" Z="502.2112" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(69) &lt; Styx.WoWUnitReaction.Exalted
+                || Me.GetReputationLevelWith(1134) &lt; Styx.WoWUnitReaction.Exalted
+                || Me.GetReputationLevelWith(930) &lt; Styx.WoWUnitReaction.Exalted" >
+
+                <MoveTo DestName="Stormwind Docks" X="-8642.231" Y="1327.733" Z="5.234008" />
+                <CustomBehavior File="UseTransport" TransportId="176310"
+                                    WaitAtX="-8640.556" WaitAtY="1330.829" WaitAtZ="5.233207"
+                                    GetOffX="8177.54" GetOffY="1003.079" GetOffZ="6.646164"
+                                    StandOnX="-8644.952" StandOnY="1348.11" StandOnZ="6.143094"
+                                    TransportStartX="-8650.719" TransportStartY="1346.051" TransportStartZ="-0.0382334"
+                                    TransportEndX="8162.587" TransportEndY="1005.365" TransportEndZ="0.0474023" />
+            </If>
+        </If>
+        <!-- To get inside of Darnassus -->
+        <If Condition="(Me.MapId == 1)">
+            <While Condition="(Me.Z &lt; 100)">
+                <MoveTo X="8375.579" Y="997.6517" Z="27.45768" /> <!-- Red portal up to Darnassus -->
+                <MoveTo X="8386.943" Y="999.6256" Z="29.80114" /> <!-- Inside portal -->
+                <CustomBehavior File="WaitTimer" WaitTime="5000" GoalText="Waiting for port up {TimeRemaining}" />
+            </While>
+            <If Condition="(Me.Z &gt; 1000)">
+                <!-- Darnassus Flight Path -->
+                <MoveTo X="9969.459" Y="2621.461" Z="1316.13" />
+            </If>
+            <If Condition="(Me.Z &lt; 100)">
+                <MoveTo X="8180.102" Y="1002.678" Z="6.919619" />
+                <CustomBehavior File="UseTransport" TransportId="176310"
+                                        WaitAtX="8177.54" WaitAtY="1003.079" WaitAtZ="6.646164"
+                                        GetOffX="-8642.001" GetOffY="1330.353" GetOffZ="5.232954"
+                                        StandOnX="8171.327" StandOnY="1005.99" StandOnZ="6.213342"
+                                        TransportStartX="8162.587" TransportStartY="1005.365"
+                                        TransportStartZ="0.005638145"
+                                        TransportEndX="-8650.719" TransportEndY="1346.051" TransportEndZ="-0.0382334" />
+            </If>
+        </If>
+
+
+        <If Condition="Me.GetReputationLevelWith(69) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45579)" >
+            <MoveTo DestName="Moon Priestess Lasara in Darnassus" X="9969.686" Y="2621.576" Z="1316.183" />
+            <CustomBehavior File="InteractWith" MobId="50305" InteractByBuyingItemId="45579"
+                            X="9966.688" Y="2630.069" Z="1316.546" />
+        </If>
+
+        <If Condition="Me.GetReputationLevelWith(1134) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(64882)" >
+            <MoveTo DestName="Lord Candren in Darnassus" X="9969.686" Y="2621.576" Z="1316.183" />
+            <CustomBehavior File="InteractWith" MobId="50307" InteractByBuyingItemId="64882"
+                            X="9977.414" Y="2615.352" Z="1316.34" />
+        </If>
+
+
+        <If Condition="Me.GetReputationLevelWith(930) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45580)" >
+            <If Condition="CanFly()">
+                <CustomBehavior File="FlyTo" DestName="Darnassus Temple Entrance" X="9725.159" Y="2525.425" Z="1335.678" />
+            </If>
+
+            <MoveTo DestName="Temple Entrance" X="9725.159" Y="2525.425" Z="1335.678" />
+            <CustomBehavior File="InteractWith" MobId="207995" X="9655.189" Y="2508.222" Z="1331.594" />
+
+            <MoveTo X="-3871.175" Y="-11639.44" Z="-137.6877" />
+            <MoveTo DestName="Kadu in Exodar" X="9969.686" Y="2621.576" Z="1316.183" />
+            <CustomBehavior File="InteractWith" MobId="50306" InteractByBuyingItemId="45580"
+                            X="-3869.003" Y="-11645.96" Z="-137.6626" />
+        </If>
+
+
+    </QuestOrder>
+
+
+
+    <!--
+A comment:
+                <CustomBehavior File="ForcedDismount" />
+                Nav="Fly"
+                /dump IsQuestFlaggedCompleted(11350)
+-->
+
+</HBProfile>

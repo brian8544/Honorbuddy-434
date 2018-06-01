@@ -1,0 +1,89 @@
+<HBProfile>
+    <Name>Hawker's 'Buy Horde Tabards' Profile ($ShortHash$)</Name>
+    <MinLevel>1</MinLevel>
+    <MaxLevel>1001</MaxLevel>
+
+
+
+    <QuestOrder>
+
+        <If Condition="(Me.MapId == 1)">
+            <If Condition="Me.GetReputationLevelWith(81) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45584)" >
+                <MoveTo DestName="Brave Tuho in Thunder Bluff" X="-1195.154" Y="26.76672" Z="176.9489" />
+                <CustomBehavior File="InteractWith" MobId="50483" InteractByBuyingItemId="45584"
+                                X="-1199.635" Y="25.44097" Z="176.9488" />
+                <CustomBehavior File="Message" Text="Moving to set hearth to Thunder Bluff" LogColor="Red" />
+                <If Condition="CanFly()">
+                    <CustomBehavior File="FlyTo" X="-1267.442" Y="62.30364" Z="126.9855" />
+                </If>
+                <MoveTo DestName="Moving to set hearth to Thunder Bluff" X="-1296.012" Y="40.33253" Z="129.2086" />
+                <CustomBehavior File="InteractWith" MobId="6746" InteractByGossipOptions="1" X="-1300.277" Y="38.48579" Z="129.2086" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(530) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45582)" >
+                <MoveTo DestName="Champion Uru'zin in Orgrimmar" X="1807.692" Y="-4377.496" Z="103.1129" />
+                <CustomBehavior File="InteractWith" MobId="50477" InteractByBuyingItemId="45582" WaitTime="3000"
+                                X="1811.634" Y="-4376.728" Z="103.2543" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(76) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45581)" >
+                <MoveTo DestName="Stone Guard Nargol in Orgrimmar" X="1807.692" Y="-4377.496" Z="103.1129" />
+                <CustomBehavior File="InteractWith" MobId="50488" InteractByBuyingItemId="45581" WaitTime="3000"
+                                X="1809.561" Y="-4382.668" Z="103.0609" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(1133) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(64884)" >
+                <MoveTo DestName="Frizzo Villamar in Orgrimmar" X="1807.692" Y="-4377.496" Z="103.1129" />
+                <CustomBehavior File="InteractWith" MobId="50323" InteractByBuyingItemId="64884" WaitTime="3000"
+                                X="1806.802" Y="-4377.946" Z="103.0773" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(1352) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(83080)" >
+                <MoveTo DestName="Disciple Jusi in Orgrimmar" X="2020.429" Y="-4699.125" Z="28.5097" />
+                <CustomBehavior File="InteractWith" MobId="69333" InteractByBuyingItemId="83080" WaitTime="3000"
+                                X="2020.429" Y="-4699.125" Z="28.5097" />
+            </If>
+
+            <If Condition="Me.GetReputationLevelWith(68) &lt; Styx.WoWUnitReaction.Exalted || Me.GetReputationLevelWith(911) &lt; Styx.WoWUnitReaction.Exalted" >
+                <CustomBehavior File="UseTransport"
+                                    TransportId="164871"
+                                    WaitAtX="1838.676" WaitAtY="-4387.965" WaitAtZ="135.2332"
+                                    TransportStartX="1833.509" TransportStartY="-4391.543" TransportStartZ="152.7679"
+                                    TransportEndX="2062.376" TransportEndY="292.998" TransportEndZ="114.973"
+                                    StandOnX="1834.961" StandOnY="-4385.694" StandOnZ="135.0334"
+                                    GetOffX="2066.773" GetOffY="288.873" GetOffZ="97.03159" />
+            </If>
+        </If>
+
+
+
+        <If Condition="(Me.MapId == 0)">
+
+            <If Condition="Me.GetReputationLevelWith(68) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45583)" >
+                <MoveTo DestName="Captain Donald Adams in Undercity" X="1566.492" Y="266.2344" Z="-43.10262" />
+                <CustomBehavior File="InteractWith" MobId="50304" InteractByBuyingItemId="45583" WaitTime="3000"
+                                X="1563.595" Y="269.0556" Z="-43.10181" />
+            </If>
+
+
+            <If Condition="Me.GetReputationLevelWith(911) &lt; Styx.WoWUnitReaction.Exalted &amp;&amp; !HasItem(45585)" >
+                <MoveTo DestName="Orb of Transportation to Silvermoon" X="1805.877" Y="345.0006" Z="70.79002" />
+                <CustomBehavior File="InteractWith" MobId="184503" Range="8" X="1805.877" Y="345.0006" Z="70.79002" PreInteractMountStrategy="Dismount" WaitTime="5000" />
+                <MoveTo DestName="Magistrix Nizara in Silvermoon" X="9373.66" Y="-7162.614" Z="9.074481" />
+                <CustomBehavior File="InteractWith" MobId="50484" InteractByBuyingItemId="45585" WaitTime="3000"
+                                X="9372.658" Y="-7160.698" Z="9.179882" />
+            </If>
+
+        </If>
+    </QuestOrder>
+
+
+
+    <!--
+A comment:
+                <CustomBehavior File="ForcedDismount" />
+                Nav="Fly"
+                /dump IsQuestFlaggedCompleted(11350)
+-->
+
+</HBProfile>

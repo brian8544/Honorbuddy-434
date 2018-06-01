@@ -1,0 +1,170 @@
+<HBProfile>
+   <!--
+      Original contribution by Chinajade.
+
+      PROFILE EXPECTATIONS:
+         * When using this profile, be certain to set the HonorBuddy bot to (select only one):
+                (*) Grinding / Mixed
+                ( ) Questing
+                ( ) PvP
+
+         * This profile is appropriate for (check all that apply):
+                [X] Alliance   [ ] Achievement
+                [ ] Horde      [ ] Farming
+                               [ ] Leveling
+                               [ ] PvP
+                               [ ] Questing
+                               [X] Reputation
+                               [ ] Seasonal
+
+         * The profile grammar for the Levelbot (Questing & Grinding) can
+           be found at this Wiki location:
+               :Category:Honorbuddy:Levelbot:Grammar
+    -->
+
+   <Name>[QO] Sporegar Rep Grind - Funggor Cavern grind(Neutral to max Exalted) ($ShortHash$)</Name>
+   <MinLevel>74</MinLevel>
+   <MaxLevel>1001</MaxLevel>
+
+   <MinDurability>0.3</MinDurability>
+   <MinFreeBagSlots>2</MinFreeBagSlots>
+
+   <MailGrey>false</MailGrey>
+   <MailWhite>false</MailWhite>
+   <MailGreen>true</MailGreen>
+   <MailBlue>true</MailBlue>
+   <MailPurple>true</MailPurple>
+
+   <SellGrey>true</SellGrey>
+   <SellWhite>true</SellWhite>
+   <SellGreen>false</SellGreen>
+   <SellBlue>false</SellBlue>
+   <SellPurple>false</SellPurple>
+
+   <TargetElites>false</TargetElites>
+
+
+   <AvoidMobs>
+       <!-- <Mob Name="Blackwind Warp Chaser" Id="23219" /> -->
+   </AvoidMobs>
+
+
+   <Blackspots>
+       <!-- <Blackspot Name="fence post" X="-8895.609" Y="-428.6633" Z="66.3858" Radius="21.39053" /> -->
+   </Blackspots>
+
+
+    <Mailboxes>
+        <Mailbox Name="Cenarion Refuge" Nav="Fly" X="-198.7084" Y="5507.987" Z="22.26667" />
+        <Mailbox Name="Orebar" Nav="Fly" X="1029.868" Y="7362.129" Z="36.40354" />
+        <Mailbox Name="Telredor" Nav="Fly" X="288.0347" Y="6082.499" Z="131.5507" />
+    </Mailboxes>
+
+
+   <Vendors>
+        <!-- Cenarion Refuge -->
+        <Vendor Name="Fedryen Swiftspear" Id="17904" Type="Repair"
+                Nav="Fly" X="-198.9696" Y="5490.686" Z="21.84617" />
+        <Vendor Name="Innkeeper Coryth Stoktron" Id="18907" Type="Food"
+                Nav="Fly" X="-174.478" Y="5529.211" Z="29.40743" />
+        <!-- Orebar: starts as Unfriendly unless you've done the Orebar quests -->
+        <Vendor Name="Innkeeper Kerp" Id="18908" Type="Food" UsableWhen="GetFactionReputation(1722) &gt;= 0"
+                Nav="Fly" X="1056.379" Y="7370.99" Z="39.58458" />
+        <Vendor Name="Maktu" Id="18010" Type="Repair" UsableWhen="GetFactionReputation(1722) &gt;= 0"
+                Nav="Fly" X="1020.835" Y="7383.452" Z="36.24143" />
+        <!-- Sporeggar: starts as Unfriendly... -->
+        <Vendor Name="Mycah" Id="18382" Type="Repair" UsableWhen="GetFactionReputation(970) &gt;= 0"
+                Nav="Fly" X="221.3056" Y="8577.191" Z="24.65686" />
+        <!-- Telredor -->
+        <Vendor Name="Loolruna" Id="19694" Type="Repair"
+                Nav="Fly" X="252.2793" Y="6030.792" Z="131.5954" />
+   </Vendors>
+
+
+   <QuestOrder>
+        <If Condition="GetFactionReputation(970) &lt; 0">
+            <CustomBehavior File="UserDialog" AllowBotStop="true" StopOnContinue="true"
+            Text="You must be Neutral with Sporeggar to use this profile." />
+        </If>
+
+        <If Condition="GetFactionReputation(970) &gt;= 42999">
+            <CustomBehavior File="UserDialog" AllowBotStop="true" StopOnContinue="true"
+            Text="Congratulations&#8212;nothing to do.\n\nYou appear to have already reached maximum Exalted reputation with Sporeggar.  If you have not purchased and equipped the Sporeggar tabard already, you might think about doing so, to advance you on the Tabard achievements." />
+        </If>
+
+        <SetGrindArea>
+           <GrindArea>
+               <TargetMinLevel>60</TargetMinLevel>
+               <TargetMaxLevel>76</TargetMaxLevel>
+               <!-- Use Factions OR MobIds, usually not both -->
+               <Factions>1706</Factions>
+               <MobIds>18136 1837</MobIds>
+               <MaxDistance>100</MaxDistance>
+               <Hotspots>
+                    <Hotspot Name="outside lamp" X="-1113.364" Y="5614.308" Z="58.97773" />
+                    <Hotspot Name="cave entrance" X="-1132.605" Y="5717.007" Z="59.0379" />
+                    <Hotspot Name="cave exit" X="-1238.469" Y="5760.129" Z="41.44759" />
+                    <Hotspot Name="hairpin down" X="-1345.044" Y="5794.497" Z="24.46264" />
+                    <Hotspot Name="belongings area" X="-1331.334" Y="5908.983" Z="11.72283" />
+                    <Hotspot Name="Lord Klaq area" X="-1225.594" Y="5821.924" Z="2.705823" />
+                    <Hotspot Name="upper ring west" X="-1195.105" Y="5874.689" Z="33.42945" />
+               </Hotspots>
+           </GrindArea>
+        </SetGrindArea>
+
+        <GrindUntil Condition="GetFactionReputation(970) &gt;= 42999" Nav="Fly" />
+
+        <If Condition="!HasItem(31775)">
+            <If Condition="GetItemCount(24245) &lt; 40">
+                <!-- get glowcaps to buy the Tiny Sporebat first (30), and tabard (10) -->
+                <CustomBehavior File="Message" LogColor="DeepSkyBlue" Text="Collecting 40 Glowcaps to purchase Tiny Sporebat and Sporeggar tabard" />
+                <While Condition="GetItemCount(24245) &lt; 40" >
+                    <CustomBehavior File="InteractWith" MobId="182053" WaitTime="500" CollectionDistance="100" PreInteractMountStrategy="Dismount" >
+                        <HuntingGrounds>
+                            <Hotspot X="264.3096" Y="8548.396" Z="19.32652" />
+                            <Hotspot X="37.09456" Y="8467.272" Z="22.16614" />
+                            <Hotspot X="51.54716" Y="8247.072" Z="19.68765" />
+                            <Hotspot X="-78.59985" Y="8256.303" Z="22.52275" />
+                            <Hotspot X="-194.8239" Y="8415.507" Z="22.05967" />
+                            <Hotspot X="759.6376" Y="7490.848" Z="22.93312" />
+                            <Hotspot X="726.6383" Y="7451.616" Z="22.13844" />
+                            <Hotspot X="814.2993" Y="7334.911" Z="18.74368" />
+                            <Hotspot X="876.7604" Y="7423.715" Z="21.86059" />
+                            <Hotspot X="852.3602" Y="7561.914" Z="21.79051" />
+                            <Hotspot X="816.7776" Y="7694.704" Z="22.01726" />
+                            <Hotspot X="745.2712" Y="7727.497" Z="22.05815" />
+                            <Hotspot X="637.3478" Y="7738.797" Z="21.39376" />
+                            <Hotspot X="766.7106" Y="7862.464" Z="21.487" />
+                            <Hotspot X="717.5608" Y="8151.924" Z="20.22891" />
+                        </HuntingGrounds>
+                    </CustomBehavior>
+                </While>
+            </If>
+
+            <MoveTo Name="Sporeggar Quartermaster" Nav="Fly" X="218.4123" Y="8555.419" Z="22.89634" />
+            <CustomBehavior File="ForcedDismount" />
+            <MoveTo Name="Sporeggar Quartermaster"  X="220.3406" Y="8574.171" Z="24.64432" />
+
+            <!-- Tiny Sporebat -->
+            <If Condition="!HasItem(34478)">
+                <CustomBehavior File="Message" LogColor="DeepSkyBlue" Text="Buying Tiny Sporebat" />
+                <CustomBehavior File="InteractWith" MobId="18382" InteractByBuyingItemId="34478" />
+                <CustomBehavior File="WaitTimer" WaitTime="1000" VariantTime="1500" />
+                <CustomBehavior File="UseItem" ItemId="34478" />
+            </If>
+
+            <!-- Sporeggar Tabard -->
+            <If Condition="!HasItem(31775)">
+                <CustomBehavior File="Message" LogColor="DeepSkyBlue" Text="Buying Sporeggar Tabard" />
+                <CustomBehavior File="InteractWith" MobId="18382" InteractByBuyingItemId="31775" />
+                <CustomBehavior File="WaitTimer" WaitTime="1000" VariantTime="1500" />
+                <CustomBehavior File="EquipItem" ItemId="31775" />
+            </If>
+        </If>
+
+        <CustomBehavior File="UserDialog" AllowBotStop="true" StopOnContinue="true"
+            Text="End of profile.\n\nWe've equipped your new Sporeggar tabard to advance you on the Tabards achievement." />
+
+    </QuestOrder>
+
+</HBProfile>
