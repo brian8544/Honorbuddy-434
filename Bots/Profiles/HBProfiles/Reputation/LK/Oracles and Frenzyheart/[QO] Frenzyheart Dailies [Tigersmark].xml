@@ -1,0 +1,318 @@
+<HBProfile>
+  <Name>Tigermark's Frenzyheart Dalies ($ShortHash$)</Name>
+  <MinLevel>85</MinLevel>
+  <MaxLevel>1001</MaxLevel>
+  <MinDurability>0.2</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <MailGrey>false</MailGrey>
+  <MailWhite>false</MailWhite>
+  <MailGreen>false</MailGreen>
+  <MailBlue>true</MailBlue>
+  <MailPurple>true</MailPurple>
+  <SellGrey>true</SellGrey>
+  <SellWhite>true</SellWhite>
+  <SellGreen>true</SellGreen>
+  <SellBlue>false</SellBlue>
+  <SellPurple>false</SellPurple>
+  <TargetElites>true</TargetElites>
+  <AvoidMobs></AvoidMobs>
+  <Blackspots>
+  </Blackspots>
+  <Mailboxes>
+    </Mailboxes>
+  <Vendors>
+     </Vendors>
+	 
+	 
+	<!-- BEGIN: Quest Overrides -->
+        
+  
+  <QuestOrder>
+	
+	
+<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation"
+	  SoundCueInterval="10" ExpiryTime="30" ExpiryAction="InputEnabled_Continue" Text="Please be aware that this profile was community-made by forum user Tigermark.\n\nyou must have done the quest to choose the FRENZYHEART as your curent friendly faction, you can swap factions by going to a cave at 70,58 and killing the boss at the end of the cave and saving the npc you want to be friendly with" />
+
+		<!-- IF IM IN ORGRIMMAR TRAVEL TO NORTHREND ZEP -->
+		<If Condition="( Me.MapId == 1 ) &amp;&amp; ( Me.ZoneId == 1637 )">
+			<CustomBehavior File="Message" Text="Running to Org Zepp to Borean" LogColor="CornflowerBlue" />
+			<If Condition="Me.MapId == 1 &amp;&amp; CanFly()">
+				<CustomBehavior File="FlyTo" DestName="Borean Tundra Zeppelin" X="1743.162" Y="-4279.574" Z="133.1004" />
+			</If>
+			<MoveTo X="1763.389" Y="-4283.858" Z="133.1073" />
+			<CustomBehavior File="Message" Text="Waiting for Org Zepp to Borean - don't interact!" LogColor="Orange" />
+			<CustomBehavior File="UseTransport" TransportId="186238"
+                            WaitAtX="1763.203" WaitAtY="-4284.529" WaitAtZ="133.1072"
+                            TransportStartX="1775.066" TransportStartY="-4299.745" TransportStartZ="151.0326"
+                            StandOnX="1770.22" StandOnY="-4292.056" StandOnZ="133.1872"
+                            TransportEndX="2837.908" TransportEndY="6187.443" TransportEndZ="140.1648"
+                            GetOffX="2836.831" GetOffY="6185.15" GetOffZ="121.9923" />
+
+		</If>
+			<!-- IF IM IN ORGRIMMAR TRAVEL TO NORTHREND ZEP -->
+		
+		<!-- IF IM IN STORMWIND TRAVEL TO NORTHREND ZEP -->1519
+			<If Condition="( Me.MapId == 0 ) &amp;&amp; ( Me.ZoneId == 1519 )">
+				<CustomBehavior File="FlyTo" DestName="Boat to Valiance Keep, Northrend" X="-8295.161" Y="1406.02" Z="4.405883" />
+				<CustomBehavior File="ForcedDismount" />
+				<CustomBehavior File="UseTransport" TransportId="190536"
+                            WaitAtX="-8295.161" WaitAtY="1406.02" WaitAtZ="4.405883"
+                            StandOnX="-8293.195" StandOnY="1424.703" StandOnZ="0.04"
+                            GetOffX="2231.187" GetOffY="5130.391" GetOffZ="5.343706"
+                            TransportStartX="-8288.816" TransportStartY="1424.703" TransportStartZ="0.04"
+                            TransportEndX="2218.391" TransportEndY="5119.588" TransportEndZ="0.04" />
+			<MoveTo X="2250.308" Y="5180.08" Z="11.77014" />
+			<CustomBehavior File="WaitTimer" WaitTime="5000" />
+			<EnableBehavior Name="Vendor" />
+		</If>
+	
+		<!-- PickUp  Quest -->
+		<If Condition="Me.ZoneId != 3711" >
+		<CustomBehavior File="FlyTo" DestName="Frenzy Dailys" X="5292.872" Y="4510.354" Z="-90.75812" />
+		</If>
+		<!-- Vekgar -->
+	<While Condition="HasQuestAvailable(29146)" > 
+	<CustomBehavior File="FlyTo" DestName="Elder Harkek" X="5292.872" Y="4510.354" Z="-90.75812" />
+		<CustomBehavior File="ForcedDismount" />
+	<CustomBehavior File="InteractWith"  MobId="29146" CollectionDistance="200"
+                        X="5292.872" Y="4510.354" Z="-90.75812" />
+		<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" />
+		<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" />
+    </While>
+	<!-- Vekgar END -->
+	
+		<!-- Rejek -->
+	<While Condition="HasQuestAvailable(29043)" > 
+	<CustomBehavior File="FlyTo" DestName="Elder Harkek" X="5270.12" Y="4501.993" Z="-82.89017" />
+		<CustomBehavior File="ForcedDismount" />
+	<CustomBehavior File="InteractWith"  MobId="29043" CollectionDistance="200"
+                        X="5270.12" Y="4501.993" Z="-82.89017" />
+		<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" />
+		<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" />
+    </While>
+	<!-- Rejek END -->
+	
+	<!-- Elder Harkek -->
+	<While Condition="HasQuestAvailable(28138)" > 
+	<CustomBehavior File="FlyTo" DestName="Elder Harkek" X="5263.772" Y="4511.331" Z="-84.7944" />
+		<CustomBehavior File="ForcedDismount" />
+	<CustomBehavior File="InteractWith"  MobId="28138" CollectionDistance="200"
+                        X="5263.772" Y="4511.331" Z="-84.7944" />
+		<CustomBehavior File="RunMacro" Macro="/click GossipTitleButton1" />
+		<CustomBehavior File="RunMacro" Macro="/click QuestFrameAcceptButton" />
+    </While>
+	<!-- Elder Harkek END -->
+	
+<!-- PickUp  Quest END -->
+
+
+
+<!-- Chicken Party! -->
+<While Condition="HasQuest(12702) &amp;&amp; !IsQuestCompleted(12702)" >
+<CustomBehavior File="InteractWith" QuestId="12702" MobId="28161" NumOfTimes="20" Range="7" CollectionDistance="1000" PreInteractMountStrategy="Dismount"/>
+</While>
+		
+<!-- Kartak's Rampage -->
+<If Condition="HasQuest(12703) &amp;&amp; !IsQuestCompleted(12703)" >	
+<CustomBehavior File="FlyTo" DestName="Kartak's Rampage" X="5133.071" Y="5533.557" Z="-98.09394" />
+	 <SetGrindArea>
+          <GrindArea>
+            <Factions>2064</Factions>
+            <Hotspots>
+<Hotspot X="5133.071" Y="5533.557" Z="-98.09394" />
+<Hotspot X="5094.854" Y="5559.808" Z="-98.09394" />
+<Hotspot X="5062.163" Y="5539.74" Z="-98.09394" />
+<Hotspot X="5072.748" Y="5508.904" Z="-97.94775" />
+<Hotspot X="5109.683" Y="5486.325" Z="-94.0744" />
+<Hotspot X="5182.459" Y="5481.918" Z="-87.59515" />
+<Hotspot X="5199.49" Y="5486.776" Z="-88.04276" />
+            </Hotspots>
+          </GrindArea>
+    </SetGrindArea>
+        <GrindUntil Condition="IsQuestCompleted(12703)" Name="Quest complete" />
+<Objective QuestName="Kartak's Rampage" QuestId="12703" Type="KillMob" MobId="28111" KillCount="50" />
+</If>
+
+<!-- Tools of War" QuestId="12759" -->
+<If Condition="((HasQuest(12759)) &amp;&amp; (!IsQuestCompleted(12759)))" >
+
+	<CustomBehavior File="FlyTo" DestName="Tools Of War" X="5120.553" Y="5538.736" Z="-98.09517" />
+	 <SetGrindArea>
+          <GrindArea>
+            <Factions>2064</Factions>
+            <Hotspots>
+			<Hotspot X="5143.319" Y="5510.414" Z="-98.0942" />
+			<Hotspot X="5100.079" Y="5497.032" Z="-93.43121" />
+			<Hotspot X="5096.528" Y="5576.806" Z="-96.05309" />
+			<Hotspot X="5085.949" Y="5632.463" Z="-87.25864" />
+			<Hotspot X="5042.046" Y="5684.488" Z="-89.66121" />
+            </Hotspots>
+          </GrindArea>
+    </SetGrindArea>
+        <GrindUntil Condition="IsQuestCompleted(12759)" Name="Quest complete" />
+<Objective QuestName="Tools of War" QuestId="12759" Type="KillMob" MobId="28112" KillCount="50" />
+</If>
+
+<!-- Secret Strength of the Frenzyheart -->
+<While Condition="HasQuest(12760) &amp;&amp; !IsQuestCompleted(12760)" >
+<CustomBehavior File="FlyTo" DestName="Secret Strength of the Frenzyheart" X="5116.984" Y="5538.782" Z="-98.0945" />
+		<CustomBehavior File="ForcedDismount" />
+<Objective QuestName="Secret Strength of the Frenzyheart" QuestId="12760" Type="KillMob" MobId="28111" KillCount="30" />
+</While>
+
+<!-- The Heartblood's Strength -->
+	<If Condition="((HasQuest(12732)) &amp;&amp; (!IsQuestCompleted(12732)))" >
+	
+	
+<If Condition="(HasItem(39574))" >
+<CustomBehavior File="FlyTo" DestName="Suntouched Pillar" X="5767.794" Y="5461.04" Z="199.8376" />
+		<CustomBehavior File="ForcedDismount" />
+<CustomBehavior File="WaitTimer" WaitTime="2000"/>
+        <UseItem QuestId="12732" ItemId="39574" X="5767.794" Y="5461.04" Z="199.8376" WaitTime="5000"/>
+      </If>
+	  
+	   <If Condition="(!HasItem(39573))" >
+<CustomBehavior File="FlyTo" DestName="Goretalon Matriarch" X="6596.428" Y="4332.635" Z="50.22345" />
+		<CustomBehavior File="ForcedDismount" />
+<Objective QuestName="The Heartblood's Strength" QuestId="12732" Type="KillMob" MobId="29044" KillCount="1" />
+      </If>
+	 <While Condition="(!HasItem(39573))" >
+	 <CustomBehavior File="RunMacro" Macro="/cast suntouched water" />
+	 </While>
+</If>
+
+<!-- Strength of the Tempest-->
+<While Condition="HasQuest(12741) &amp;&amp; !IsQuestCompleted(12741)" >	
+<CustomBehavior File="FlyTo"  X="6205.605" Y="5906.007" Z="54.54534" />
+		<CustomBehavior File="ForcedDismount" />
+		
+		
+		
+		<While Condition="(GetItemCount(39643) &lt; 3) &amp;&amp; (!IsQuestCompleted(12741))" > <!-- essence of storm -->
+<Objective QuestName="Strength of the Tempest" QuestId="12741" Type="CollectItem" ItemId="39643" CollectCount="3" >
+      <CollectFrom>
+	          <Mob Name="Storm Revenant" Id="28858"/>
+      </CollectFrom>
+      <Hotspots>
+      </Hotspots>
+    </Objective>	
+	</While>
+	
+<While Condition="(GetItemCount(39616) &lt; 3) &amp;&amp; (!IsQuestCompleted(12741))" > <!-- essence of monsoon -->
+<Objective QuestName="Strength of the Tempest" QuestId="12741" Type="CollectItem" ItemId="39616" CollectCount="3" />
+</While>
+
+
+	
+<If Condition="((GetItemCount(39643) &gt; 2) &amp;&amp; (GetItemCount(39616) &gt; 2) &amp;&amp; (!IsQuestCompleted(12741)))" >
+<DisableBehavior Name="Combat" />
+<RunTo X="6310.808" Y="5947.593" Z="81.88779" />
+		<CustomBehavior File="ForcedDismount" />
+		<CustomBehavior File="WaitTimer" WaitTime="5000"/>
+		<EnableBehavior Name="Combat" />
+</If></While>
+
+
+		
+<!-- Rejek: First Blood -->
+<While Condition="HasQuest(12734) &amp;&amp; !IsQuestCompleted(12734)" >	
+			<CustomBehavior File="InteractWith" QuestId="12734" MobId="28109" NumOfTimes="3" MobState="dead" TerminateWhen="IsObjectiveComplete(3, 12734)" 
+											InteractByUsingItemId="39577" CollectionDistance="200" PreInteractMountStrategy="Dismount" >
+				<HuntingGrounds WaypointVisitStrategy="InOrder" >
+				<Hotspot X="6205.038" Y="4962.345" Z="-98.9519" />
+				</HuntingGrounds>
+			</CustomBehavior>
+			<CustomBehavior File="InteractWith" QuestId="12734" MobId="28086" NumOfTimes="1" MobState="dead" TerminateWhen="IsObjectiveComplete(1, 12734)" 
+											InteractByUsingItemId="39577" CollectionDistance="200" PreInteractMountStrategy="Dismount" >
+				<HuntingGrounds WaypointVisitStrategy="InOrder" >
+				<Hotspot X="5002.05" Y="4332.743" Z="-78.15467" />
+				</HuntingGrounds>
+			</CustomBehavior>
+			
+			<CustomBehavior File="InteractWith" QuestId="12734" MobId="28096" NumOfTimes="1" MobState="dead" TerminateWhen="IsObjectiveComplete(2, 12734)" 
+											InteractByUsingItemId="39577" CollectionDistance="200" PreInteractMountStrategy="Dismount" >
+				<HuntingGrounds WaypointVisitStrategy="InOrder" >
+				<Hotspot X="5117.929" Y="4082.91" Z="-62.37056" />
+				</HuntingGrounds>
+			</CustomBehavior>
+		</While>
+
+<!-- A Hero's Headgear QuestId="12758"-->
+<While Condition="HasQuest(12758) &amp;&amp; !IsQuestCompleted(12758)" >
+<If Condition="!HasItem(39651)" > 
+ <CustomBehavior File="FlyTo" DestName="Going to get Bomb" X="5913.712" Y="5324.285" Z="-95.82764" />
+
+
+			<CustomBehavior File="ForcedDismount" />
+    <SetGrindArea>
+          <GrindArea>
+            <Factions>14</Factions>
+            <Hotspots>
+			<Hotspot X="5913.712" Y="5324.285" Z="-95.82764" />
+<Hotspot X="5867.422" Y="5329.753" Z="-92.01418" />
+<Hotspot X="5822.358" Y="5319.17" Z="-97.72128" />
+            </Hotspots>
+          </GrindArea>
+    </SetGrindArea>
+        <GrindUntil Condition="HasItem(39651)" Name="have bomb" />
+		</If>
+		
+		<CustomBehavior File="InteractWith" QuestId="12758" MobId="28877" InteractByUsingItemId="39651"
+                          MobState="Dead" PreInteractMountStrategy="Dismount" Range="2" CollectionDistance="100"
+                          X="6282.672" Y="5782.272" Z="47.22879" />
+						  
+		<CustomBehavior File="InteractWith" QuestId="12758" MobId="191179" 
+                         PreInteractMountStrategy="Dismount" Range="2" CollectionDistance="100"/>
+		
+		
+		</While>
+		
+<!-- Turn In Quests -->
+<If Condition="((HasQuest(12759)) &amp;&amp; (IsQuestCompleted(12759)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="4869.281" Y="5912.271" Z="-40.4683" />
+<TurnIn QuestName="Secret Strength of the Frenzyheart" QuestId="12759" TurnInName="Shaman Jakjek" TurnInId="28106" X="4869.281" Y="5912.271" Z="-40.4683" />
+</If>
+
+<If Condition="((HasQuest(12703)) &amp;&amp; (IsQuestCompleted(12703)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="4869.281" Y="5912.271" Z="-40.4683" />
+<TurnIn QuestName="Kartak's Rampage" QuestId="12703" TurnInName="Shaman Jakjek" TurnInId="28106" X="4869.281" Y="5912.271" Z="-40.4683" />
+</If>
+
+<If Condition="((HasQuest(12758)) &amp;&amp; (IsQuestCompleted(12758)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="5263.772" Y="4511.331" Z="-84.7944" />
+<TurnIn QuestName="A Hero's Headgear" QuestId="12758" TurnInName="Rejek" TurnInId="29043" X="5263.772" Y="4511.331" Z="-84.7944" />
+</If>
+
+<If Condition="((HasQuest(12741)) &amp;&amp; (IsQuestCompleted(12741)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="5263.772" Y="4511.331" Z="-84.7944" />
+<TurnIn QuestName="Strength of the Tempest" QuestId="12741" TurnInName="Rejek" TurnInId="29043" X="5263.772" Y="4511.331" Z="-84.7944" />
+</If>
+
+<If Condition="((HasQuest(12732)) &amp;&amp; (IsQuestCompleted(12732)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="5263.772" Y="4511.331" Z="-84.7944" />
+<TurnIn QuestName="The Heartblood's Strength" QuestId="12732" TurnInName="Rejek" TurnInId="29043" X="5263.772" Y="4511.331" Z="-84.7944" />
+</If>
+
+<If Condition="((HasQuest(12760)) &amp;&amp; (IsQuestCompleted(12760)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="4869.281" Y="5912.271" Z="-40.4683" />
+<TurnIn QuestName="Secret Strength of the Frenzyheart" QuestId="12760" TurnInName="Shaman Jakjek" TurnInId="28106" X="4869.281" Y="5912.271" Z="-40.4683" />
+</If>
+
+<If Condition="((HasQuest(12734)) &amp;&amp; (IsQuestCompleted(12734)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="5270.12" Y="4501.993" Z="-82.89011" />
+<TurnIn QuestName="Rejek: First Blood" QuestId="12734" TurnInName="Rejek" TurnInId="29043" X="5270.12" Y="4501.993" Z="-82.89011" />
+</If>
+
+<If Condition="((HasQuest(12702)) &amp;&amp; (IsQuestCompleted(12702)))" >	
+	<CustomBehavior File="FlyTo" DestName="Frenzyheart Dailys" X="5263.772" Y="4511.331" Z="-84.7944" />
+<TurnIn QuestName="Chicken Party!" QuestId="12702" TurnInName="Elder Harkek" TurnInId="28138" X="5263.772" Y="4511.331" Z="-84.7944" />
+</If>
+
+<CustomBehavior File="UserDialog" AllowBotStop="True" SoundCue="Exclamation"
+	  SoundCueInterval="10" ExpiryTime="30" ExpiryAction="InputEnabled_Continue" Text="FRENZYHEART PROFILE IS FINISHED" />
+	  
+	 <CustomBehavior File="LoadProfile" RememberProfile="True" ProfileName="[H] KALUAK" />
+	
+
+	</QuestOrder>
+    </HBProfile>

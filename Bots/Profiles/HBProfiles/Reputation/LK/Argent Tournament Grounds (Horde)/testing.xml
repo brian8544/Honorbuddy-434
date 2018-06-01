@@ -1,0 +1,50 @@
+﻿<HBProfile xsi:noNamespaceSchemaLocation="../../../Schemas/QuestProfileSchema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- Created by Zikke. version 1.1 -->
+    <Name>Pit of Saron Trash Endless Farm ($ShortHash$)</Name>
+
+    <MinLevel>1</MinLevel>
+    <MaxLevel>1001</MaxLevel>
+
+    <MinDurability>0.2</MinDurability>
+    <MinFreeBagSlots>0</MinFreeBagSlots>
+
+    <SellGrey>true</SellGrey>
+    <SellWhite>false</SellWhite>
+    <SellGreen>false</SellGreen>
+    <MailWhite>true</MailWhite>
+    <MailGreen>true</MailGreen>
+    <MailBlue>true</MailBlue>
+    <MailPurple>true</MailPurple>
+
+    <TargetElites>true</TargetElites>
+
+    <AvoidMobs>
+        <Mob Name="Summon Enabler Stalker" Id="53488" />
+    </AvoidMobs>
+
+    <Blackspots>
+<Blackspot X="6420.105" Y="2363.119" Z="469.7899" Radius="20" />
+    </Blackspots>
+
+    <Mailboxes>
+    <Mailbox X="1607.681" Y="-4424.809" Z="13.6011" />
+    </Mailboxes>
+
+    <Vendors>
+    </Vendors>
+
+    <Factions></Factions>
+
+    <QuestOrder>
+
+        <While Condition="((HasQuest(14092)) &amp;&amp; (!IsQuestCompleted(14092)))" >
+    <CustomBehavior File="InteractWith" QuestId="14092" InteractByUsingItemId="46893" MobId="195309" />
+    <!--<CustomBehavior File="CollectThings" MobId="34920" CollectItemCount="1" CollectItemId="46889" />-->
+      </While>
+
+    </QuestOrder>
+
+    <ProtectedItems>
+    </ProtectedItems>
+
+</HBProfile>
